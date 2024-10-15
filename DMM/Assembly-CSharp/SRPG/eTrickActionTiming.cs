@@ -1,0 +1,19 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: SRPG.eTrickActionTiming
+// Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: DAD16919-792A-4B52-A355-9FC67E79AC85
+// Assembly location: C:\r\Tagatame-Datamine\DMM\Il2CppDumper\DummyDll\Assembly-CSharp.dll
+
+using Il2CppDummyDll;
+
+#nullable disable
+namespace SRPG
+{
+  [Token(Token = "0x20011D9")]
+  public enum eTrickActionTiming
+  {
+    [Token(Token = "0x40040DD")] UNKNOWN,
+    [Token(Token = "0x40040DE")] TURN_START,
+    [Token(Token = "0x40040DF")] TURN_END,
+  }
+}
