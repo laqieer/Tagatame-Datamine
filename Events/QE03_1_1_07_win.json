@@ -1,0 +1,61 @@
+{
+    "Name": "QE03_1_1_07_win",
+    "Bundle": "17c00bec",
+    "Path": "assets/resources/events/qe03_1_1_07_win.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "rebe",
+            "UnitID": "UN_EV_REBECCA",
+            "TextID": "QE03_1_1_07_win.001",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "ev_reve_suffer",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "liz",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_1_1_07_win.002",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "rebe",
+            "UnitID": "UN_EV_REBECCA",
+            "TextID": "QE03_1_1_07_win.003",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "ev_reve_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "rebe",
+            "UnitID": "UN_EV_REBECCA",
+            "TextID": "QE03_1_1_07_win.004",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "ev_reve_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "rebe"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

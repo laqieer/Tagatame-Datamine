@@ -1,0 +1,44 @@
+{
+    "Name": "QE01_3_1_09_win",
+    "Bundle": "9f001e61",
+    "Path": "assets/resources/events/qe01_3_1_09_win.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "blue_sol",
+            "UnitID": "UN_BLUE_FLAME_KNIGHT",
+            "TextID": "QE01_3_1_09_win.001",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "log",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE01_3_1_09_win.002",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "blue_sol"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "log"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

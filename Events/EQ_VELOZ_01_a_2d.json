@@ -1,0 +1,1884 @@
+{
+    "Name": "EQ_VELOZ_01_a_2d",
+    "Bundle": "343cbbb2",
+    "Path": "assets/resources/events/eq_veloz_01_a_2d.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "bg18",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "vel",
+            "Flip": 0,
+            "Position": 3,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -6081325230399579868
+            },
+            "Emotion": "normal2"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "fio",
+            "Flip": 0,
+            "Position": 6,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 7683785245802554535
+            },
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "eth",
+            "Flip": 0,
+            "Position": 6,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 1976571142915683872
+            },
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "edw",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 2454851116743950791
+            },
+            "Emotion": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "alv",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 7094633370687600550
+            },
+            "Emotion": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "sol",
+            "Flip": 1,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 566972581638653539
+            },
+            "Emotion": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.001",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.002",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.003",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "vel"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "fio",
+            "MoveTime": 0.699999988079071,
+            "MoveTo": 4
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.004",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "vel",
+            "MoveTime": 0.30000001192092896,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.005",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.006",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.007",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.008",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.009",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.010",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.011",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.012",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.013",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.014",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.015",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.016",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.017",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "eth",
+            "MoveTime": 0.5,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.018",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.019",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.020",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.021",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.022",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.023",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.024",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.025",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.026",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.027",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.028",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.029",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.030",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.031",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.032",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.033",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.034",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.035",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.036",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.037",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.038",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.039",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.040",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.041",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.042",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.043",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.044",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.045",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.046",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.047",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.048",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9107"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 2.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9107"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 2.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9107"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "fio",
+            "MoveTime": 0.5,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.049",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.050",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.051",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.052",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.053",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.054",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.055",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.056",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.057",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.058",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.059",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.060",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.061",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "eth",
+            "MoveTime": 0.5,
+            "MoveTo": 6
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "fio",
+            "MoveTime": 0.699999988079071,
+            "MoveTo": 6
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "2005"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "2005"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "vel",
+            "MoveTime": 0.5,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "2005"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.062",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "bg17",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "vel",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "fio",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "eth",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "sol",
+            "MoveTime": 0.0,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "alv",
+            "MoveTime": 0.0,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "sol",
+            "UnitID": "UN_SOLDIER",
+            "TextID": "EQ_VELOZ_01_a_2d.063",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "alv",
+            "UnitID": "UN_V2_EN_ALVAREZ",
+            "TextID": "EQ_VELOZ_01_a_2d.064",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "alv",
+            "UnitID": "UN_V2_EN_ALVAREZ",
+            "TextID": "EQ_VELOZ_01_a_2d.065",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "sol",
+            "UnitID": "UN_SOLDIER",
+            "TextID": "EQ_VELOZ_01_a_2d.066",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "alv",
+            "UnitID": "UN_V2_EN_ALVAREZ",
+            "TextID": "EQ_VELOZ_01_a_2d.067",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "bg29",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "vel",
+            "MoveTime": 0.0,
+            "MoveTo": 4
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "fio",
+            "MoveTime": 0.0,
+            "MoveTo": 6
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "sol",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "alv",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.068",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "fio",
+            "MoveTime": 0.30000001192092896,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.069",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "vel",
+            "MoveTime": 0.30000001192092896,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.070",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.071",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.072",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.073",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.074",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.075",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.076",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.077",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.078",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.079",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.080",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.081",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.082",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.083",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.084",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.085",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.086",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.087",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.088",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.089",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.090",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.091",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.092",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.093",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.094",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.095",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.096",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "fio",
+            "UnitID": "UN_EV_FIONA_CHILD",
+            "TextID": "EQ_VELOZ_01_a_2d.097",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "bg18",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "vel",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "fio",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "eth",
+            "MoveTime": 0.0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "edw",
+            "MoveTime": 0.0,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.098",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "edw",
+            "UnitID": "UN_EV_EDWARD",
+            "TextID": "EQ_VELOZ_01_a_2d.099",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "vel",
+            "MoveTime": 0.5,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.100",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.101",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "edw",
+            "UnitID": "UN_EV_EDWARD",
+            "TextID": "EQ_VELOZ_01_a_2d.102",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.103",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.104",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "edw",
+            "UnitID": "UN_EV_EDWARD",
+            "TextID": "EQ_VELOZ_01_a_2d.105",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.106",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.107",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.108",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.109",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "edw",
+            "UnitID": "UN_EV_EDWARD",
+            "TextID": "EQ_VELOZ_01_a_2d.110",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.111",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.112",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.113",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.114",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "edw",
+            "UnitID": "UN_EV_EDWARD",
+            "TextID": "EQ_VELOZ_01_a_2d.115",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "edw",
+            "UnitID": "UN_EV_EDWARD",
+            "TextID": "EQ_VELOZ_01_a_2d.116",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.117",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "edw",
+            "UnitID": "UN_EV_EDWARD",
+            "TextID": "EQ_VELOZ_01_a_2d.118",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.119",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "edw",
+            "UnitID": "UN_EV_EDWARD",
+            "TextID": "EQ_VELOZ_01_a_2d.120",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "edw",
+            "UnitID": "UN_EV_EDWARD",
+            "TextID": "EQ_VELOZ_01_a_2d.121",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "edw",
+            "UnitID": "UN_EV_EDWARD",
+            "TextID": "EQ_VELOZ_01_a_2d.122",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.123",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "edw",
+            "UnitID": "UN_EV_EDWARD",
+            "TextID": "EQ_VELOZ_01_a_2d.124",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "edw",
+            "UnitID": "UN_EV_EDWARD",
+            "TextID": "EQ_VELOZ_01_a_2d.125",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "edw",
+            "UnitID": "UN_EV_EDWARD",
+            "TextID": "EQ_VELOZ_01_a_2d.126",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.127",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "eth",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "EQ_VELOZ_01_a_2d.128",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.129",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "edw",
+            "UnitID": "UN_EV_EDWARD",
+            "TextID": "EQ_VELOZ_01_a_2d.130",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.131",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "vel",
+            "UnitID": "UN_V2_VELOZ",
+            "TextID": "EQ_VELOZ_01_a_2d.132",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 3.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

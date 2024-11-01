@@ -1,0 +1,578 @@
+{
+    "Name": "CQ_DENEB_03_b_2d",
+    "Bundle": "229e88cd",
+    "Path": "assets/resources/events/cq_deneb_03_b_2d.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "bg46",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "de",
+            "Flip": 0,
+            "Position": 6,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 8865151220185630023
+            },
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "iv",
+            "Flip": 0,
+            "Position": 6,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 3709124677655773516
+            },
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kyu",
+            "Flip": 0,
+            "Position": 3,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -2094187828052493088
+            },
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "sa",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -8166566368073866424
+            },
+            "Emotion": "sad",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "sa",
+            "FadeTime": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0031"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "sa",
+            "UnitID": "UN_V2_EN_COURT_WIZARD",
+            "TextID": "CQ_DENEB_03_b_2d.001",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9134"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "sa",
+            "Flip": 0,
+            "Position": 1,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -8166566368073866424
+            },
+            "Emotion": "sad",
+            "Async": 0,
+            "Fade": 1,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "sa",
+            "UnitID": "UN_EV_RESENT_CUSTOMER",
+            "TextID": "CQ_DENEB_03_b_2d.002",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "SE_2005",
+            "Loop": 1,
+            "Interval": 0.4000000059604645,
+            "Count": 3,
+            "async": 1,
+            "SE_ID": "2005"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "sa",
+            "MoveTime": 0.800000011920929,
+            "async": 1,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "SE_2005",
+            "Loop": 1,
+            "Interval": 0.4000000059604645,
+            "Count": 3,
+            "async": 1,
+            "SE_ID": "2005"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "kyu",
+            "MoveTime": 0.800000011920929,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.800000011920929
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "SE_2005",
+            "Loop": 1,
+            "Interval": 0.4000000059604645,
+            "Count": 4,
+            "async": 1,
+            "SE_ID": "2005"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "iv",
+            "MoveTime": 1.2000000476837158,
+            "async": 1,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.4000000059604645
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "SE_2005",
+            "Loop": 1,
+            "Interval": 0.4000000059604645,
+            "Count": 3,
+            "async": 1,
+            "SE_ID": "2005"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "de",
+            "MoveTime": 0.800000011920929,
+            "async": 0,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "iv",
+            "UnitID": "UN_V2_EVE",
+            "TextID": "CQ_DENEB_03_b_2d.003",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "iv",
+            "UnitID": "UN_V2_EVE",
+            "TextID": "CQ_DENEB_03_b_2d.004",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "de",
+            "UnitID": "UN_V2_DENEB",
+            "TextID": "CQ_DENEB_03_b_2d.005",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "2005"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "iv",
+            "MoveTime": 0.4000000059604645,
+            "async": 1,
+            "MoveTo": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "iv",
+            "UnitID": "UN_V2_EVE",
+            "TextID": "CQ_DENEB_03_b_2d.006",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "de",
+            "UnitID": "UN_V2_DENEB",
+            "TextID": "CQ_DENEB_03_b_2d.007",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "SE_2005",
+            "Loop": 1,
+            "Interval": 0.6000000238418579,
+            "Count": 2,
+            "async": 1,
+            "SE_ID": "2005"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "iv",
+            "MoveTime": 0.6000000238418579,
+            "async": 1,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "iv",
+            "UnitID": "UN_V2_EVE",
+            "TextID": "CQ_DENEB_03_b_2d.008",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "de",
+            "UnitID": "UN_V2_DENEB",
+            "TextID": "CQ_DENEB_03_b_2d.009",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "iv",
+            "UnitID": "UN_V2_EVE",
+            "TextID": "CQ_DENEB_03_b_2d.010",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "de",
+            "UnitID": "UN_V2_DENEB",
+            "TextID": "CQ_DENEB_03_b_2d.011",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "iv",
+            "UnitID": "UN_V2_EVE",
+            "TextID": "CQ_DENEB_03_b_2d.012",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "de",
+            "UnitID": "UN_V2_DENEB",
+            "TextID": "CQ_DENEB_03_b_2d.013",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "de",
+            "UnitID": "UN_V2_DENEB",
+            "TextID": "CQ_DENEB_03_b_2d.014",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "de",
+            "UnitID": "UN_V2_DENEB",
+            "TextID": "CQ_DENEB_03_b_2d.015",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "de",
+            "UnitID": "UN_V2_DENEB",
+            "TextID": "CQ_DENEB_03_b_2d.016",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "iv",
+            "UnitID": "UN_V2_EVE",
+            "TextID": "CQ_DENEB_03_b_2d.017",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "de",
+            "UnitID": "UN_V2_DENEB",
+            "TextID": "CQ_DENEB_03_b_2d.018",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "iv",
+            "UnitID": "UN_V2_EVE",
+            "TextID": "CQ_DENEB_03_b_2d.019",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "iv",
+            "UnitID": "UN_V2_EVE",
+            "TextID": "CQ_DENEB_03_b_2d.020",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "de",
+            "UnitID": "UN_V2_DENEB",
+            "TextID": "CQ_DENEB_03_b_2d.021",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "de",
+            "UnitID": "UN_V2_DENEB",
+            "TextID": "CQ_DENEB_03_b_2d.022",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "de",
+            "UnitID": "UN_V2_DENEB",
+            "TextID": "CQ_DENEB_03_b_2d.023",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 3.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "de",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "iv",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "sa",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kyu",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/2D/demo_cut_deneb",
+            "ObjectID": "demo_cut",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Order": 0,
+            "CharaID": "",
+            "ChildOrder": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 9.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

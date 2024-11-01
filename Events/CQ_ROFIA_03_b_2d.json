@@ -1,0 +1,550 @@
+{
+    "Name": "CQ_ROFIA_03_b_2d",
+    "Bundle": "f8e219d7",
+    "Path": "assets/resources/events/cq_rofia_03_b_2d.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "bg47",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_ROFIA",
+            "Flip": 0,
+            "Position": 2,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 8743051688495555403
+            },
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_MICHAEL",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 3897769414077877724
+            },
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_SOLDIER",
+            "Flip": 0,
+            "Position": 4,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 4608839404544479721
+            },
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0028"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 1,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9037"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_ROFIA",
+            "UnitID": "UN_V2_ROFIA",
+            "TextID": "CQ_ROFIA_03_b_2d.001",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_SOLDIER",
+            "UnitID": "UN_SOLDIER",
+            "TextID": "CQ_ROFIA_03_b_2d.002",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_ROFIA",
+            "UnitID": "UN_V2_ROFIA",
+            "TextID": "CQ_ROFIA_03_b_2d.003",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_ROFIA",
+            "UnitID": "UN_V2_ROFIA",
+            "TextID": "CQ_ROFIA_03_b_2d.004",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_ROFIA",
+            "UnitID": "UN_V2_ROFIA",
+            "TextID": "CQ_ROFIA_03_b_2d.005",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_ROFIA",
+            "UnitID": "UN_V2_ROFIA",
+            "TextID": "CQ_ROFIA_03_b_2d.006",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_V2_ROFIA",
+            "MoveTime": 0.0,
+            "MoveTo": 6
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_MICHAEL",
+            "MoveTime": 0.0,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_SOLDIER",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "2006"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "2006"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_ROFIA",
+            "MoveTime": 0.5,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "2006"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_ROFIA",
+            "UnitID": "UN_V2_ROFIA",
+            "TextID": "CQ_ROFIA_03_b_2d.007",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_MICHAEL",
+            "UnitID": "UN_V2_MICHAEL",
+            "TextID": "CQ_ROFIA_03_b_2d.008",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_ROFIA",
+            "UnitID": "UN_V2_ROFIA",
+            "TextID": "CQ_ROFIA_03_b_2d.009",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_MICHAEL",
+            "UnitID": "UN_V2_MICHAEL",
+            "TextID": "CQ_ROFIA_03_b_2d.010",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_MICHAEL",
+            "UnitID": "UN_V2_MICHAEL",
+            "TextID": "CQ_ROFIA_03_b_2d.011",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_MICHAEL",
+            "UnitID": "UN_V2_MICHAEL",
+            "TextID": "CQ_ROFIA_03_b_2d.012",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_ROFIA",
+            "UnitID": "UN_V2_ROFIA",
+            "TextID": "CQ_ROFIA_03_b_2d.013",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_ROFIA",
+            "UnitID": "UN_V2_ROFIA",
+            "TextID": "CQ_ROFIA_03_b_2d.014",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_MICHAEL",
+            "UnitID": "UN_V2_MICHAEL",
+            "TextID": "CQ_ROFIA_03_b_2d.015",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_MICHAEL",
+            "UnitID": "UN_V2_MICHAEL",
+            "TextID": "CQ_ROFIA_03_b_2d.016",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "9134"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_MICHAEL",
+            "MoveTime": 0.5,
+            "MoveTo": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_ROFIA",
+            "UnitID": "UN_V2_ROFIA",
+            "TextID": "CQ_ROFIA_03_b_2d.017",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_MICHAEL",
+            "UnitID": "UN_V2_MICHAEL",
+            "TextID": "CQ_ROFIA_03_b_2d.018",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_ROFIA",
+            "UnitID": "UN_V2_ROFIA",
+            "TextID": "CQ_ROFIA_03_b_2d.019",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_ROFIA",
+            "UnitID": "UN_V2_ROFIA",
+            "TextID": "CQ_ROFIA_03_b_2d.020",
+            "Emotion": "shy",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 2.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_ROFIA",
+            "FadeTime": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_MICHAEL",
+            "FadeTime": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_SOLDIER",
+            "FadeTime": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 1,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "demo_cut_rofia",
+            "ObjectID": "rofia",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 0.0,
+                        "inSlope": 1.0,
+                        "outSlope": 1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 1.0,
+                        "inSlope": 1.0,
+                        "outSlope": 1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 0
+            },
+            "CanvasID": "rofia",
+            "Time": 0.0,
+            "async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 5.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 1.0,
+                        "inSlope": -1.0,
+                        "outSlope": -1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 0.0,
+                        "inSlope": -1.0,
+                        "outSlope": -1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 0
+            },
+            "CanvasID": "rofia",
+            "Time": 0.0,
+            "async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

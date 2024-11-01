@@ -1,0 +1,688 @@
+{
+    "Name": "CQ_TAMAMO_01_a_2d",
+    "Bundle": "3ab44049",
+    "Path": "assets/resources/events/cq_tamamo_01_a_2d.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "bg02",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tama",
+            "Flip": 0,
+            "Position": 3,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 6095112708440690700
+            },
+            "Emotion": "normal3",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "haya",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 8234067017007608490
+            },
+            "Emotion": "angry",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0033"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_TAMAMO_01_a_2d.001",
+            "Emotion": "normal3",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "kon",
+            "UnitID": "UN_EV_CONN",
+            "TextID": "CQ_TAMAMO_01_a_2d.002",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_TAMAMO_01_a_2d.003",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_TAMAMO_01_a_2d.004",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9023"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "tama",
+            "MoveTime": 0.6000000238418579,
+            "async": 0,
+            "MoveTo": 6
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "3100"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.20000000298023224
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.20000000298023224
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "???",
+            "UnitID": "UN_EV_UNKNOWN",
+            "TextID": "CQ_TAMAMO_01_a_2d.005",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "bg02",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "7098"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "tama",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 1,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/2D/2deff_tamasmoke",
+            "ObjectID": "smoke",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.6000000238418579,
+                "y": 0.0
+            },
+            "Order": 2,
+            "CharaID": "",
+            "ChildOrder": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "haya",
+            "FadeTime": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "haya",
+            "Flip": 0,
+            "Position": 5,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 8234067017007608490
+            },
+            "Emotion": "angry",
+            "Async": 0,
+            "Fade": 1,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "haya",
+            "UnitID": "UN_V2_HAYATE",
+            "TextID": "CQ_TAMAMO_01_a_2d.006",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_TAMAMO_01_a_2d.007",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "haya",
+            "UnitID": "UN_V2_HAYATE",
+            "TextID": "CQ_TAMAMO_01_a_2d.008",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_TAMAMO_01_a_2d.009",
+            "Emotion": "normal3",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "haya",
+            "UnitID": "UN_V2_HAYATE",
+            "TextID": "CQ_TAMAMO_01_a_2d.010",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_TAMAMO_01_a_2d.011",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "haya",
+            "UnitID": "UN_V2_HAYATE",
+            "TextID": "CQ_TAMAMO_01_a_2d.012",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "2000"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "tama",
+            "MoveTime": 0.20000000298023224,
+            "async": 0,
+            "MoveTo": 2
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "2000"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_TAMAMO_01_a_2d.013",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "haya",
+            "UnitID": "UN_V2_HAYATE",
+            "TextID": "CQ_TAMAMO_01_a_2d.014",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_TAMAMO_01_a_2d.015",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "haya",
+            "UnitID": "UN_V2_HAYATE",
+            "TextID": "CQ_TAMAMO_01_a_2d.016",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_TAMAMO_01_a_2d.017",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "haya",
+            "UnitID": "UN_V2_HAYATE",
+            "TextID": "CQ_TAMAMO_01_a_2d.018",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "tama",
+            "Emotion": "normal3"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9023"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "haya",
+            "MoveTime": 0.5,
+            "async": 1,
+            "MoveTo": 6
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.4000000059604645
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "9023"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "tama",
+            "MoveTime": 0.800000011920929,
+            "async": 1,
+            "MoveTo": 6
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "bg08",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9023"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "haya",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "tama",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 1,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "9023"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "haya",
+            "MoveTime": 0.4000000059604645,
+            "async": 0,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "9023"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "tama",
+            "MoveTime": 0.5,
+            "async": 0,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "haya",
+            "UnitID": "UN_V2_HAYATE",
+            "TextID": "CQ_TAMAMO_01_a_2d.019",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_TAMAMO_01_a_2d.020",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "haya",
+            "UnitID": "UN_V2_HAYATE",
+            "TextID": "CQ_TAMAMO_01_a_2d.021",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_TAMAMO_01_a_2d.022",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "haya",
+            "UnitID": "UN_V2_HAYATE",
+            "TextID": "CQ_TAMAMO_01_a_2d.023",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_TAMAMO_01_a_2d.024",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "haya",
+            "UnitID": "UN_V2_HAYATE",
+            "TextID": "CQ_TAMAMO_01_a_2d.025",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "BGM": "0036"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_TAMAMO_01_a_2d.026",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "3504_a"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "haya",
+            "UnitID": "UN_V2_HAYATE",
+            "TextID": "CQ_TAMAMO_01_a_2d.027",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 3.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

@@ -1,0 +1,670 @@
+{
+    "Name": "EQ_SOUSEI_03_04_b_2d",
+    "Bundle": "7f585f0b",
+    "Path": "assets/resources/events/eq_sousei_03_04_b_2d.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "bg184",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "ien",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -2372736281122246179
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "nim",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 6137440438678111986
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "nik",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 8530400907533748234
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "wag",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -3594198535830792299
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "dan",
+            "Flip": 1,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 543371077083264083
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "dan2",
+            "Flip": 1,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 543371077083264083
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0156"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "dan",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 1,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "dan2",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 5,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 0.0,
+                        "inSlope": 1.0,
+                        "outSlope": 1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 1.0,
+                        "inSlope": 1.0,
+                        "outSlope": 1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+            },
+            "CanvasID": "dark_phantom_aura",
+            "Time": 0.0,
+            "async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "dan",
+            "Duration": 0.20000000298023224,
+            "FrequencyX": 15.0,
+            "FrequencyY": 0.0,
+            "AmplitudeX": 0.05000000074505806,
+            "AmplitudeY": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "dan2",
+            "Duration": 0.20000000298023224,
+            "FrequencyX": 15.0,
+            "FrequencyY": 0.0,
+            "AmplitudeX": 0.05000000074505806,
+            "AmplitudeY": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "dan",
+            "UnitID": "UN_EV_FALLEN",
+            "TextID": "EQ_SOUSEI_03_04_b_2d.001",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 0.9875030517578125,
+                        "inSlope": -0.8684341907501221,
+                        "outSlope": -0.8684341907501221,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0083585977554321,
+                        "value": -0.05452387407422066,
+                        "inSlope": -0.9582852125167847,
+                        "outSlope": -0.9582852125167847,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+            },
+            "CanvasID": "dark_phantom_aura",
+            "Time": 1.0,
+            "async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "6064"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "dan",
+            "FadeTime": 1.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.20000000298023224
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "6064"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "dan2",
+            "FadeTime": 1.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "dan",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "dan2",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "wag",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 1,
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "nim",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 5,
+            "Emotion": "serious"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "wag",
+            "UnitID": "UN_V2_EN_WAGINAO",
+            "TextID": "EQ_SOUSEI_03_04_b_2d.002",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nim",
+            "UnitID": "UN_V2_NIMURU",
+            "TextID": "EQ_SOUSEI_03_04_b_2d.003",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "wag",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "nim",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "nik",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3,
+            "Emotion": "normal_f"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nik",
+            "UnitID": "UN_V2_ST_NIKUSU",
+            "TextID": "EQ_SOUSEI_03_04_b_2d.004",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nim",
+            "UnitID": "UN_V2_NIMURU",
+            "TextID": "EQ_SOUSEI_03_04_b_2d.005",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nik",
+            "UnitID": "UN_V2_ST_NIKUSU",
+            "TextID": "EQ_SOUSEI_03_04_b_2d.006",
+            "Emotion": "sad_f",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "nik",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "ien",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3,
+            "Emotion": "serious_f"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "ien",
+            "UnitID": "UN_V2_KU_IENA",
+            "TextID": "EQ_SOUSEI_03_04_b_2d.007",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "ien",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "nik",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3,
+            "Emotion": "normal_f"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nik",
+            "UnitID": "UN_V2_ST_NIKUSU",
+            "TextID": "EQ_SOUSEI_03_04_b_2d.008",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "nik",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "nim",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 5,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "wag",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 1,
+            "Emotion": "sad"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nim",
+            "UnitID": "UN_V2_NIMURU",
+            "TextID": "EQ_SOUSEI_03_04_b_2d.009",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "wag",
+            "UnitID": "UN_V2_EN_WAGINAO",
+            "TextID": "EQ_SOUSEI_03_04_b_2d.010",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "wag",
+            "UnitID": "UN_V2_EN_WAGINAO",
+            "TextID": "EQ_SOUSEI_03_04_b_2d.011",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nim",
+            "UnitID": "UN_V2_NIMURU",
+            "TextID": "EQ_SOUSEI_03_04_b_2d.012",
+            "Emotion": "suffer",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nim",
+            "UnitID": "UN_V2_NIMURU",
+            "TextID": "EQ_SOUSEI_03_04_b_2d.013",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 3.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

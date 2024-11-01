@@ -1,0 +1,2112 @@
+{
+    "Name": "EQ_3APPLI_2017_04_b_2d",
+    "Bundle": "283a4fea",
+    "Path": "assets/resources/events/eq_3appli_2017_04_b_2d.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "bg100",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "fog",
+            "Flip": 0,
+            "Position": 3,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 1208999277828612814
+            },
+            "Emotion": "fog2",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "lies",
+            "Flip": 0,
+            "Position": 3,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -6648247642383574300
+            },
+            "Emotion": "angry",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "yuri",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -2529036452037665855
+            },
+            "Emotion": "sad",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "reva",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 6607804981200686570
+            },
+            "Emotion": "sad",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "ama",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -3141618038579796184
+            },
+            "Emotion": "sad_f",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kai",
+            "Flip": 1,
+            "Position": 6,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 954613438045944883
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "hat",
+            "Flip": 0,
+            "Position": 3,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -1959945593411607956
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 1.0,
+                        "inSlope": -1.0,
+                        "outSlope": -1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 0.0,
+                        "inSlope": -1.0,
+                        "outSlope": -1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 0
+            },
+            "CanvasID": "shinehalo",
+            "Time": 0.0,
+            "async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0039"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "7029"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "kai",
+            "MoveTime": 0.4000000059604645,
+            "async": 1,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.20000000298023224
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.20000000298023224
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "9003"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "7005"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "lies",
+            "MoveTime": 0.20000000298023224,
+            "async": 1,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.20000000298023224
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.001",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "lies",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kai",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "fog",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "ama",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "bg99",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "ama",
+            "UnitID": "UN_V2_S_AMATERASU",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.002",
+            "Emotion": "sad_f",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.003",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "ama",
+            "UnitID": "UN_V2_S_AMATERASU",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.004",
+            "Emotion": "angry_f",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "ama",
+            "UnitID": "UN_V2_S_AMATERASU",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.005",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.006",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "ama",
+            "UnitID": "UN_V2_S_AMATERASU",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.007",
+            "Emotion": "normal_f",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "ama",
+            "Emotion": "shy_f"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "hat",
+            "UnitID": "UN_V2_S_AMATERASU",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.008",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "8602"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 0.0,
+                        "inSlope": 1.0,
+                        "outSlope": 1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 1.0,
+                        "inSlope": 1.0,
+                        "outSlope": 1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 0
+            },
+            "CanvasID": "shinehalo",
+            "Time": 1.0,
+            "async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "telo",
+            "UnitID": "UN_EV_BLANK",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.009",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.010",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "1012"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "ama",
+            "Emotion": "normal_f"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_S_AMATERASU",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.011",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.012",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_S_AMATERASU",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.013",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_S_AMATERASU",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.014",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_S_AMATERASU",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.015",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.016",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_S_AMATERASU",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.017",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_S_AMATERASU",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.018",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "ama",
+            "Emotion": "shy_f"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_S_AMATERASU",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.019",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.020",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_S_AMATERASU",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.021",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_S_AMATERASU",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.022",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "ama",
+            "Emotion": "angry_f"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_S_AMATERASU",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.023",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_S_AMATERASU",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.024",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.025",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.026",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "ama",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 1.0,
+                        "inSlope": -1.0,
+                        "outSlope": -1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 0.0,
+                        "inSlope": -1.0,
+                        "outSlope": -1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 0
+            },
+            "CanvasID": "shinehalo",
+            "Time": 0.0,
+            "async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "bg100",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "lies",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "fog",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "lies",
+            "Emotion": "sad_f"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "1011"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.027",
+            "Emotion": "sad_f",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "kai",
+            "UnitID": "UN_V2_EN_KAISER",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.028",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.029",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "hat",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.030",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.031",
+            "Emotion": "surprised_f",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "lies",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "kai",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 0.0,
+                        "inSlope": 1.0,
+                        "outSlope": 1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 1.0,
+                        "inSlope": 1.0,
+                        "outSlope": 1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 0
+            },
+            "CanvasID": "shinehalo",
+            "Time": 0.0,
+            "async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "hat",
+            "UnitID": "UN_V2_EN_KAISER",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.032",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.033",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_EN_KAISER",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.034",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.035",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "telo",
+            "UnitID": "UN_EV_BLANK",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.036",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.037",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.038",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0007"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "3101"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_EN_KAISER",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.039",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.040",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "lies",
+            "Emotion": "angry_f"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.041",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9280"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "lies",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "kai",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 1.0,
+                        "inSlope": -1.0,
+                        "outSlope": -1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 0.0,
+                        "inSlope": -1.0,
+                        "outSlope": -1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 0
+            },
+            "CanvasID": "shinehalo",
+            "Time": 0.0,
+            "async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.042",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.043",
+            "Emotion": "surprised_f",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.044",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.045",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.046",
+            "Emotion": "smile_f",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.047",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.048",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.049",
+            "Emotion": "normal_f",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.050",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.051",
+            "Emotion": "surprised_f",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.052",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.053",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.054",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "<p_name>",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.055",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.056",
+            "Emotion": "normal_f",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "1028"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "lies",
+            "Emotion": "angry_f"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.057",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "9006"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.20000000298023224
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "lies",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.20000000298023224
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "5530"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "sye",
+            "Flip": 0,
+            "Position": 3,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -6489345419602752647
+            },
+            "Emotion": "normal_f",
+            "Async": 0,
+            "Fade": 1,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "sye",
+            "UnitID": "UN_V2_SHENMEI",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.058",
+            "Emotion": "smile_f",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "9006"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.20000000298023224
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "sye",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.20000000298023224
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "5530"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "ero",
+            "Flip": 0,
+            "Position": 3,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -3442233504116195804
+            },
+            "Emotion": "normal_f",
+            "Async": 0,
+            "Fade": 1,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "ero",
+            "UnitID": "UN_V2_POK_EROS",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.059",
+            "Emotion": "smile_f",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "9006"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.20000000298023224
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "ero",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.20000000298023224
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "5530"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "gra",
+            "Flip": 0,
+            "Position": 3,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -9021544110376359284
+            },
+            "Emotion": "normal_f",
+            "Async": 0,
+            "Fade": 1,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "gra",
+            "UnitID": "UN_V2_GLANZ",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.060",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "gra",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kai",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "kai",
+            "UnitID": "UN_V2_EN_KAISER",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.061",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kai",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "lies",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.062",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.063",
+            "Emotion": "sad_f",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.064",
+            "Emotion": "angry_f",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.065",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.066",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "lies",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "sye",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "ero",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "gra",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "ero",
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "sye",
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "gra",
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "8509"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "kai",
+            "UnitID": "UN_V2_EN_KAISER",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.067",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "3101"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "8608"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "lies",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "sye",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "8534"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "8507"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "9003"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "8603"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "8733"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.20000000298023224
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "8511"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "8736"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "8534"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "9009"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "ero",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "gra",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "kai",
+            "UnitID": "UN_V2_EN_KAISER",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.068",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.069",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9281"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "9206"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "lies",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "kai",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "kai",
+            "UnitID": "UN_V2_EN_KAISER",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.070",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "6050"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "kai",
+            "FadeTime": 1.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "kai",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "sye",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "ero",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "gra",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "sye",
+            "Emotion": "smile"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "ero",
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "sye",
+            "UnitID": "UN_V2_SHENMEI",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.071",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "ero",
+            "UnitID": "UN_V2_POK_EROS",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.072",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "sye",
+            "UnitID": "UN_V2_SHENMEI",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.073",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "gra",
+            "UnitID": "UN_V2_GLANZ",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.074",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "sye",
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "ero",
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.075",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9132"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "sye",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "ero",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "gra",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "lies",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "1023"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "EQ_3APPLI_2017_04_b_2d.076",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9161"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 3.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

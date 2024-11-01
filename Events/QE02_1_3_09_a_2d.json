@@ -1,0 +1,379 @@
+{
+    "Name": "QE02_1_3_09_a_2d",
+    "Bundle": "e6e2e8d5",
+    "Path": "assets/resources/events/qe02_1_3_09_a_2d.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "bg41",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_ALCHEMONO2",
+            "Flip": 1,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -6143191755578031012
+            },
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_ALCHEMONO",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -6143191755578031012
+            },
+            "Emotion": "surprised"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_RONNIE",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 3099129458310322008
+            },
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_EDGAR",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 5865748377540694896
+            },
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_FIONA",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 1303062492476006099
+            },
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_FIONA2",
+            "Flip": 1,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 1303062492476006099
+            },
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0029"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_RONNIE",
+            "MoveTime": 0.699999988079071,
+            "MoveTo": 4
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_FIONA",
+            "MoveTime": 0.5,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_ALCHEMONO",
+            "MoveTime": 0.5,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_EDGAR",
+            "MoveTime": 0.30000001192092896,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_FIONA2",
+            "MoveTime": 0.0,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_FIONA",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_RONNIE",
+            "UnitID": "UN_EV_RONNIE",
+            "TextID": "QE02_1_3_09_a_2d.001",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_EDGAR",
+            "UnitID": "UN_EV_EDGAR",
+            "TextID": "QE02_1_3_09_a_2d.002",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_EDGAR",
+            "UnitID": "UN_EV_EDGAR",
+            "TextID": "QE02_1_3_09_a_2d.003",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_EDGAR",
+            "UnitID": "UN_EV_EDGAR",
+            "TextID": "QE02_1_3_09_a_2d.004",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_ALCHEMONO2",
+            "MoveTime": 0.0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_ALCHEMONO",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ALCHEMONO",
+            "UnitID": "UN_EV_ALCHEMONO",
+            "TextID": "QE02_1_3_09_a_2d.005",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_EDGAR",
+            "UnitID": "UN_EV_EDGAR",
+            "TextID": "QE02_1_3_09_a_2d.006",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_FIONA",
+            "UnitID": "UN_EV_FIONA",
+            "TextID": "QE02_1_3_09_a_2d.007",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_FIONA",
+            "UnitID": "UN_EV_FIONA",
+            "TextID": "QE02_1_3_09_a_2d.008",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_FIONA",
+            "UnitID": "UN_EV_FIONA",
+            "TextID": "QE02_1_3_09_a_2d.009",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_EDGAR",
+            "UnitID": "UN_EV_EDGAR",
+            "TextID": "QE02_1_3_09_a_2d.010",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_RONNIE",
+            "UnitID": "UN_EV_RONNIE",
+            "TextID": "QE02_1_3_09_a_2d.011",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_EDGAR",
+            "UnitID": "UN_EV_EDGAR",
+            "TextID": "QE02_1_3_09_a_2d.012",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_EDGAR",
+            "UnitID": "UN_EV_EDGAR",
+            "TextID": "QE02_1_3_09_a_2d.013",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_RONNIE",
+            "UnitID": "UN_EV_RONNIE",
+            "TextID": "QE02_1_3_09_a_2d.014",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 3.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": ""
+        }
+    ]
+}

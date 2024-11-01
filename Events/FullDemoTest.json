@@ -1,0 +1,36 @@
+{
+    "Name": "FullDemoTest",
+    "Bundle": "cb019ca1",
+    "Path": "assets/resources/events/fulldemotest.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SceneID": "FullDemoTest",
+            "FadeIn": 1,
+            "WaitFadeIn": 1,
+            "FadeInTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 4.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 0,
+            "FadeTime": 1.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        }
+    ]
+}

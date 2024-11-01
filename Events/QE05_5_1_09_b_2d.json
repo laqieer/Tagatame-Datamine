@@ -1,0 +1,1623 @@
+{
+    "Name": "QE05_5_1_09_b_2d",
+    "Bundle": "0b33043c",
+    "Path": "assets/resources/events/qe05_5_1_09_b_2d.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "bg02",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 0.9875030517578125,
+                        "inSlope": -0.8684341907501221,
+                        "outSlope": -0.8684341907501221,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.004180908203125,
+                        "value": 0.012500762939453125,
+                        "inSlope": -0.9582852125167847,
+                        "outSlope": -0.9582852125167847,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 0
+            },
+            "CanvasID": "windaura03",
+            "Time": 0.0,
+            "async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kam",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 1503739913101956211
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tin",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -6123852062247895860
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "rog",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 4112314834992876795
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "blu",
+            "Flip": 1,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 4608839404544479721
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "jam",
+            "Flip": 1,
+            "Position": 1,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 1259340560100312433
+            },
+            "Emotion": "",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "jam2",
+            "Flip": 1,
+            "Position": 5,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 1259340560100312433
+            },
+            "Emotion": "",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "geo",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -60442919387713825
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0007"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.699999988079071
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9199"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "jam",
+            "Duration": 1.0,
+            "FrequencyX": 20.0,
+            "FrequencyY": 0.0,
+            "AmplitudeX": 0.10000000149011612,
+            "AmplitudeY": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "jam2",
+            "Duration": 1.0,
+            "FrequencyX": 20.0,
+            "FrequencyY": 0.0,
+            "AmplitudeX": 0.10000000149011612,
+            "AmplitudeY": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.699999988079071
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "SE_7128",
+            "Loop": 1,
+            "Interval": 0.30000001192092896,
+            "Count": 2,
+            "async": 1,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "jam",
+            "UnitID": "UN_EV_JAM",
+            "TextID": "QE05_5_1_09_b_2d.001",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "7128"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "jam",
+            "FadeTime": 1.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "jam2",
+            "FadeTime": 1.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "blu",
+            "UnitID": "UN_EV_BLUE_G",
+            "TextID": "QE05_5_1_09_b_2d.002",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "jam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "jam2",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "rog",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "rog",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE05_5_1_09_b_2d.003",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "rog",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "kam",
+            "Emotion": "normal_f"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "kam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "kam",
+            "UnitID": "UN_V2_KAMUI",
+            "TextID": "QE05_5_1_09_b_2d.004",
+            "Emotion": "smile_f",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "kam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "7128"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "jam",
+            "Flip": 0,
+            "Position": 2,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 1259340560100312433
+            },
+            "Emotion": "",
+            "Async": 1,
+            "Fade": 1,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "7128"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "jam2",
+            "Flip": 0,
+            "Position": 5,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 1259340560100312433
+            },
+            "Emotion": "",
+            "Async": 0,
+            "Fade": 1,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "kam",
+            "UnitID": "UN_V2_KAMUI",
+            "TextID": "QE05_5_1_09_b_2d.005",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "jam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "jam2",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "kam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "kam",
+            "Emotion": "suffer"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "tin",
+            "Emotion": "suffer"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "tin",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tin",
+            "UnitID": "UN_V2_TINA",
+            "TextID": "QE05_5_1_09_b_2d.006",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "kam",
+            "UnitID": "UN_V2_KAMUI",
+            "TextID": "QE05_5_1_09_b_2d.007",
+            "Emotion": "suffer",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "rog",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE05_5_1_09_b_2d.008",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "kam",
+            "UnitID": "UN_V2_KAMUI",
+            "TextID": "QE05_5_1_09_b_2d.009",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "kam",
+            "UnitID": "UN_V2_KAMUI",
+            "TextID": "QE05_5_1_09_b_2d.010",
+            "Emotion": "suffer",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "unk",
+            "UnitID": "UN_EV_UNKNOWN",
+            "TextID": "QE05_5_1_09_b_2d.011",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "kam",
+            "Emotion": "surprised"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tin",
+            "UnitID": "UN_V2_TINA",
+            "TextID": "QE05_5_1_09_b_2d.012",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "tin",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "kam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "geo",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 6
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "jam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 2
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "jam2",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "geo",
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "geo",
+            "UnitID": "UN_V2_EN_GIVOL_PRIOR",
+            "TextID": "QE05_5_1_09_b_2d.013",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "8575"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 1,
+            "FadeTime": 0.20000000298023224
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "jam",
+            "MoveTime": 0.20000000298023224,
+            "async": 1,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "jam2",
+            "MoveTime": 0.20000000298023224,
+            "async": 1,
+            "MoveTo": 4
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "jam",
+            "Duration": 0.699999988079071,
+            "FrequencyX": 30.0,
+            "FrequencyY": 0.0,
+            "AmplitudeX": 0.10000000149011612,
+            "AmplitudeY": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "jam2",
+            "Duration": 0.699999988079071,
+            "FrequencyX": 30.0,
+            "FrequencyY": 0.0,
+            "AmplitudeX": 0.10000000149011612,
+            "AmplitudeY": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "7128"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "jam",
+            "FadeTime": 1.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "jam2",
+            "FadeTime": 1.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "SE_2000",
+            "Loop": 1,
+            "Interval": 0.4000000059604645,
+            "Count": 3,
+            "async": 1,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "geo",
+            "MoveTime": 0.800000011920929,
+            "async": 0,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "SE_2000",
+            "Loop": 1,
+            "Interval": 0.30000001192092896,
+            "Count": 3,
+            "async": 1,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kam",
+            "MoveTime": 0.6000000238418579,
+            "async": 0,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "kam",
+            "UnitID": "UN_V2_KAMUI",
+            "TextID": "QE05_5_1_09_b_2d.014",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "geo",
+            "UnitID": "UN_V2_EN_GIVOL_PRIOR",
+            "TextID": "QE05_5_1_09_b_2d.015",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "geo",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "kam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tin",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "rog",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "rog",
+            "Emotion": "surprised"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "rog",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE05_5_1_09_b_2d.016",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tin",
+            "UnitID": "UN_V2_TINA",
+            "TextID": "QE05_5_1_09_b_2d.017",
+            "Emotion": "suffer",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "tin",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "rog",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "geo",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "kam",
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "geo",
+            "UnitID": "UN_V2_EN_GIVOL_PRIOR",
+            "TextID": "QE05_5_1_09_b_2d.018",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "geo",
+            "UnitID": "UN_V2_EN_GIVOL_PRIOR",
+            "TextID": "QE05_5_1_09_b_2d.019",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "kam",
+            "UnitID": "UN_V2_KAMUI",
+            "TextID": "QE05_5_1_09_b_2d.020",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "kam",
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "geo",
+            "UnitID": "UN_V2_EN_GIVOL_PRIOR",
+            "TextID": "QE05_5_1_09_b_2d.021",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "geo",
+            "UnitID": "UN_V2_EN_GIVOL_PRIOR",
+            "TextID": "QE05_5_1_09_b_2d.022",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "geo",
+            "UnitID": "UN_V2_EN_GIVOL_PRIOR",
+            "TextID": "QE05_5_1_09_b_2d.023",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "des",
+            "UnitID": "UN_EV_DESERT_PEOP",
+            "TextID": "QE05_5_1_09_b_2d.024",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "kam",
+            "UnitID": "UN_V2_KAMUI",
+            "TextID": "QE05_5_1_09_b_2d.025",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "geo",
+            "UnitID": "UN_V2_EN_GIVOL_PRIOR",
+            "TextID": "QE05_5_1_09_b_2d.026",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "geo",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "rog",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "rog",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE05_5_1_09_b_2d.027",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "rog",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "geo",
+            "Emotion": "normal_f"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "geo",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "geo",
+            "UnitID": "UN_V2_EN_GIVOL_PRIOR",
+            "TextID": "QE05_5_1_09_b_2d.028",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "geo",
+            "UnitID": "UN_V2_EN_GIVOL_PRIOR",
+            "TextID": "QE05_5_1_09_b_2d.029",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "geo",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "kam",
+            "Emotion": "normal_f"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "rog",
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "tin",
+            "Emotion": "serious_f"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "kam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "rog",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tin",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "kam",
+            "UnitID": "UN_V2_KAMUI",
+            "TextID": "QE05_5_1_09_b_2d.030",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "SE_2000",
+            "Loop": 1,
+            "Interval": 0.20000000298023224,
+            "Count": 6,
+            "async": 1,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "kam",
+            "MoveTime": 0.800000011920929,
+            "async": 1,
+            "MoveTo": 6
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "SE_2000",
+            "Loop": 1,
+            "Interval": 0.20000000298023224,
+            "Count": 6,
+            "async": 1,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "rog",
+            "MoveTime": 1.2000000476837158,
+            "async": 1,
+            "MoveTo": 6
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "SE_2000",
+            "Loop": 1,
+            "Interval": 0.20000000298023224,
+            "Count": 6,
+            "async": 1,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tin",
+            "MoveTime": 1.2000000476837158,
+            "async": 1,
+            "MoveTo": 6
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.20000000298023224
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "geo",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "geo",
+            "UnitID": "UN_V2_EN_GIVOL_PRIOR",
+            "TextID": "QE05_5_1_09_b_2d.031",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "geo",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "7128"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "jam3",
+            "Flip": 0,
+            "Position": 5,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 1259340560100312433
+            },
+            "Emotion": "",
+            "Async": 1,
+            "Fade": 1,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "7128"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "jam4",
+            "Flip": 0,
+            "Position": 1,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 1259340560100312433
+            },
+            "Emotion": "",
+            "Async": 0,
+            "Fade": 1,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "jam3",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "jam4",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "7128"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "jam5",
+            "Flip": 1,
+            "Position": 1,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 1259340560100312433
+            },
+            "Emotion": "",
+            "Async": 1,
+            "Fade": 1,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "7128"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "jam6",
+            "Flip": 1,
+            "Position": 5,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 1259340560100312433
+            },
+            "Emotion": "",
+            "Async": 0,
+            "Fade": 1,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "jam5",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "jam6",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "geo",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "geo",
+            "UnitID": "UN_V2_EN_GIVOL_PRIOR",
+            "TextID": "QE05_5_1_09_b_2d.032",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "geo",
+            "UnitID": "UN_V2_EN_GIVOL_PRIOR",
+            "TextID": "QE05_5_1_09_b_2d.033",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 3.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

@@ -1,0 +1,1103 @@
+{
+    "Name": "QE02_4_2_09_a_2d",
+    "Bundle": "cc5f8105",
+    "Path": "assets/resources/events/qe02_4_2_09_a_2d.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "bg02",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 1159916227802800925
+            },
+            "Emotion": "normal2"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_LOGI",
+            "Flip": 0,
+            "Position": 3,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -2005975719339890924
+            },
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_V2_EDGAR",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 5865748377540694896
+            },
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_AJ5000",
+            "Flip": 1,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 5592742614849133575
+            },
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_AJ50002",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -7607074868825636695
+            },
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_AJ50003",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 5779434989528238648
+            },
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0015"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_LOGI",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE02_4_2_09_a_2d.001",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9003"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_AJ5000",
+            "MoveTime": 0.0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_V2_LOGI",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "8020"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "2deff_slash",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "8574"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "2deff_speak_loop",
+            "ObjectID": "sp",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_AJ5000",
+            "UnitID": "UN_V2_EN_AJ5000",
+            "TextID": "QE02_4_2_09_a_2d.002",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 1.0,
+                        "inSlope": -1.0,
+                        "outSlope": -1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 0.0,
+                        "inSlope": -1.0,
+                        "outSlope": -1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 0
+            },
+            "CanvasID": "sp",
+            "Time": 0.5,
+            "async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "MoveTime": 0.0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_AJ5000",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_2_09_a_2d.003",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_LOGI",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE02_4_2_09_a_2d.004",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_2_09_a_2d.005",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "3002"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_AJ50002",
+            "MoveTime": 0.0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "9052"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "2deff_cast_off",
+            "ObjectID": "r",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 1.0,
+                        "inSlope": -1.0,
+                        "outSlope": -1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 0.0,
+                        "inSlope": -1.0,
+                        "outSlope": -1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 0
+            },
+            "CanvasID": "r",
+            "Time": 1.0,
+            "async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "8574"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 0.0,
+                        "inSlope": 1.0,
+                        "outSlope": 1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 1.0,
+                        "inSlope": 1.0,
+                        "outSlope": 1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 0
+            },
+            "CanvasID": "sp",
+            "Time": 0.5,
+            "async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 1.0,
+                        "inSlope": -1.0,
+                        "outSlope": -1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 0.0,
+                        "inSlope": -1.0,
+                        "outSlope": -1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 0
+            },
+            "CanvasID": "sp",
+            "Time": 0.5,
+            "async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_AJ5000",
+            "UnitID": "UN_V2_EN_AJ5000",
+            "TextID": "QE02_4_2_09_a_2d.006",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_AJ50002",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "MoveTime": 0.0,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_LOGI",
+            "MoveTime": 0.0,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_2_09_a_2d.007",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_LOGI",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE02_4_2_09_a_2d.008",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_2_09_a_2d.009",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_LOGI",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE02_4_2_09_a_2d.010",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_2_09_a_2d.011",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_2_09_a_2d.012",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_LOGI",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE02_4_2_09_a_2d.013",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_2_09_a_2d.014",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_LOGI",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE02_4_2_09_a_2d.015",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_2_09_a_2d.016",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_LOGI",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE02_4_2_09_a_2d.017",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_2_09_a_2d.018",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "9041"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_LOGI",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE02_4_2_09_a_2d.019",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EDGAR",
+            "MoveTime": 0.0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_LOGI",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "9040"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_2_09_a_2d.020",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EDGAR",
+            "MoveTime": 0.0,
+            "MoveTo": 6
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "MoveTime": 0.0,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_LOGI",
+            "MoveTime": 0.0,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "9040"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_2_09_a_2d.021",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EDGAR",
+            "MoveTime": 0.0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_LOGI",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_2_09_a_2d.022",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "9041"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EDGAR",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "MoveTime": 0.0,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_LOGI",
+            "MoveTime": 0.0,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_2_09_a_2d.023",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_LOGI",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE02_4_2_09_a_2d.024",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "MoveTime": 0.0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_LOGI",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_AJ50002",
+            "MoveTime": 0.0,
+            "MoveTo": 6
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_AJ50002",
+            "MoveTime": 0.30000001192092896,
+            "MoveTo": 4
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "8020"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "2deff_slash",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "2deff_speak",
+            "ObjectID": "",
+            "Persistent": 1,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "MoveTime": 0.20000000298023224,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_DON_TARAS",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_2_09_a_2d.025",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 3.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

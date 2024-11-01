@@ -1,0 +1,1614 @@
+{
+    "Name": "QE03_2_2_04_a_3d",
+    "Bundle": "49616c95",
+    "Path": "assets/resources/events/qe03_2_2_04_a_3d.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0007"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "BackgroundImage": "BGback_in_night"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "eleo",
+            "UnitID": "UN_EV_ELEONORA",
+            "JobID": "JB_DAI_ACE",
+            "Position": {
+                "x": 5.948993682861328,
+                "y": 0.9999999403953552,
+                "z": 6.0
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 172.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "eleo",
+            "AnimationName": "F_wiz_unit_info_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "JobID": "JB_LIES_PRI",
+            "Position": {
+                "x": 6.5,
+                "y": 2.384185791015625e-07,
+                "z": 3.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 0.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "reve",
+            "UnitID": "UN_EV_REBECCA",
+            "JobID": "",
+            "Position": {
+                "x": 6.0,
+                "y": 0.012129068374633789,
+                "z": 2.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 0.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "reve",
+            "AnimationName": "F_cmn_demo_talk_idle0",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alma",
+            "UnitID": "UN_EV_ALMA",
+            "JobID": "",
+            "Position": {
+                "x": 7.0,
+                "y": 0.012128829956054688,
+                "z": 2.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 0.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alma",
+            "AnimationName": "F_wiz_idlefield0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "e_bat1",
+            "UnitID": "UN_V2_EN_BATARION_WOL_ARM",
+            "JobID": "",
+            "Position": {
+                "x": 7.5,
+                "y": 2.384185791015625e-07,
+                "z": 4.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 210.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 0,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "e_bat2",
+            "UnitID": "UN_V2_EN_BATARION_WOL_ARM",
+            "JobID": "",
+            "Position": {
+                "x": 3.5,
+                "y": 1.0000001192092896,
+                "z": 4.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 135.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 0,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "e_bat3",
+            "UnitID": "UN_V2_EN_BATARION_WOL_ENC",
+            "JobID": "",
+            "Position": {
+                "x": 3.5,
+                "y": 2.384185791015625e-07,
+                "z": 1.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 72.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 0,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "e_bat4",
+            "UnitID": "UN_V2_EN_BATARION_WOL_ENC",
+            "JobID": "",
+            "Position": {
+                "x": 7.5,
+                "y": 0.0,
+                "z": 8.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 180.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 0,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "e_bat5",
+            "UnitID": "UN_V2_EN_BATARION_LIZ_LAN",
+            "JobID": "JB_LAN",
+            "Position": {
+                "x": 7.5,
+                "y": 0.5000003576278687,
+                "z": 5.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 205.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 0,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "e_bat6",
+            "UnitID": "UN_V2_EN_BATARION_LIZ_LAN",
+            "JobID": "JB_LAN",
+            "Position": {
+                "x": 5.5,
+                "y": 1.0,
+                "z": 5.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 150.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 0,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "e_bat7",
+            "UnitID": "UN_V2_EN_BATARION_LIZ_HUN",
+            "JobID": "JB_HUN",
+            "Position": {
+                "x": 4.5,
+                "y": 1.0000001192092896,
+                "z": 7.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 165.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 0,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "e_bat8",
+            "UnitID": "UN_V2_EN_BATARION_LIZ_HUN",
+            "JobID": "JB_HUN",
+            "Position": {
+                "x": 1.5,
+                "y": 1.000000238418579,
+                "z": 3.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 96.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 0,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "p_bat1",
+            "UnitID": "UN_V2_EN_BATARION_WOL_ARM",
+            "JobID": "",
+            "Position": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 2.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 235.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 0,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "p_bat2",
+            "UnitID": "UN_V2_EN_BATARION_WOL_ENC",
+            "JobID": "",
+            "Position": {
+                "x": 4.5,
+                "y": -2.384185791015625e-07,
+                "z": 0.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 315.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 0,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "p_bat3",
+            "UnitID": "UN_V2_EN_BATARION_LIZ_LAN",
+            "JobID": "JB_LAN",
+            "Position": {
+                "x": 7.5,
+                "y": 0.0,
+                "z": 3.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 0.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 0,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "p_bat4",
+            "UnitID": "UN_V2_EN_BATARION_LIZ_HUN",
+            "JobID": "JB_HUN",
+            "Position": {
+                "x": 6.0,
+                "y": 0.0,
+                "z": 1.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 0.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "Display": 0,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "wpn_bloom",
+            "ObjectID": "wpn_alma",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "wpn_alma",
+            "TargetID": "alma",
+            "BoneName": "Bip001 Prop1"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "wpn_bloom",
+            "ObjectID": "wpn_reve",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "wpn_reve",
+            "TargetID": "reve",
+            "BoneName": "Bip001 Prop1"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 7.5,
+                "y": 1.0,
+                "z": 3.5
+            },
+            "TargetRotation": 60.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.75,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SceneID": "bg_03_gakutyositu_002",
+            "FadeIn": 1,
+            "WaitFadeIn": 1,
+            "FadeInTime": 3.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "eleo",
+            "UnitID": "UN_EV_ELEONORA",
+            "TextID": "QE03_2_2_04_a_3d.001",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "ev_eleo_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_2_2_04_a_3d.002",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "eleo",
+            "UnitID": "UN_EV_ELEONORA",
+            "TextID": "QE03_2_2_04_a_3d.003",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 7.5,
+                "y": 1.0,
+                "z": 3.5
+            },
+            "TargetRotation": 60.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": 1.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "eleo",
+            "Path": 0,
+            "AnimationName": "F_eleo_demo_battalion",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "m_CueName": "SE_3003",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_7057",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/eff_p_demo_battalion_smn",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 5.5,
+                "y": 1.0,
+                "z": 5.5
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/eff_p_demo_battalion_smn",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 4.5,
+                "y": 1.0,
+                "z": 7.5
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/eff_p_demo_battalion_smn",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 1.5,
+                "y": 1.0,
+                "z": 3.5
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/eff_p_demo_battalion_smn",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 7.5,
+                "y": 0.5,
+                "z": 5.5
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/eff_p_demo_battalion_smn",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 7.5,
+                "y": 0.0,
+                "z": 8.5
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/eff_p_demo_battalion_smn",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 3.5,
+                "y": 0.0,
+                "z": 1.5
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/eff_p_demo_battalion_smn",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 3.5,
+                "y": 1.0,
+                "z": 4.5
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/eff_p_demo_battalion_smn",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 7.5,
+                "y": 0.0,
+                "z": 4.5
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "e_bat1",
+            "Type": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "e_bat2",
+            "Type": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "e_bat3",
+            "Type": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "e_bat4",
+            "Type": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "e_bat5",
+            "Type": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "e_bat6",
+            "Type": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "e_bat7",
+            "Type": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "e_bat8",
+            "Type": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "eleo",
+            "AnimationName": "F_wiz_unit_info_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "Path": 0,
+            "AnimationName": "F_lies_demo_surprised",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "alma",
+            "Path": 0,
+            "AnimationName": "F_alma_demo_surprised",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "reve",
+            "Path": 0,
+            "AnimationName": "F_reve_demo_surprised",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "lies",
+            "Path": 0,
+            "AnimationName": "F_lies_demo_surprised_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alma",
+            "Path": 0,
+            "AnimationName": "F_alma_demo_surprised_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "reve",
+            "Path": 0,
+            "AnimationName": "F_reve_demo_surprised_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_2_2_04_a_3d.004",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "lies_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "reve",
+            "UnitID": "UN_EV_REBECCA",
+            "TextID": "QE03_2_2_04_a_3d.005",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "ev_reve_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "eleo",
+            "UnitID": "UN_EV_ELEONORA",
+            "TextID": "QE03_2_2_04_a_3d.006",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "ev_eleo_serious",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "eleo",
+            "UnitID": "UN_EV_ELEONORA",
+            "TextID": "QE03_2_2_04_a_3d.007",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "ev_eleo_serious",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alma",
+            "UnitID": "UN_EV_ALMA",
+            "TextID": "QE03_2_2_04_a_3d.008",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "ev_alma_suffer",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "reve",
+            "UnitID": "UN_EV_REBECCA",
+            "TextID": "QE03_2_2_04_a_3d.009",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "Path": 0,
+            "AnimationName": "F_lies_demo_surprised_off",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "alma",
+            "Path": 0,
+            "AnimationName": "F_alma_demo_surprised_off",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/eff_p_demo_battalion_charge",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 6.0,
+                "y": 0.012129070237278938,
+                "z": 2.5
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "reve",
+            "Path": 0,
+            "AnimationName": "F_reve_demo_battalion",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "lies",
+            "LookAt": 1,
+            "LookAtID": "reve",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.44999998807907104
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_7024",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "m_VoiceName": "VO_rebecca.rebecca_battle_0006",
+            "m_Async": 0,
+            "m_Delay": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.05000000074505806
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "m_CueName": "SE_3003",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "AnimationName": "F_lies_yuj_talkidle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alma",
+            "Path": 0,
+            "AnimationName": "F_alma_demo_talkidle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_7025",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/eff_p_demo_broomshine",
+            "ObjectID": "broomshine",
+            "Persistent": 0,
+            "Position": {
+                "x": 6.104000091552734,
+                "y": 1.2730000019073486,
+                "z": 3.0369999408721924
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_8596",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.6000000238418579
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_7057",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/eff_p_demo_battalion_smn",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 6.0,
+                "y": 0.012129070237278938,
+                "z": 1.5
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/eff_p_demo_battalion_smn",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 7.5,
+                "y": 0.0,
+                "z": 3.5
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/eff_p_demo_battalion_smn",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 4.5,
+                "y": 1.0,
+                "z": 0.5
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/eff_p_demo_battalion_smn",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 2.5
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "p_bat1",
+            "Type": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "p_bat2",
+            "Type": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "p_bat3",
+            "Type": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "p_bat4",
+            "Type": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "reve",
+            "AnimationName": "F_cmn_demo_talk_idle0",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "lies",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 7.5,
+                "y": 0.0,
+                "z": 3.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "lies",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 6.5,
+                "y": 0.012128829956054688,
+                "z": 2.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alma",
+            "UnitID": "UN_EV_ALMA",
+            "TextID": "QE03_2_2_04_a_3d.010",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "reve",
+            "UnitID": "UN_EV_REBECCA",
+            "TextID": "QE03_2_2_04_a_3d.011",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_2_2_04_a_3d.012",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "lies_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alma",
+            "UnitID": "UN_EV_ALMA",
+            "TextID": "QE03_2_2_04_a_3d.013",
+            "Async": 0,
+            "Emotion": 1,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alma",
+            "Path": 0,
+            "AnimationName": "F_alma_demo_ready",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "lies",
+            "Path": 0,
+            "AnimationName": "F_lies_demo_ready",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "reve",
+            "Path": 0,
+            "AnimationName": "F_reve_demo_ready",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "lies",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 6.0,
+                "y": 1.0,
+                "z": 6.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "reve",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 3.5,
+                "y": 2.384185791015625e-07,
+                "z": 1.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "alma",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 7.5,
+                "y": 2.384185791015625e-07,
+                "z": 4.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "AnimationName": "F_yuj_idlefield0",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "reve",
+            "AnimationName": "F_wiz_idlefield0",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alma",
+            "AnimationName": "F_wiz_idlefield0",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 0,
+            "FadeTime": 3.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

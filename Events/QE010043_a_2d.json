@@ -1,0 +1,602 @@
+{
+    "Name": "QE010043_a_2d",
+    "Bundle": "6e3660ce",
+    "Path": "assets/resources/events/qe010043_a_2d.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_LIZARD_BRIGADE",
+            "Flip": 0,
+            "Position": 3,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 3045283307781373240
+            },
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_V2_DIOS",
+            "Flip": 0,
+            "Position": 6,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -3453905366591877506
+            },
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_PEOPLE",
+            "Flip": 0,
+            "Position": 6,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -8166566368073866424
+            },
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_GABIROND",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -950813579329759509
+            },
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_LIZARD_BRIGADE2",
+            "Flip": 0,
+            "Position": 6,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 3045283307781373240
+            },
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "bg05",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 1,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_BERTRAND",
+            "Flip": 0,
+            "Position": 6,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 7958687538714639948
+            },
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "dios",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -3453905366591877506
+            },
+            "Emotion": "suffer"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9023"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_V2_DIOS",
+            "MoveTime": 0.3499999940395355,
+            "MoveTo": 4
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 1,
+            "FadeTime": 0.20000000298023224
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_V2_DIOS",
+            "MoveTime": 0.10000000149011612,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "5000"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_LIZARD_BRIGADE"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_LIZARD_BRIGADE2",
+            "MoveTime": 0.0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_V2_DIOS",
+            "MoveTime": 0.0,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.20000000298023224
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_LIZARD_BRIGADE2"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "6050"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_DIOS",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "QE010043_a_2d.001",
+            "Emotion": "suffer",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_PEOPLE",
+            "MoveTime": 1.5,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_PEOPLE",
+            "UnitID": "UN_EV_PEOPLE",
+            "TextID": "QE010043_a_2d.002",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_DIOS",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "QE010043_a_2d.003",
+            "Emotion": "suffer",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9023"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_V2_DIOS",
+            "MoveTime": 0.20000000298023224,
+            "MoveTo": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_BERTRAND",
+            "MoveTime": 0.5,
+            "MoveTo": 4
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_BERTRAND",
+            "UnitID": "UN_BERTRAND",
+            "TextID": "QE010043_a_2d.004",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_DIOS",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "QE010043_a_2d.005",
+            "Emotion": "suffer",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_BERTRAND",
+            "UnitID": "UN_BERTRAND",
+            "TextID": "QE010043_a_2d.006",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_PEOPLE",
+            "UnitID": "UN_EV_PEOPLE",
+            "TextID": "QE010043_a_2d.007",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_DIOS",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "QE010043_a_2d.008",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9023"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.4000000059604645
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_GABIROND",
+            "MoveTime": 0.5,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "dios2",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -3453905366591877506
+            },
+            "Emotion": "sad"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_GABIROND",
+            "UnitID": "UN_GABIROND",
+            "TextID": "QE010043_a_2d.009",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "dios",
+            "MoveTime": 0.0,
+            "MoveTo": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_V2_DIOS",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_BERTRAND",
+            "UnitID": "UN_BERTRAND",
+            "TextID": "QE010043_a_2d.010",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_GABIROND",
+            "UnitID": "UN_GABIROND",
+            "TextID": "QE010043_a_2d.011",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_GABIROND",
+            "UnitID": "UN_GABIROND",
+            "TextID": "QE010043_a_2d.012",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_GABIROND",
+            "UnitID": "UN_GABIROND",
+            "TextID": "QE010043_a_2d.013",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_PEOPLE",
+            "UnitID": "UN_EV_PEOPLE",
+            "TextID": "QE010043_a_2d.014",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "QE010043_a_2d.015",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_GABIROND",
+            "UnitID": "UN_GABIROND",
+            "TextID": "QE010043_a_2d.016",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "dios",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "dios2",
+            "MoveTime": 0.0,
+            "MoveTo": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "dios2",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "dios",
+            "MoveTime": 0.0,
+            "MoveTo": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "QE010043_a_2d.017",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_GABIROND",
+            "UnitID": "UN_GABIROND",
+            "TextID": "QE010043_a_2d.018",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "QE010043_a_2d.019",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "QE010043_a_2d.020",
+            "Emotion": "suffer",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_GABIROND",
+            "UnitID": "UN_GABIROND",
+            "TextID": "QE010043_a_2d.021",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_BERTRAND",
+            "UnitID": "UN_BERTRAND",
+            "TextID": "QE010043_a_2d.022",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 3.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

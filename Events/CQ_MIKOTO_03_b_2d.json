@@ -1,0 +1,989 @@
+{
+    "Name": "CQ_MIKOTO_03_b_2d",
+    "Bundle": "cbbc77f5",
+    "Path": "assets/resources/events/cq_mikoto_03_b_2d.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Background": "bg08",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "miko",
+            "Flip": 0,
+            "Position": 5,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 9151622977404910477
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tama",
+            "Flip": 0,
+            "Position": 1,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 6095112708440690700
+            },
+            "Emotion": "normal3",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "mask",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 4537161879255378632
+            },
+            "Emotion": "black",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "BGM": "0028"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.001",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.002",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.003",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.004",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.005",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.006",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.007",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.008",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.009",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.010",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.011",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.012",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.013",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.014",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "SE_2002",
+            "Loop": 1,
+            "Interval": 0.4000000059604645,
+            "Count": 3,
+            "async": 1,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "miko",
+            "MoveTime": 0.800000011920929,
+            "async": 1,
+            "MoveTo": 6
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "miko",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 2
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tama",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 1,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "2002"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "miko",
+            "MoveTime": 0.6000000238418579,
+            "async": 1,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "9025"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tama",
+            "MoveTime": 0.5,
+            "async": 0,
+            "MoveTo": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "1013"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.015",
+            "Emotion": "abgry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.016",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.017",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.018",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.019",
+            "Emotion": "normal3",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.020",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.021",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.022",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.023",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.024",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.025",
+            "Emotion": "normal3",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.026",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.027",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.028",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.029",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.030",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.031",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.032",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.033",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.034",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.035",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.036",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.037",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.038",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.039",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.040",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.041",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0033"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.042",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.043",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.044",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.045",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.046",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.047",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.048",
+            "Emotion": "smile2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.049",
+            "Emotion": "normal3",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.050",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tama",
+            "UnitID": "UN_V2_TAMAMO",
+            "TextID": "CQ_MIKOTO_03_b_2d.051",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "miko",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.052",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "tama",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 6
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "miko",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "miko",
+            "Emotion": "smile2_f"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "bg126",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "mask",
+            "UnitID": "UN_V2_MIKOTO",
+            "TextID": "CQ_MIKOTO_03_b_2d.053",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "miko",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "mask",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 0.0,
+                        "inSlope": 0.800000011920929,
+                        "outSlope": 0.800000011920929,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 0.800000011920929,
+                        "inSlope": 0.800000011920929,
+                        "outSlope": 0.800000011920929,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 0
+            },
+            "CanvasID": "black",
+            "Time": 0.0,
+            "async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "tama",
+            "Emotion": "normal3"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9248"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 1,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "tama",
+            "MoveTime": 0.800000011920929,
+            "async": 0,
+            "MoveTo": 5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tama",
+            "MoveTime": 0.800000011920929,
+            "async": 1,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 0.800000011920929,
+                        "inSlope": -0.800000011920929,
+                        "outSlope": -0.800000011920929,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 0.0,
+                        "inSlope": -0.800000011920929,
+                        "outSlope": -0.800000011920929,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 0
+            },
+            "CanvasID": "black",
+            "Time": 0.0,
+            "async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 3.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/2D/demo_cut_mikoto",
+            "ObjectID": "demo_cut",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Order": 0,
+            "CharaID": "",
+            "ChildOrder": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 10.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

@@ -1,0 +1,1955 @@
+{
+    "Name": "CQ_TAMISU_01_a_2d",
+    "Bundle": "85cab41f",
+    "Path": "assets/resources/events/cq_tamisu_01_a_2d.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "bg03",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -242816432289235753
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "lie",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 6462138740450420127
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "moc",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -2807235975611518302
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "vod",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 2339178966134936818
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "mon1",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -4720915886781415178
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "mon2",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -4720915886781415178
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kaisou",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 2864517304170986257
+            },
+            "Emotion": "none",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "tam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 0.0,
+                        "inSlope": 0.299390971660614,
+                        "outSlope": 0.299390971660614,
+                        "weightedMode": 0,
+                        "inWeight": 0.0,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 0.9984130859375,
+                        "value": 0.2989158630371094,
+                        "inSlope": 0.299390971660614,
+                        "outSlope": 0.299390971660614,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.0
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+            },
+            "CanvasID": "tamisu_wind_aura",
+            "Time": 0.0,
+            "async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0032"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "SE_7494",
+            "Loop": 0,
+            "Interval": 1.0,
+            "Count": 1,
+            "async": 0,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.001",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "tam",
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "SE_8566",
+            "Loop": 0,
+            "Interval": 1.0,
+            "Count": 1,
+            "async": 0,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.00894927978515625,
+                        "value": 0.2994842529296875,
+                        "inSlope": 0.39288845658302307,
+                        "outSlope": 0.39288845658302307,
+                        "weightedMode": 0,
+                        "inWeight": 0.0,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.009674072265625,
+                        "value": 0.692657470703125,
+                        "inSlope": 0.39288845658302307,
+                        "outSlope": 0.39288845658302307,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.0
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+            },
+            "CanvasID": "tamisu_wind_aura",
+            "Time": 1.0,
+            "async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "tam",
+            "Duration": 0.20000000298023224,
+            "FrequencyX": 20.0,
+            "FrequencyY": 0.0,
+            "AmplitudeX": 0.05000000074505806,
+            "AmplitudeY": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.002",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": -0.00315093994140625,
+                        "value": 0.6889915466308594,
+                        "inSlope": -0.6915313601493835,
+                        "outSlope": -0.6915313601493835,
+                        "weightedMode": 0,
+                        "inWeight": 0.0,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": -0.004718780517578125,
+                        "inSlope": -0.6915313601493835,
+                        "outSlope": -0.6915313601493835,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.0
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+            },
+            "CanvasID": "tamisu_wind_aura",
+            "Time": 1.0,
+            "async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.003",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.004",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "SE_9079",
+            "Loop": 0,
+            "Interval": 1.0,
+            "Count": 1,
+            "async": 0,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "moc",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kaisou",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3,
+            "Emotion": "kaisou"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "kaisou"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.005",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.006",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.007",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.008",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.009",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "bg03",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "moc",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kaisou",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": "none"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.010",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "SE_2000",
+            "Loop": 1,
+            "Interval": 0.20000000298023224,
+            "Count": 4,
+            "async": 1,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "lie",
+            "MoveTime": 0.6000000238418579,
+            "async": 1,
+            "MoveTo": 1,
+            "Emotion": "surprised"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "SE_2000",
+            "Loop": 0,
+            "Interval": 0.20000000298023224,
+            "Count": 2,
+            "async": 1,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "Duration": 0.30000001192092896,
+            "FrequencyX": 20.0,
+            "FrequencyY": 0.0,
+            "AmplitudeX": 0.05000000074505806,
+            "AmplitudeY": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "MoveTime": 0.4000000059604645,
+            "async": 0,
+            "MoveTo": 2,
+            "Emotion": "normal2"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "SE_8702",
+            "Loop": 0,
+            "Interval": 1.0,
+            "Count": 1,
+            "async": 0,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "Duration": 0.30000001192092896,
+            "FrequencyX": 15.0,
+            "FrequencyY": 0.0,
+            "AmplitudeX": 0.05000000074505806,
+            "AmplitudeY": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "lie",
+            "Duration": 0.30000001192092896,
+            "FrequencyX": 15.0,
+            "FrequencyY": 0.0,
+            "AmplitudeX": 0.05000000074505806,
+            "AmplitudeY": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "MoveTime": 0.30000001192092896,
+            "async": 0,
+            "MoveTo": 3,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lie",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "CQ_TAMISU_01_a_2d.011",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.012",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "SE_2000",
+            "Loop": 1,
+            "Interval": 0.4000000059604645,
+            "Count": 2,
+            "async": 1,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "MoveTime": 0.4000000059604645,
+            "async": 0,
+            "MoveTo": 5,
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lie",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "CQ_TAMISU_01_a_2d.013",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.014",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.015",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "SE_2000",
+            "Loop": 1,
+            "Interval": 0.20000000298023224,
+            "Count": 2,
+            "async": 1,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "Duration": 0.20000000298023224,
+            "FrequencyX": 20.0,
+            "FrequencyY": 0.0,
+            "AmplitudeX": 0.05000000074505806,
+            "AmplitudeY": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "MoveTime": 0.4000000059604645,
+            "async": 1,
+            "MoveTo": 4,
+            "Emotion": "normal2"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "SE_8702",
+            "Loop": 0,
+            "Interval": 1.0,
+            "Count": 1,
+            "async": 0,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "lie",
+            "MoveTime": 0.10000000149011612,
+            "async": 0,
+            "MoveTo": 2,
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "Duration": 0.4000000059604645,
+            "FrequencyX": 15.0,
+            "FrequencyY": 0.0,
+            "AmplitudeX": 0.05000000074505806,
+            "AmplitudeY": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "lie",
+            "Duration": 0.4000000059604645,
+            "FrequencyX": 15.0,
+            "FrequencyY": 0.0,
+            "AmplitudeX": 0.05000000074505806,
+            "AmplitudeY": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lie",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "CQ_TAMISU_01_a_2d.016",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.017",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lie",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "CQ_TAMISU_01_a_2d.018",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.019",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lie",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "CQ_TAMISU_01_a_2d.020",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "Duration": 0.20000000298023224,
+            "FrequencyX": 15.0,
+            "FrequencyY": 0.0,
+            "AmplitudeX": 0.05000000074505806,
+            "AmplitudeY": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.021",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "SE_9369",
+            "Loop": 0,
+            "Interval": 1.0,
+            "Count": 1,
+            "async": 0,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "bg109",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "lie",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 5,
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "vod",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 1,
+            "Emotion": "serious"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kaisou",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3,
+            "Emotion": "kaisou"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "kaisou"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "lie",
+            "Emotion": "surprised"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "CQ_TAMISU_01_a_2d.022",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_VODA",
+            "TextID": "CQ_TAMISU_01_a_2d.023",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "vod",
+            "Emotion": "sad"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_VODA",
+            "TextID": "CQ_TAMISU_01_a_2d.024",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "lie",
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "CQ_TAMISU_01_a_2d.025",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "vod",
+            "Emotion": "serious"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_VODA",
+            "TextID": "CQ_TAMISU_01_a_2d.026",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_VODA",
+            "TextID": "CQ_TAMISU_01_a_2d.027",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "lie",
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "CQ_TAMISU_01_a_2d.028",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "SE_9369",
+            "Loop": 0,
+            "Interval": 1.0,
+            "Count": 1,
+            "async": 0,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "bg03",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 4,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "lie",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 2,
+            "Emotion": "sad"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "vod",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kaisou",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": "none"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.029",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "SE_8702",
+            "Loop": 0,
+            "Interval": 1.0,
+            "Count": 1,
+            "async": 0,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "MoveTime": 0.30000001192092896,
+            "async": 0,
+            "MoveTo": 5,
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "lie",
+            "Duration": 0.20000000298023224,
+            "FrequencyX": 15.0,
+            "FrequencyY": 0.0,
+            "AmplitudeX": 0.05000000074505806,
+            "AmplitudeY": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lie",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "CQ_TAMISU_01_a_2d.030",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.031",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lie",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "CQ_TAMISU_01_a_2d.032",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.033",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lie",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "CQ_TAMISU_01_a_2d.034",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "lie",
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "lie",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0046"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "SE_2000",
+            "Loop": 1,
+            "Interval": 0.20000000298023224,
+            "Count": 7,
+            "async": 1,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "mon1",
+            "MoveTime": 1.2000000476837158,
+            "async": 1,
+            "MoveTo": 5,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.699999988079071
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "SE_2000",
+            "Loop": 1,
+            "Interval": 0.20000000298023224,
+            "Count": 4,
+            "async": 1,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "mon2",
+            "MoveTime": 0.6000000238418579,
+            "async": 0,
+            "MoveTo": 1,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "mon1",
+            "Flip": 1,
+            "Position": 6,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -4720915886781415178
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "mon2",
+            "Flip": 1,
+            "Position": 6,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": -4720915886781415178
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "SE_2000",
+            "Loop": 1,
+            "Interval": 0.20000000298023224,
+            "Count": 7,
+            "async": 1,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "mon1",
+            "MoveTime": 1.2000000476837158,
+            "async": 1,
+            "MoveTo": 1,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.699999988079071
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "SE_2000",
+            "Loop": 1,
+            "Interval": 0.20000000298023224,
+            "Count": 4,
+            "async": 1,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "mon2",
+            "MoveTime": 0.6000000238418579,
+            "async": 0,
+            "MoveTo": 5,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "mon1",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "mon2",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.035",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "lie",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3,
+            "Emotion": "angry_f"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "lie",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "CQ_TAMISU_01_a_2d.036",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "SE_8684",
+            "Loop": 0,
+            "Interval": 1.0,
+            "Count": 1,
+            "async": 0,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 0.0,
+                        "inSlope": 1.0,
+                        "outSlope": 1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.0,
+                        "outWeight": 0.0
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 1.0,
+                        "inSlope": 1.0,
+                        "outSlope": 1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.0,
+                        "outWeight": 0.0
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+            },
+            "CanvasID": "liesbet_aura",
+            "Time": 1.0,
+            "async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "lie",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.037",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SE": "SE_9369",
+            "Loop": 0,
+            "Interval": 1.0,
+            "Count": 1,
+            "async": 0,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "bg103",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 5,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "moc",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 1,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kaisou",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3,
+            "Emotion": "kaisou"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "kaisou"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.038",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_MOCA",
+            "TextID": "CQ_TAMISU_01_a_2d.039",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "tam",
+            "Emotion": "normal2"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.040",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "moc",
+            "Emotion": "suffer"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_MOCA",
+            "TextID": "CQ_TAMISU_01_a_2d.041",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.042",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_MOCA",
+            "TextID": "CQ_TAMISU_01_a_2d.043",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_MOCA",
+            "TextID": "CQ_TAMISU_01_a_2d.044",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.045",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "SE": "SE_9369",
+            "Loop": 0,
+            "Interval": 1.0,
+            "Count": 1,
+            "async": 0,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 1,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "bg03",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "tam",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "moc",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "kaisou",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0,
+            "Emotion": "none"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.046",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.047",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "tam",
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "SE_7494",
+            "Loop": 0,
+            "Interval": 1.0,
+            "Count": 1,
+            "async": 0,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 0.0,
+                        "inSlope": 1.0,
+                        "outSlope": 1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.0,
+                        "outWeight": 0.0
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 1.0,
+                        "inSlope": 1.0,
+                        "outSlope": 1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.0,
+                        "outWeight": 0.0
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+            },
+            "CanvasID": "tamisu_wind_aura",
+            "Time": 1.0,
+            "async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "tam",
+            "UnitID": "UN_V2_TAMISU",
+            "TextID": "CQ_TAMISU_01_a_2d.048",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 3.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

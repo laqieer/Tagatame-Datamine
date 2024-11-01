@@ -1,0 +1,67 @@
+{
+    "Name": "EQ_beginner05_win",
+    "Bundle": "d6cec345",
+    "Path": "assets/resources/events/eq_beginner05_win.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "EQ_beginner05_win.001",
+            "Emotion": 1,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "EQ_beginner05_win.002",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "EQ_beginner05_win.003",
+            "Emotion": 0,
+            "CustomEmotion": "logi_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "EQ_beginner05_win.004",
+            "Emotion": 1,
+            "CustomEmotion": "logi_normal2",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "EQ_beginner05_win.005",
+            "Emotion": 1,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

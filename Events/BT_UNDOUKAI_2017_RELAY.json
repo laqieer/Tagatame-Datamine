@@ -1,0 +1,44 @@
+{
+    "Name": "BT_UNDOUKAI_2017_RELAY",
+    "Bundle": "86745ee7",
+    "Path": "assets/resources/events/bt_undoukai_2017_relay.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 0,
+            "Async": 0,
+            "FadeTime": 1.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "UN_BERTRAND",
+            "UnitID": "UN_BERTRAND",
+            "TextID": "BT_UNDOUKAI_2017_RELAY.001",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "UN_BERTRAND"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        }
+    ]
+}

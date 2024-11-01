@@ -1,0 +1,858 @@
+{
+    "Name": "tut001b",
+    "Bundle": "51adcb46",
+    "Path": "assets/resources/events/tut001b.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "BGM_0002"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BackgroundImage": "BGback_in_night"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "patr",
+            "UnitID": "UN_PATRICK",
+            "JobID": "JB_ARM",
+            "Position": {
+                "x": 5,
+                "y": 10
+            },
+            "Persistent": 0,
+            "Angle": 210,
+            "ShowEquipments": 0,
+            "Posture": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "patr",
+            "AnimationName": "M_cmn_demo_down_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "UnitID": "UN_ZEKE",
+            "JobID": "JB_SEI",
+            "Position": {
+                "x": 6,
+                "y": 9
+            },
+            "Persistent": 0,
+            "Angle": 333,
+            "ShowEquipments": 0,
+            "Posture": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "AnimationName": "M_cmn_down0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "wpn_zeke_00_R_event_bg",
+            "ObjectID": "zeke_sword0",
+            "Persistent": 0,
+            "Position": {
+                "x": 6.914000034332275,
+                "y": 0.2199999988079071,
+                "z": 8.979999542236328
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "zeke_sword0",
+            "Curve": 0,
+            "Position": {
+                "x": 6.914000034332275,
+                "y": 0.2199999988079071,
+                "z": 8.979999542236328
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 236.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "wpn_patr_00_R_event_bg",
+            "ObjectID": "patr_sword0",
+            "Persistent": 0,
+            "Position": {
+                "x": 5.242000102996826,
+                "y": 0.40209999680519104,
+                "z": 8.079999923706055
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "patr_sword0",
+            "Curve": 0,
+            "Position": {
+                "x": 5.242000102996826,
+                "y": 0.40209999680519104,
+                "z": 8.079999923706055
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 74.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_NPC_LOGI_SEI",
+            "JobID": "JB_LOGI_SEI",
+            "Position": {
+                "x": 2,
+                "y": 5
+            },
+            "Persistent": 0,
+            "Angle": 90,
+            "ShowEquipments": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_NPC_DIOS_ANK",
+            "JobID": "JB_DIOS_ANK",
+            "Position": {
+                "x": 8,
+                "y": 5
+            },
+            "Persistent": 0,
+            "Angle": 270,
+            "ShowEquipments": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "mPoints": [
+                {
+                    "x": 2,
+                    "y": 5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "Angle": 90.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "mPoints": [
+                {
+                    "x": 8,
+                    "y": 5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "Angle": 270.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "AnimationName": "M_logi_sei_fieldrun0_aura"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "AnimationName": "M_dios_ank_fieldrun0_aura"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "UnitID": "UN_AGATHA",
+            "JobID": "JB_WIZ",
+            "Position": {
+                "x": 5,
+                "y": 7
+            },
+            "Persistent": 0,
+            "Angle": 180,
+            "ShowEquipments": 0,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "AnimationName": "F_agat_non_idlefield0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.25,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 5.5,
+                "y": 0.0,
+                "z": 5.0
+            },
+            "TargetRotation": 30.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": 0.10000000149011612,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SceneID": "bg_01_env_shiro_gyokuza_001",
+            "FadeIn": 1,
+            "WaitFadeIn": 1,
+            "FadeInTime": 3.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 2,
+            "ActorID": "logi",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 2,
+            "TargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "TargetRotation": -1.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_NPC_LOGI_SEI",
+            "TextID": "tut001b.001",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_NPC_LOGI_SEI",
+            "TextID": "tut001b.001a",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 2,
+            "ActorID": "agat",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 2,
+            "TargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "TargetRotation": -1.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "UnitID": "UN_AGATHA",
+            "TextID": "tut001b.002",
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "UnitID": "UN_AGATHA",
+            "TextID": "tut001b.002a",
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 2,
+            "ActorID": "logi",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 2,
+            "TargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "TargetRotation": -1.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.75,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "AnimationName": "M_logi_sei_charge0_act0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "AnimationName": "M_logi_sei_charge0_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Duration": 0.30000001192092896,
+            "FrequencyX": 23.0,
+            "FrequencyY": 30.0,
+            "AmplitudeX": 0.5,
+            "AmplitudeY": 0.5,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 1,
+            "FadeOut": 0,
+            "Async": 1,
+            "FadeTime": 0.10000000149011612,
+            "FadeColor": {
+                "r": 0.501960813999176,
+                "g": 0.501960813999176,
+                "b": 0.501960813999176,
+                "a": 1.0
+            },
+            "ExcludeUnits": [
+                "logi",
+                "dios",
+                "agat"
+            ],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_NPC_LOGI_SEI",
+            "TextID": "tut001b.003",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 2,
+            "ActorID": "dios",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 2,
+            "TargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "TargetRotation": -1.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.75,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "AnimationName": "M_dios_ank_charge0_act0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "AnimationName": "M_dios_ank_charge0_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Duration": 0.30000001192092896,
+            "FrequencyX": 23.0,
+            "FrequencyY": 30.0,
+            "AmplitudeX": 0.5,
+            "AmplitudeY": 0.5,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_NPC_DIOS_ANK",
+            "TextID": "tut001b.004",
+            "Emotion": 0,
+            "CustomEmotion": "dios_angry2",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.25,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 5.5,
+                "y": 0.0,
+                "z": 5.5
+            },
+            "TargetRotation": 0.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 2.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.25,
+            "Speed": 1,
+            "TargetPosition": {
+                "x": 5.5,
+                "y": 0.0,
+                "z": 5.0
+            },
+            "TargetRotation": 0.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.75,
+            "MoveTime": 0.4000000059604645,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "mPoints": [
+                {
+                    "x": 2,
+                    "y": 5
+                },
+                {
+                    "x": 4,
+                    "y": 5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "Angle": -1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "mPoints": [
+                {
+                    "x": 8,
+                    "y": 5
+                },
+                {
+                    "x": 6,
+                    "y": 5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "Angle": -1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "mPoints": [
+                {
+                    "x": 5,
+                    "y": 7
+                },
+                {
+                    "x": 5,
+                    "y": 5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "Angle": -1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 1,
+            "FadeOut": 0,
+            "Async": 1,
+            "FadeTime": 1.0,
+            "FadeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [
+                "logi",
+                "dios",
+                "agat"
+            ],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "AnimationName": "M_dios_ank_atk0_stop",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "AnimationName": "M_logi_sei_atk0_stop",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "AnimationName": "F_agat_non_damage_act0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "AnimationName": "F_agat_non_damage_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_NPC_LOGI_SEI",
+            "TextID": "tut001b.005",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_NPC_DIOS_ANK",
+            "TextID": "tut001b.006",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "UnitID": "UN_AGATHA",
+            "TextID": "tut001b.007",
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "UnitID": "UN_AGATHA",
+            "TextID": "tut001b.007a",
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "AnimationName": "F_agat_non_damage_idle1",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "AnimationName": "F_agat_non_damage_idle2",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "AnimationName": "M_logi_sei_atk0_stop_aura0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "AnimationName": "M_dios_ank_atk0_stop_aura0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 3.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 0,
+            "FadeTime": 2.0,
+            "FadeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 2.0
+        }
+    ]
+}

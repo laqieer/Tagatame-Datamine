@@ -1,0 +1,176 @@
+{
+    "Name": "BT_EV_APRIL_2021_01",
+    "Bundle": "2bfd0896",
+    "Path": "assets/resources/events/bt_ev_april_2021_01.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 1.5
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": 0.10000000149011612,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 0,
+            "Async": 0,
+            "FadeTime": 3.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0,
+            "waitTap": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "BT_EV_APRIL_2021_01.001",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "BT_EV_APRIL_2021_01.002",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "BT_EV_APRIL_2021_01.003",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "BT_EV_APRIL_2021_01.004",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 2,
+            "ActorID": "nevi",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 2,
+            "TargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "TargetRotation": -1.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Duration": 1.0,
+            "FrequencyX": 20.0,
+            "FrequencyY": 30.0,
+            "AmplitudeX": 0.30000001192092896,
+            "AmplitudeY": 0.30000001192092896,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "nevi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "nevi",
+            "UnitID": "UN_V2_EN_NEVILLE",
+            "TextID": "BT_EV_APRIL_2021_01.005",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "nevi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612,
+            "waitTap": 0
+        }
+    ]
+}

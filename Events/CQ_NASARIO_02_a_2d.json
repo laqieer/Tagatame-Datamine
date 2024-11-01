@@ -1,0 +1,563 @@
+{
+    "Name": "CQ_NASARIO_02_a_2d",
+    "Bundle": "a22f44ad",
+    "Path": "assets/resources/events/cq_nasario_02_a_2d.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "bg79",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "rio",
+            "Flip": 0,
+            "Position": 1,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 4236715571700969441
+            },
+            "Emotion": "angry",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "nasa",
+            "Flip": 0,
+            "Position": 5,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 7977950334038024737
+            },
+            "Emotion": "normal",
+            "Async": 0,
+            "Fade": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0032"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.001",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.002",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "rio",
+            "Emotion": "sad"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "SE_9386",
+            "Loop": 1,
+            "Interval": 1.0,
+            "Count": 1,
+            "async": 1,
+            "SE_ID": "9386"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9386"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE_ID": "9386",
+            "Async": 0,
+            "fadeOutTime": 0.4000000059604645
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.6000000238418579
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "rio",
+            "UnitID": "UN_V2_RION",
+            "TextID": "CQ_NASARIO_02_a_2d.003",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.004",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.005",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.006",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "rio",
+            "UnitID": "UN_V2_RION",
+            "TextID": "CQ_NASARIO_02_a_2d.007",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.008",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "rio",
+            "UnitID": "UN_V2_RION",
+            "TextID": "CQ_NASARIO_02_a_2d.009",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "rio",
+            "Emotion": "sad"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9388"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 4.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "nasa",
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 2.4000000953674316
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "rio",
+            "Emotion": "normal"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.800000011920929
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.010",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "BGM": "0032"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.011",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.012",
+            "Emotion": "smile",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.013",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "rio",
+            "UnitID": "UN_V2_RION",
+            "TextID": "CQ_NASARIO_02_a_2d.014",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "rio",
+            "UnitID": "UN_V2_RION",
+            "TextID": "CQ_NASARIO_02_a_2d.015",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.016",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "rio",
+            "UnitID": "UN_V2_RION",
+            "TextID": "CQ_NASARIO_02_a_2d.017",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.018",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "rio",
+            "UnitID": "UN_V2_RION",
+            "TextID": "CQ_NASARIO_02_a_2d.019",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.020",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.021",
+            "Emotion": "normal",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.022",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "SE_2002",
+            "Loop": 1,
+            "Interval": 0.4000000059604645,
+            "Count": 4,
+            "async": 1,
+            "SE_ID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "nasa",
+            "MoveTime": 0.800000011920929,
+            "async": 0,
+            "MoveTo": 6
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.20000000298023224
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "rio",
+            "UnitID": "UN_V2_RION",
+            "TextID": "CQ_NASARIO_02_a_2d.023",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "rio",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "CharaID": "nasa",
+            "MoveTime": 0.0,
+            "async": 0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "nasa",
+            "Emotion": "sad_f"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.024",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.025",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.026",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "nasa",
+            "UnitID": "UN_V2_NASARIO",
+            "TextID": "CQ_NASARIO_02_a_2d.027",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 3.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

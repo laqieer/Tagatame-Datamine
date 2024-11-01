@@ -1,0 +1,39 @@
+{
+    "Name": "QE01_1_2_09_win",
+    "Bundle": "f7d4078f",
+    "Path": "assets/resources/events/qe01_1_2_09_win.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "log",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE01_1_2_09_win.001",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "sav",
+            "UnitID": "UN_V2_SABALETA",
+            "TextID": "QE01_1_2_09_win.002",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "sav"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

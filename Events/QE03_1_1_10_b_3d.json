@@ -1,0 +1,1566 @@
+{
+    "Name": "QE03_1_1_10_b_3d",
+    "Bundle": "79135771",
+    "Path": "assets/resources/events/qe03_1_1_10_b_3d.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0019"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BackgroundImage": "BGback_in_night"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "JobID": "",
+            "Position": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 3.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 90.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 1,
+            "m_AnimationName": "F_lies_yuj_talkidle",
+            "m_Loop": 0,
+            "m_AnimeType": 0,
+            "m_RunAnimation": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "AnimationName": "F_cmn_demo_walkback"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "alba",
+            "UnitID": "UN_V2_EN_ALBURMIN",
+            "JobID": "JB_BUG01",
+            "Position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 3.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 270.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER2",
+            "JobID": "",
+            "Position": {
+                "x": 2.5,
+                "y": 0.5,
+                "z": 3.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 90.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "EventAssets/wpn_dios02",
+            "ObjectID": "dios_wpn",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "dios_wpn",
+            "TargetID": "dios",
+            "BoneName": "Bip001 Prop1"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "AnimationName": "M_cmn_demo_walk0"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "Type": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 3.0
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.75,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "demo_kakoi",
+            "ObjectID": "kakoi1",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "kakoi1",
+            "Curve": 0,
+            "Position": {
+                "x": 3.5,
+                "y": 0.5,
+                "z": 2.0
+            },
+            "Rotation": {
+                "x": -90.0,
+                "y": -90.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "demo_kakoi",
+            "ObjectID": "kakoi2",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "kakoi2",
+            "Curve": 0,
+            "Position": {
+                "x": 1.5,
+                "y": 0.5,
+                "z": 2.0
+            },
+            "Rotation": {
+                "x": -90.0,
+                "y": -90.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "demo_kakoi",
+            "ObjectID": "kakoi3",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "kakoi3",
+            "Curve": 0,
+            "Position": {
+                "x": 0.699999988079071,
+                "y": 0.5,
+                "z": 5.0
+            },
+            "Rotation": {
+                "x": -90.0,
+                "y": -90.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "demo_kakoi",
+            "ObjectID": "kakoi4",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "kakoi4",
+            "Curve": 0,
+            "Position": {
+                "x": 0.699999988079071,
+                "y": 0.5,
+                "z": 7.0
+            },
+            "Rotation": {
+                "x": -90.0,
+                "y": -90.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "demo_kakoi",
+            "ObjectID": "kakoi5",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "kakoi5",
+            "Curve": 0,
+            "Position": {
+                "x": 3.5,
+                "y": 0.5,
+                "z": 8.0
+            },
+            "Rotation": {
+                "x": -90.0,
+                "y": -90.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SceneID": "bg_03_uraniwa_002",
+            "FadeIn": 1,
+            "WaitFadeIn": 0,
+            "FadeInTime": 2.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 3.5
+            },
+            "TargetRotation": 60.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 2.0,
+            "Async": 1,
+            "SnapToGround": 1,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "alba",
+            "mPoints": [
+                {
+                    "x": 5,
+                    "y": 3
+                },
+                {
+                    "x": 4,
+                    "y": 3
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 5.0,
+                    "y": 0.0,
+                    "z": 3.5
+                },
+                {
+                    "x": 4.0,
+                    "y": 0.0,
+                    "z": 3.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 1.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.20000000298023224
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "mPoints": [
+                {
+                    "x": 4,
+                    "y": 3
+                },
+                {
+                    "x": 3,
+                    "y": 3
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 4.0,
+                    "y": 0.0,
+                    "z": 3.5
+                },
+                {
+                    "x": 3.0,
+                    "y": 0.0,
+                    "z": 3.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 1.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "lies",
+            "LookAt": 1,
+            "LookAtID": "alba",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.0,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "lies",
+            "AnimationName": "F_lies_yuj_talkidle",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alba",
+            "mPoints": [
+                {
+                    "x": 4,
+                    "y": 3
+                },
+                {
+                    "x": 3,
+                    "y": 3
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 4.0,
+                    "y": 0.0,
+                    "z": 3.5
+                },
+                {
+                    "x": 3.0,
+                    "y": 0.0,
+                    "z": 3.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 1.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.20000000298023224
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "lies",
+            "mPoints": [
+                {
+                    "x": 3,
+                    "y": 3
+                },
+                {
+                    "x": 2,
+                    "y": 3
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 3.0,
+                    "y": 0.0,
+                    "z": 3.5
+                },
+                {
+                    "x": 2.0,
+                    "y": 0.0,
+                    "z": 3.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 1.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "lies",
+            "LookAt": 1,
+            "LookAtID": "alba",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.0,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "AnimationName": "F_lies_yuj_talkidle",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_1_1_10_b_3d.001",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alba",
+            "AnimationName": "alburmin_bug01_skillatk100",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 0,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "Type": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "AnimationName": "M_dios_ank_killatk2",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.20000000298023224
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "m_CueName": "SE_8502",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "EventAssets/eff_p_event_hit_slash",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 3.0,
+                "y": 1.5,
+                "z": 3.5
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alba",
+            "mPoints": [
+                {
+                    "x": 3,
+                    "y": 3
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 3.25,
+                    "y": 0.0,
+                    "z": 3.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "alba",
+            "AnimationName": "alburmin_cmn_damage0",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 0,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.12999999523162842
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_8504",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.699999988079071
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alba",
+            "AnimationName": "alburmin_cmn_groggy0",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.8399999737739563
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_1_1_10_b_3d.002",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "lies_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alba",
+            "AnimationName": "alburmin_demo_runback"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alba",
+            "mPoints": [
+                {
+                    "x": 3,
+                    "y": 3
+                },
+                {
+                    "x": 3,
+                    "y": 3
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 3.25,
+                    "y": 0.0,
+                    "z": 3.5
+                },
+                {
+                    "x": 3.5,
+                    "y": 0.0,
+                    "z": 3.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 1.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alba",
+            "AnimationName": "alburmin_bug01_runfield0"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alba",
+            "mPoints": [
+                {
+                    "x": 3,
+                    "y": 3
+                },
+                {
+                    "x": 5,
+                    "y": 3
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 3.5,
+                    "y": 0.0,
+                    "z": 3.5
+                },
+                {
+                    "x": 5.5,
+                    "y": 0.0,
+                    "z": 3.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alba",
+            "Type": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "BGM": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_UNKNOWN",
+            "TextID": "QE03_1_1_10_b_3d.003",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "dios_robe_00_none",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "BGM": "0031"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_1_1_10_b_3d.004",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "lies_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_1_1_10_b_3d.005",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_UNKNOWN",
+            "TextID": "QE03_1_1_10_b_3d.006",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "dios_robe_00_none",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_1_1_10_b_3d.007",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "lies_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 3.0
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 1.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "mPoints": [
+                {
+                    "x": 2,
+                    "y": 3
+                },
+                {
+                    "x": 2,
+                    "y": 2
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 2.5,
+                    "y": 0.0,
+                    "z": 3.5
+                },
+                {
+                    "x": 2.25,
+                    "y": 0.0,
+                    "z": 2.8499999046325684
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 230.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 2.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "lies",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 2.25,
+                "y": 0.5000007152557373,
+                "z": 2.8499999046325684
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.5,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 0,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_UNKNOWN",
+            "TextID": "QE03_1_1_10_b_3d.008",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "dios_robe_00_none",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_UNKNOWN",
+            "TextID": "QE03_1_1_10_b_3d.009",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "dios_robe_00_none",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "lies",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 1.850000023841858,
+                "y": 0.5000007152557373,
+                "z": 2.8499999046325684
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.20000000298023224,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 0,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_1_1_10_b_3d.010",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "lies_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "dios",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 2.5,
+                "y": 0.5000009536743164,
+                "z": 1.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "AnimationName": "F_yuj_runfield0"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_UNKNOWN",
+            "TextID": "QE03_1_1_10_b_3d.011",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "dios_robe_00_none",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 3.5,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 1.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "mPoints": [
+                {
+                    "x": 2,
+                    "y": 2
+                },
+                {
+                    "x": 2,
+                    "y": 1
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 2.25,
+                    "y": 0.0,
+                    "z": 2.8499999046325684
+                },
+                {
+                    "x": 2.5,
+                    "y": 0.0,
+                    "z": 1.0
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 180.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 2.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "lies",
+            "mPoints": [
+                {
+                    "x": 2,
+                    "y": 3
+                },
+                {
+                    "x": 2,
+                    "y": 3
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 2.0,
+                    "y": 0.0,
+                    "z": 3.5
+                },
+                {
+                    "x": 2.25,
+                    "y": 0.0,
+                    "z": 3.0
+                }
+            ],
+            "Delay": 0.5,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 180.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 3.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "AnimationName": "F_lies_yuj_talkidle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_1_1_10_b_3d.012",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "lies_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "dios",
+            "LookAt": 1,
+            "LookAtID": "lies",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.5,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 0,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "demo_cut_3_1_01",
+            "ObjectID": "cut",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 0.0,
+                        "inSlope": 1.0,
+                        "outSlope": 1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 1.0,
+                        "inSlope": 1.0,
+                        "outSlope": 1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 0
+            },
+            "CanvasID": "cut",
+            "Time": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 4.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "dios_wpn"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Curve": {
+                "m_Curve": [
+                    {
+                        "time": 0.0,
+                        "value": 1.0,
+                        "inSlope": -1.0,
+                        "outSlope": -1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    },
+                    {
+                        "time": 1.0,
+                        "value": 0.0,
+                        "inSlope": -1.0,
+                        "outSlope": -1.0,
+                        "weightedMode": 0,
+                        "inWeight": 0.3333333432674408,
+                        "outWeight": 0.3333333432674408
+                    }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 0
+            },
+            "CanvasID": "cut",
+            "Time": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "AnimationName": "M_dios_robe_hood",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "QE03_1_1_10_b_3d.013",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_1_1_10_b_3d.014",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "lies_shy",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "QE03_1_1_10_b_3d.015",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_1_1_10_b_3d.016",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "lies_shy",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_1_1_10_b_3d.017",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "lies_shy",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "QE03_1_1_10_b_3d.018",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_1_1_10_b_3d.019",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "lies_shy",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "mPoints": [
+                {
+                    "x": 2,
+                    "y": 1
+                },
+                {
+                    "x": 4,
+                    "y": -1
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 2.5,
+                    "y": 0.0,
+                    "z": 1.0
+                },
+                {
+                    "x": 4.5,
+                    "y": 0.0,
+                    "z": -0.15000000596046448
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 3.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "AnimationName": "F_lies_yuj_cooldown",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 0,
+            "Async": 0,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "lies",
+            "AnimationName": "F_lies_yuj_cooldown_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_1_1_10_b_3d.020",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "lies_shy",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "lies"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 0,
+            "FadeTime": 3.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

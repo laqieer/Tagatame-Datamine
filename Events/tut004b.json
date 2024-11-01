@@ -1,0 +1,386 @@
+{
+    "Name": "tut004b",
+    "Bundle": "429f482c",
+    "Path": "assets/resources/events/tut004b.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "BGM_0027"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BackgroundImage": "BGback_daytime"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "JobID": "JB_LOGI_ARM",
+            "Position": {
+                "x": 2,
+                "y": 2
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "ShowEquipments": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "JobID": "JB_DIOS_ARM",
+            "Position": {
+                "x": 4,
+                "y": 2
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "ShowEquipments": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "JobID": "JB_THI",
+            "Position": {
+                "x": 3,
+                "y": 15
+            },
+            "Persistent": 0,
+            "Angle": 180,
+            "ShowEquipments": 0,
+            "Posture": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.25,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 4.0,
+                "y": 0.0,
+                "z": 2.0
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": 0.10000000149011612,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SceneID": "bg_01_haikyo_001",
+            "FadeIn": 1,
+            "WaitFadeIn": 1,
+            "FadeInTime": 3.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "tut004b.001",
+            "Emotion": 1,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "tut004b.002",
+            "Emotion": 1,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "logi",
+            "LookAt": 1,
+            "LookAtID": "dios",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "dios",
+            "LookAt": 1,
+            "LookAtID": "logi",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "AnimationName": "M_logi_arm_victory0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "AnimationName": "M_logi_arm_victory0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "tut004b.004",
+            "Emotion": 1,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "tut004b.003",
+            "Emotion": 1,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 0,
+            "FadeTime": 3.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "BGM_0028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "Type": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "Type": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 2.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 0,
+            "Async": 1,
+            "FadeTime": 3.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "mPoints": [
+                {
+                    "x": 3,
+                    "y": 8
+                },
+                {
+                    "x": 3,
+                    "y": 3
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "Angle": 180.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_EV_UNKNOWN",
+            "TextID": "tut004b.005",
+            "Emotion": 0,
+            "CustomEmotion": "saba_serious",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_EV_UNKNOWN",
+            "TextID": "tut004b.006",
+            "Emotion": 0,
+            "CustomEmotion": "saba_serious",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_EV_UNKNOWN",
+            "TextID": "tut004b.006a",
+            "Emotion": 0,
+            "CustomEmotion": "saba_serious",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_EV_UNKNOWN",
+            "TextID": "tut004b.007",
+            "Emotion": 1,
+            "CustomEmotion": "saba_serious",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 3,
+            "TargetPosition": {
+                "x": 4.0,
+                "y": 2.0,
+                "z": 2.0
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": -1.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 3.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 1,
+            "FadeTime": 3.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        }
+    ]
+}

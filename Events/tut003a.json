@@ -1,0 +1,747 @@
+{
+    "Name": "tut003a",
+    "Bundle": "c4073bc8",
+    "Path": "assets/resources/events/tut003a.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "BGM_0028"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "mPoints": [
+                {
+                    "x": 2,
+                    "y": 1
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "Angle": 45.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "mPoints": [
+                {
+                    "x": 3,
+                    "y": 1
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "Angle": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "nevi",
+            "Type": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "vlad",
+            "UnitID": "UN_V2_EN_VLAD",
+            "JobID": "JB_BAA",
+            "Position": {
+                "x": 3,
+                "y": 2
+            },
+            "Persistent": 0,
+            "Angle": 180,
+            "ShowEquipments": 0,
+            "Posture": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.25,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 1.5
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": 0.10000000149011612,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "vlad",
+            "AnimationName": "MM_demo_non_restraint_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 0,
+            "Async": 0,
+            "FadeTime": 3.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "vlad",
+            "UnitID": "UN_V2_EN_VLAD",
+            "TextID": "tut003a.001",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ras_sold00"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.20000000298023224
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "AnimationName": "M_logi_arm_swordpose_act0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "AnimationName": "M_logi_arm_swordpose_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "logi",
+            "LookAt": 1,
+            "LookAtID": "dios",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.20000000298023224,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "tut003a.002",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "tut003a.003",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "tut003a.004",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "tut003a.005",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "tut003a.005a",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "tut003a.006",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "tut003a.007",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 1,
+            "FadeOut": 0,
+            "Async": 1,
+            "FadeTime": 2.0,
+            "FadeColor": {
+                "r": 0.501960813999176,
+                "g": 0.501960813999176,
+                "b": 0.501960813999176,
+                "a": 1.0
+            },
+            "ExcludeUnits": [
+                "logi",
+                "dios",
+                "vlad",
+                "nevi"
+            ],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_charsummon_boot00",
+            "ObjectID": "charsummon_boot00",
+            "Persistent": 0,
+            "Position": {
+                "x": 3.5,
+                "y": 0.0,
+                "z": 4.5
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "logi",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 4.5
+            },
+            "RotationMode": 0,
+            "Curve": 3,
+            "Time": 0.20000000298023224,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "nevi",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.25,
+            "Speed": 1,
+            "TargetPosition": {
+                "x": 3.0,
+                "y": 0.0,
+                "z": 3.0
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 2.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 1,
+            "FadeOut": 0,
+            "Async": 1,
+            "FadeTime": 0.5,
+            "FadeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [
+                "logi",
+                "dios",
+                "vlad",
+                "nevi"
+            ],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "nevi",
+            "Type": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_charsummon_smoke00",
+            "ObjectID": "charsummon_smoke00",
+            "Persistent": 0,
+            "Position": {
+                "x": 3.5,
+                "y": 0.0,
+                "z": 4.5
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "AnimationName": "M_logi_arm_guard0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "AnimationName": "M_logi_arm_guard0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "vlad",
+            "AnimationName": "MM_vlad_baa_damage_down0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "vlad",
+            "AnimationName": "MM_cmn_demo_down_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 2,
+            "ActorID": "dios",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 2,
+            "TargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "TargetRotation": -1.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "vlad",
+            "UnitID": "UN_V2_EN_VLAD",
+            "TextID": "tut003a.008",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_demo_death0",
+            "ObjectID": "death",
+            "Persistent": 0,
+            "Position": {
+                "x": 3.5,
+                "y": 0.0,
+                "z": 2.5
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "vlad",
+            "Type": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "vlad"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "tut003a.010",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "tut003a.009",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "tut003a.011",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 2,
+            "ActorID": "dios",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 2,
+            "TargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "TargetRotation": -1.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "tut003a.012",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "tut003a.013",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 2,
+            "ActorID": "nevi",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 2,
+            "TargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "TargetRotation": -1.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "nevi",
+            "UnitID": "UN_V2_EN_NEVILLE",
+            "TextID": "tut003a.014",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "tut003a.016",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "tut003a.015",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 2,
+            "ActorID": "logi",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 2,
+            "TargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "TargetRotation": -1.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "tut003a.017",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 2,
+            "ActorID": "dios",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 2,
+            "TargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "TargetRotation": -1.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "tut003a.018",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        }
+    ]
+}

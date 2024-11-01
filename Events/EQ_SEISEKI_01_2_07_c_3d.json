@@ -1,0 +1,39 @@
+{
+    "Name": "EQ_SEISEKI_01_2_07_c_3d",
+    "Bundle": "4c0786f8",
+    "Path": "assets/resources/events/eq_seiseki_01_2_07_c_3d.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "UN_V2_CADANOVA",
+            "UnitID": "UN_V2_CADANOVA",
+            "TextID": "EQ_SEISEKI_01_2_07_c_3d.001",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "cada_suffer",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "UN_V2_CADANOVA",
+            "UnitID": "UN_V2_CANON",
+            "TextID": "EQ_SEISEKI_01_2_07_c_3d.002",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "cano_c_suffer",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "UN_V2_CADANOVA"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

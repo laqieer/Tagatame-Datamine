@@ -1,0 +1,2937 @@
+{
+    "Name": "QE010089_z_3d",
+    "Bundle": "4536e345",
+    "Path": "assets/resources/events/qe010089_z_3d.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "BGM_0036"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BackgroundImage": "BGback_in_night"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "UnitID": "UN_AGATHA",
+            "JobID": "JB_WIZ",
+            "Position": {
+                "x": 3,
+                "y": 6
+            },
+            "Persistent": 0,
+            "Angle": 330,
+            "ShowEquipments": 0,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "JobID": "JB_ARM",
+            "Position": {
+                "x": 2,
+                "y": 6
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "ShowEquipments": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "JobID": "JB_THI",
+            "Position": {
+                "x": 2,
+                "y": 8
+            },
+            "Persistent": 0,
+            "Angle": 165,
+            "ShowEquipments": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "UnitID": "UN_V2_EN_DEMON_WIZ",
+            "JobID": "",
+            "Position": {
+                "x": 1,
+                "y": 9
+            },
+            "Persistent": 0,
+            "Angle": 135,
+            "ShowEquipments": 0,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_wiz_00_stop",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "UnitID": "UN_ZEKE",
+            "JobID": "JB_ZEKE_SEI",
+            "Position": {
+                "x": 4,
+                "y": 8
+            },
+            "Persistent": 0,
+            "Angle": 270,
+            "ShowEquipments": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan1",
+            "UnitID": "UN_LIZARD_BRIGADE",
+            "JobID": "JB_THI",
+            "Position": {
+                "x": 3,
+                "y": 9
+            },
+            "Persistent": 0,
+            "Angle": 225,
+            "ShowEquipments": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan2",
+            "UnitID": "UN_LIZARD_BRIGADE",
+            "JobID": "JB_THI",
+            "Position": {
+                "x": 1,
+                "y": 6
+            },
+            "Persistent": 0,
+            "Angle": 22,
+            "ShowEquipments": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "souen1",
+            "UnitID": "UN_BLUE_FLAME_KNIGHT",
+            "JobID": "JB_ARM",
+            "Position": {
+                "x": 6,
+                "y": 8
+            },
+            "Persistent": 0,
+            "Angle": 295,
+            "ShowEquipments": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "souen2",
+            "UnitID": "UN_BLUE_FLAME_KNIGHT",
+            "JobID": "JB_ARM",
+            "Position": {
+                "x": 6,
+                "y": 6
+            },
+            "Persistent": 0,
+            "Angle": 300,
+            "ShowEquipments": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba2",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "JobID": "JB_THI",
+            "Position": {
+                "x": 2,
+                "y": 5
+            },
+            "Persistent": 0,
+            "Angle": 115,
+            "ShowEquipments": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba2",
+            "Type": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "agat",
+            "StartTargetPosition": {
+                "x": 2.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.25,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 2.0,
+                "y": 1.0,
+                "z": 9.0
+            },
+            "TargetRotation": 55.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": 0.10000000149011612,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SceneID": "bg_01_toride_naka_003_N",
+            "FadeIn": 1,
+            "WaitFadeIn": 0,
+            "FadeInTime": 2.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 2.0,
+                "y": -1.0,
+                "z": 9.0
+            },
+            "TargetRotation": 55.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": 2.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE010089_z_3d.001",
+            "Emotion": 3,
+            "CustomEmotion": "logi_suffer",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_z_3d.002",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "UnitID": "UN_AGATHA",
+            "TextID": "QE010089_z_3d.003",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE010089_z_3d.004",
+            "Emotion": 3,
+            "CustomEmotion": "logi_suffer",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE010089_z_3d.005",
+            "Emotion": 3,
+            "CustomEmotion": "logi_suffer",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE010089_z_3d.006",
+            "Emotion": 3,
+            "CustomEmotion": "logi_suffer",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE010089_z_3d.007",
+            "Emotion": 3,
+            "CustomEmotion": "logi_angry2",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_z_3d.008",
+            "Emotion": 3,
+            "CustomEmotion": "saba_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "UnitID": "UN_ZEKE",
+            "TextID": "QE010089_z_3d.009",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "UnitID": "UN_AGATHA",
+            "TextID": "QE010089_z_3d.010",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_z_3d.011",
+            "Emotion": 3,
+            "CustomEmotion": "saba_serious",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_z_3d.012",
+            "Emotion": 3,
+            "CustomEmotion": "saba_serious",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_z_3d.013",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "demon",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 2.0,
+                "y": 1.0,
+                "z": 9.0
+            },
+            "TargetRotation": 55.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": 1.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "mPoints": [
+                {
+                    "x": 2,
+                    "y": 8
+                },
+                {
+                    "x": 2,
+                    "y": 8
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "Angle": 315.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "UnitID": "UN_AGATHA",
+            "TextID": "QE010089_z_3d.014",
+            "Emotion": 3,
+            "CustomEmotion": "agat_cry",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "AnimationName": "M_saba_none_embed",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "AnimationName": "M_thi_idlefield0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_wiz_00_start",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5699999928474426
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "SoundEff_9000",
+            "ObjectID": "SE9000",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.4299999475479126
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_none_idlefield0",
+            "AnimationType": 1,
+            "Loop": 1,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "mPoints": [
+                {
+                    "x": 2,
+                    "y": 8
+                },
+                {
+                    "x": 1,
+                    "y": 8
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "Angle": 135.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_z_3d.015",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE010089_z_3d.016",
+            "Emotion": 3,
+            "CustomEmotion": "logi_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "demon",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 2.0,
+                "y": 2.0,
+                "z": 9.0
+            },
+            "TargetRotation": 55.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "UnitID": "UN_V2_EN_DEMON_WIZ",
+            "TextID": "QE010089_z_3d.017",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_dmn_wiz_skillatk01",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.1699999570846558
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Duration": 1.0,
+            "FrequencyX": 12.513270378112793,
+            "FrequencyY": 20.465099334716797,
+            "AmplitudeX": 1.0,
+            "AmplitudeY": 2.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.33000001311302185
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "BGM_0025"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_dmn_wiz_skillatk00",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 0.5,
+                "y": 0.0,
+                "z": 10.0
+            },
+            "TargetRotation": 55.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": 0.10000000149011612,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.7300000190734863
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Duration": 1.0,
+            "FrequencyX": 12.513270378112793,
+            "FrequencyY": 20.465099334716797,
+            "AmplitudeX": 1.0,
+            "AmplitudeY": 1.5,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "SoundEff_9009",
+            "ObjectID": "SoundEff_9009",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.4699999988079071
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_none_idlefield0",
+            "AnimationType": 1,
+            "Loop": 1,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Duration": 2.0,
+            "FrequencyX": 12.513270378112793,
+            "FrequencyY": 20.465099334716797,
+            "AmplitudeX": 1.0,
+            "AmplitudeY": 1.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "demon",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 2.0,
+                "y": -1.0,
+                "z": 9.0
+            },
+            "TargetRotation": 55.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": 1.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "mPoints": [
+                {
+                    "x": 1,
+                    "y": 9
+                },
+                {
+                    "x": 2,
+                    "y": 8
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "Angle": 135.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_dmn_wiz_skillatk01",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.1699999570846558
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Duration": 4.0,
+            "FrequencyX": 12.513270378112793,
+            "FrequencyY": 20.465099334716797,
+            "AmplitudeX": 1.0,
+            "AmplitudeY": 1.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "SoundEff_9009",
+            "ObjectID": "SoundEff_9009",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.33000001311302185
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_none_idlefield0",
+            "AnimationType": 1,
+            "Loop": 1,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan1",
+            "AnimationName": "M_logi_sei_stagger0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan2",
+            "AnimationName": "M_logi_sei_stagger0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan1",
+            "AnimationName": "M_cmn_demo_kneel_sit0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan2",
+            "AnimationName": "M_cmn_demo_kneel_sit0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan2",
+            "AnimationName": "M_cmn_demo_kneel_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan1",
+            "AnimationName": "M_cmn_demo_kneel_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "souen1",
+            "UnitID": "UN_BLUE_FLAME_KNIGHT",
+            "TextID": "QE010089_z_3d.018",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "kage",
+            "UnitID": "UN_LIZARD_BRIGADE",
+            "TextID": "QE010089_z_3d.019",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "kage"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "mPoints": [
+                {
+                    "x": 3,
+                    "y": 6
+                },
+                {
+                    "x": 3,
+                    "y": 7
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "Angle": 290.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "UnitID": "UN_AGATHA",
+            "TextID": "QE010089_z_3d.020",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "mPoints": [
+                {
+                    "x": 1,
+                    "y": 8
+                },
+                {
+                    "x": 1,
+                    "y": 7
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "Angle": 90.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_z_3d.021",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_z_3d.022",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_z_3d.023",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE010089_z_3d.024",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "AnimationName": "M_sei_atk0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "UnitID": "UN_ZEKE",
+            "TextID": "QE010089_z_3d.025",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_dmn_wiz_skillatk01",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.1699999570846558
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Duration": 1.0,
+            "FrequencyX": 12.513270378112793,
+            "FrequencyY": 20.465099334716797,
+            "AmplitudeX": 1.0,
+            "AmplitudeY": 1.5,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "SoundEff_9009",
+            "ObjectID": "SoundEff_9009",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.33000001311302185
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 3,
+            "TargetPosition": {
+                "x": 2.5,
+                "y": -1.0,
+                "z": 9.0
+            },
+            "TargetRotation": 55.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": -1.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "mPoints": [
+                {
+                    "x": 2,
+                    "y": 8
+                },
+                {
+                    "x": 3,
+                    "y": 7
+                }
+            ],
+            "Delay": 0.5,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "Angle": -1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "mPoints": [
+                {
+                    "x": 3,
+                    "y": 7
+                },
+                {
+                    "x": 2,
+                    "y": 5
+                }
+            ],
+            "Delay": 0.6000000238418579,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "Angle": 25.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan1",
+            "AnimationName": "M_cmn_demo_kneel_stand0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan2",
+            "AnimationName": "M_cmn_demo_kneel_stand0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan1",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan2",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.3499999940395355
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Duration": 1.0,
+            "FrequencyX": 12.513270378112793,
+            "FrequencyY": 20.465099334716797,
+            "AmplitudeX": 1.0,
+            "AmplitudeY": 1.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "zeke",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 3.5,
+                "y": 0.0,
+                "z": 7.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.20000000298023224,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "logi",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 3.5,
+                "y": 0.0,
+                "z": 7.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.20000000298023224,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "ryodan1",
+            "LookAt": 1,
+            "LookAtID": "demon",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.20000000298023224,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "ryodan2",
+            "LookAt": 1,
+            "LookAtID": "demon",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.20000000298023224,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_dmn_wiz_skillatk01",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.1699999570846558
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Duration": 2.0,
+            "FrequencyX": 12.513270378112793,
+            "FrequencyY": 20.465099334716797,
+            "AmplitudeX": 1.0,
+            "AmplitudeY": 2.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "SoundEff_9009",
+            "ObjectID": "SoundEff_9009",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.33000001311302185
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "zeke",
+            "LookAt": 1,
+            "LookAtID": "demon",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.20000000298023224,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "UnitID": "UN_ZEKE",
+            "TextID": "QE010089_a_2d.001",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "AnimationName": "M_sei_skillatk100",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_sword_sparks01",
+            "ObjectID": "eff_p_sword_sparks01",
+            "Persistent": 0,
+            "Position": {
+                "x": 3.700000047683716,
+                "y": 1.5,
+                "z": 7.699999809265137
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_cmn_damage0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_none_runfield0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "demon",
+            "LookAt": 1,
+            "LookAtID": "zeke",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.5,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_dmn_wiz_skillatk00",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0299999713897705
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Duration": 2.5,
+            "FrequencyX": 12.513270378112793,
+            "FrequencyY": 20.465099334716797,
+            "AmplitudeX": 1.0,
+            "AmplitudeY": 1.5,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "SoundEff_9009",
+            "ObjectID": "SoundEff_9009",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.4699999988079071
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_dmn_skill00_hit",
+            "ObjectID": "eff_p_dmn_skill00_hit",
+            "Persistent": 0,
+            "Position": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 8.5
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.15000000596046448
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_sword_sparks01",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 4.300000190734863,
+                "y": 1.5,
+                "z": 8.300000190734863
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "AnimationName": "M_cmn_guard0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "AnimationName": "M_sei_skillatk01",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.600000023841858
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_hit_slash",
+            "ObjectID": "eff_p_event_hit_slash",
+            "Persistent": 0,
+            "Position": {
+                "x": 3.5,
+                "y": 1.5,
+                "z": 7.5
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_sword_sparks01",
+            "ObjectID": "eff_p_sword_sparks01",
+            "Persistent": 0,
+            "Position": {
+                "x": 3.700000047683716,
+                "y": 1.5,
+                "z": 7.699999809265137
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_wiz_00_wobbleB0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.7300000190734863
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.27000001072883606
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_wiz_00_wobbleB1",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE010089_a_2d.002",
+            "Emotion": 3,
+            "CustomEmotion": "logi_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_a_2d.003",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "mPoints": [
+                {
+                    "x": 1,
+                    "y": 7
+                },
+                {
+                    "x": 1,
+                    "y": 5
+                },
+                {
+                    "x": 2,
+                    "y": 5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "Angle": 25.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.699999988079071
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "Type": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba2",
+            "Type": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba2",
+            "AnimationName": "M_saba_none_hostage0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "AnimationName": "F_agat_none_hostage0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba2",
+            "AnimationName": "M_saba_none_hostage1",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "AnimationName": "F_agat_none_hostage1",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 2,
+            "TargetPosition": {
+                "x": 2.0,
+                "y": -1.0,
+                "z": 7.5
+            },
+            "TargetRotation": 65.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": -1.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "UnitID": "UN_EV_AGASA",
+            "TextID": "QE010089_a_2d.004",
+            "Emotion": 2,
+            "CustomEmotion": "agat_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "logi",
+            "LookAt": 1,
+            "LookAtID": "agat",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.20000000298023224,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE010089_a_2d.005",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "zeke",
+            "LookAt": 1,
+            "LookAtID": "agat",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.20000000298023224,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_a_2d.006",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "UnitID": "UN_ZEKE",
+            "TextID": "QE010089_a_2d.007",
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_a_2d.008",
+            "Emotion": 1,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "UnitID": "UN_AGATHA",
+            "TextID": "QE010089_a_2d.009",
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_a_2d.010",
+            "Emotion": 3,
+            "CustomEmotion": "saba_serious",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "UnitID": "UN_AGATHA",
+            "TextID": "QE010089_a_2d.011",
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "UnitID": "UN_EV_AGASA",
+            "TextID": "QE010089_a_2d.012",
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_a_2d.013",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "UnitID": "UN_AGATHA",
+            "TextID": "QE010089_a_2d.014",
+            "Emotion": 2,
+            "CustomEmotion": "agat_cry",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_a_2d.015",
+            "Emotion": 3,
+            "CustomEmotion": "saba_serious",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_wiz_00_rebuildB",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_none_runfield0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "demon",
+            "LookAt": 1,
+            "LookAtID": "saba",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.7400000095367432,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "UnitID": "UN_V2_EN_DEMON_WIZ",
+            "TextID": "QE010089_a_2d.016",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_dmn_wiz_skillatk00",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0299999713897705
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Duration": 2.0,
+            "FrequencyX": 12.513270378112793,
+            "FrequencyY": 20.465099334716797,
+            "AmplitudeX": 1.0,
+            "AmplitudeY": 1.5,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "SoundEff_9009",
+            "ObjectID": "SoundEff_9009",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.4699999988079071
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_a_2d.017",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "UnitID": "UN_AGATHA",
+            "TextID": "QE010089_a_2d.018",
+            "Emotion": 0,
+            "CustomEmotion": "agat_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 2,
+            "TargetPosition": {
+                "x": 3.5,
+                "y": -1.0,
+                "z": 6.5
+            },
+            "TargetRotation": 55.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": -1.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "saba",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 3.5,
+                "y": 0.0,
+                "z": 5.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.10000000149011612,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba2",
+            "AnimationName": "M_saba_none_thrust0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "mPoints": [
+                {
+                    "x": 2,
+                    "y": 5
+                },
+                {
+                    "x": 4,
+                    "y": 5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "Angle": 90.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "AnimationName": "F_agat_none_falling0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_dmn_skill00_hit",
+            "ObjectID": "eff_p_dmn_skill00_hit",
+            "Persistent": 0,
+            "Position": {
+                "x": 2.5,
+                "y": 0.5,
+                "z": 5.5
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "AnimationName": "F_agat_none_falling1",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba2",
+            "AnimationName": "M_cmn_demo_kneel_sit0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba2",
+            "AnimationName": "M_cmn_demo_kneel_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_a_2d.019",
+            "Emotion": 2,
+            "CustomEmotion": "saba_surprised",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "AnimationName": "F_agat_none_lookback0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat",
+            "AnimationName": "F_agat_none_lookback1",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat2",
+            "UnitID": "UN_AGATHA",
+            "TextID": "QE010089_a_2d.020",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "agat2"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "mPoints": [
+                {
+                    "x": 2,
+                    "y": 6
+                },
+                {
+                    "x": 4,
+                    "y": 6
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "Angle": 180.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "AnimationName": "M_logi_sei_blow_off_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE010089_a_2d.021",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "AnimationName": "M_cmn_demo_kneel_stand0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "logi",
+            "LookAt": 1,
+            "LookAtID": "demon",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE010089_a_2d.022",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "mPoints": [
+                {
+                    "x": 4,
+                    "y": 8
+                },
+                {
+                    "x": 4,
+                    "y": 7
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "Angle": 270.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke",
+            "UnitID": "UN_ZEKE",
+            "TextID": "QE010089_a_2d.023",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_a_2d.024",
+            "Emotion": 3,
+            "CustomEmotion": "saba_serious",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_a_2d.025",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zeke"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_none_runfield0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "demon",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 6.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.3700000047683716,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "UnitID": "UN_V2_EN_DEMON_WIZ",
+            "TextID": "QE010089_a_2d.026",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 3,
+            "TargetPosition": {
+                "x": 3.0,
+                "y": -0.5,
+                "z": 8.0
+            },
+            "TargetRotation": 50.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.25,
+            "MoveTime": 4.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_dmn_wiz_skillatk00",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0299999713897705
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Duration": 2.0,
+            "FrequencyX": 12.513270378112793,
+            "FrequencyY": 20.465099334716797,
+            "AmplitudeX": 1.0,
+            "AmplitudeY": 1.5,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "SoundEff_9009",
+            "ObjectID": "SoundEff_9009",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.4699999988079071
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_dmn_wiz_skillatk00",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_dmn_skill00_hit",
+            "ObjectID": "eff_p_dmn_skill00_hit",
+            "Persistent": 0,
+            "Position": {
+                "x": 6.5,
+                "y": 0.0,
+                "z": 7.5
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0299999713897705
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Duration": 2.0,
+            "FrequencyX": 12.513270378112793,
+            "FrequencyY": 20.465099334716797,
+            "AmplitudeX": 1.0,
+            "AmplitudeY": 1.5,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.4699999988079071
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "dmn_dmn_wiz_skillatk00",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_dmn_skill00_hit",
+            "ObjectID": "eff_p_dmn_skill00_hit",
+            "Persistent": 0,
+            "Position": {
+                "x": 3.5,
+                "y": 1.0,
+                "z": 4.5
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "souen1",
+            "AnimationName": "M_cmn_demo_kneel_sit0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "souen2",
+            "AnimationName": "M_cmn_demo_kneel_sit0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "souen1",
+            "AnimationName": "M_logi_sei_blow_off_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "souen2",
+            "AnimationName": "M_logi_sei_blow_off_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.699999988079071
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Duration": 2.0,
+            "FrequencyX": 12.513270378112793,
+            "FrequencyY": 20.465099334716797,
+            "AmplitudeX": 1.0,
+            "AmplitudeY": 1.5,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.4699999988079071
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "demon",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_dmn_skill00_hit",
+            "ObjectID": "eff_p_dmn_skill00_hit",
+            "Persistent": 0,
+            "Position": {
+                "x": 2.5,
+                "y": 2.0,
+                "z": 9.5
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan1",
+            "AnimationName": "M_cmn_demo_kneel_sit0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan2",
+            "AnimationName": "M_cmn_demo_kneel_sit0",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan1",
+            "AnimationName": "M_cmn_demo_kneel_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan2",
+            "AnimationName": "M_cmn_demo_kneel_idle0",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.6699999570846558
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "souen1",
+            "UnitID": "UN_BLUE_FLAME_KNIGHT",
+            "TextID": "QE010089_a_2d.027",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ryodan1",
+            "UnitID": "UN_LIZARD_BRIGADE",
+            "TextID": "QE010089_a_2d.028",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "souen1"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 1,
+            "TargetPosition": {
+                "x": 3.0,
+                "y": -1.0,
+                "z": 8.0
+            },
+            "TargetRotation": 50.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": -1.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba",
+            "UnitID": "UN_V2_EN_SABALETA",
+            "TextID": "QE010089_a_2d.029",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "saba"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE010089_a_2d.030",
+            "Emotion": 2,
+            "CustomEmotion": "logi_suffer",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 0,
+            "FadeTime": 3.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "InterpSpeed": 0,
+            "ActorIDs": [
+                "dios"
+            ]
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "tut003a.014",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "tut003a.015",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "tut003a.016",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "nevi",
+            "UnitID": "UN_V2_EN_NEVILLE",
+            "TextID": "tut003a.017",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "tut003a.018",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "tut003a.018",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "nevi",
+            "UnitID": "UN_V2_EN_NEVILLE",
+            "TextID": "tut003a.019",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "InterpSpeed": 0,
+            "ActorIDs": [
+                "logi"
+            ]
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "logi",
+            "LookAt": 1,
+            "LookAtID": "nevi",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 1.0,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "logi",
+            "LookAt": 1,
+            "LookAtID": "nevi",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 1.0,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "tut003a.020",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "tut003a.021",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "nevi",
+            "UnitID": "UN_V2_EN_NEVILLE",
+            "TextID": "tut003a.022",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "nevi",
+            "UnitID": "UN_V2_EN_NEVILLE",
+            "TextID": "tut003a.023",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 2
+        }
+    ]
+}

@@ -1,0 +1,894 @@
+{
+    "Name": "QE02_4_3_01_a_2d",
+    "Bundle": "c1e3104f",
+    "Path": "assets/resources/events/qe02_4_3_01_a_2d.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "black",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Background": "bg28",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EDGAR",
+            "Flip": 0,
+            "Position": 1,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 5865748377540694896
+            },
+            "Emotion": "angry"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_ALVAREZ",
+            "Flip": 0,
+            "Position": 5,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 7094633370687600550
+            },
+            "Emotion": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_FIONA",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 1303062492476006099
+            },
+            "Emotion": "normal2"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "UN_EV_ETHAN",
+            "Flip": 0,
+            "Position": 0,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 1976571142915683872
+            },
+            "Emotion": "angry2"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "CharaID": "demo",
+            "Flip": 0,
+            "Position": 3,
+            "StandTemplate": {
+                "m_FileID": 0,
+                "m_PathID": 5429921888557922112
+            },
+            "Emotion": "00"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0011"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.001",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_ALVAREZ",
+            "UnitID": "UN_V2_EN_ALVAREZ",
+            "TextID": "QE02_4_3_01_a_2d.002",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.003",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.004",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "demo",
+            "MoveTime": 0.0,
+            "MoveTo": 3
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "demo",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.005",
+            "Emotion": "01",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.006",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.007",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.008",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.009",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "demo",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_ALVAREZ",
+            "UnitID": "UN_V2_EN_ALVAREZ",
+            "TextID": "QE02_4_3_01_a_2d.010",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.011",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_ALVAREZ",
+            "UnitID": "UN_V2_EN_ALVAREZ",
+            "TextID": "QE02_4_3_01_a_2d.012",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.013",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.014",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_ALVAREZ",
+            "UnitID": "UN_V2_EN_ALVAREZ",
+            "TextID": "QE02_4_3_01_a_2d.015",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.016",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.017",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.018",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_ALVAREZ",
+            "UnitID": "UN_V2_EN_ALVAREZ",
+            "TextID": "QE02_4_3_01_a_2d.019",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.020",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.021",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.022",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.023",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_ALVAREZ",
+            "UnitID": "UN_V2_EN_ALVAREZ",
+            "TextID": "QE02_4_3_01_a_2d.024",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.025",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.026",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.027",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.028",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.029",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_ALVAREZ",
+            "UnitID": "UN_V2_EN_ALVAREZ",
+            "TextID": "QE02_4_3_01_a_2d.030",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.031",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.032",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.033",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.034",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EN_ALVAREZ",
+            "UnitID": "UN_V2_EN_ALVAREZ",
+            "TextID": "QE02_4_3_01_a_2d.035",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SE": "9066"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_V2_EDGAR",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_01_a_2d.036",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_V2_EDGAR",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_V2_EN_ALVAREZ",
+            "MoveTime": 0.0,
+            "MoveTo": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_FIONA",
+            "MoveTime": 0.0,
+            "MoveTo": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "CharaID": "UN_EV_ETHAN",
+            "MoveTime": 0.0,
+            "MoveTo": 4
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Background": "bg44",
+            "mBackGround": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "FadeOut": 0,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_FIONA",
+            "UnitID": "UN_EV_FIONA",
+            "TextID": "QE02_4_3_01_a_2d.037",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.038",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.039",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_FIONA",
+            "UnitID": "UN_EV_FIONA",
+            "TextID": "QE02_4_3_01_a_2d.040",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.041",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.042",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.043",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.044",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_FIONA",
+            "UnitID": "UN_EV_FIONA",
+            "TextID": "QE02_4_3_01_a_2d.045",
+            "Emotion": "angry",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.046",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_FIONA",
+            "UnitID": "UN_EV_FIONA",
+            "TextID": "QE02_4_3_01_a_2d.047",
+            "Emotion": "surprised",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.048",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.049",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_FIONA",
+            "UnitID": "UN_EV_FIONA",
+            "TextID": "QE02_4_3_01_a_2d.050",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.051",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.052",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_FIONA",
+            "UnitID": "UN_EV_FIONA",
+            "TextID": "QE02_4_3_01_a_2d.053",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_FIONA",
+            "UnitID": "UN_EV_FIONA",
+            "TextID": "QE02_4_3_01_a_2d.054",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.055",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.056",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.057",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_FIONA",
+            "UnitID": "UN_EV_FIONA",
+            "TextID": "QE02_4_3_01_a_2d.058",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.059",
+            "Emotion": "angry2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.060",
+            "Emotion": "",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.061",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_FIONA",
+            "UnitID": "UN_EV_FIONA",
+            "TextID": "QE02_4_3_01_a_2d.062",
+            "Emotion": "normal2",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.063",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "2DPlus",
+            "CharaID": "UN_EV_ETHAN",
+            "UnitID": "UN_EV_ETHAN",
+            "TextID": "QE02_4_3_01_a_2d.064",
+            "Emotion": "sad",
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "FadeOut": 1,
+            "ChangeColor": 0,
+            "Async": 0,
+            "FadeTime": 3.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

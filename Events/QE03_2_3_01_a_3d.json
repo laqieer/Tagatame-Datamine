@@ -1,0 +1,2879 @@
+{
+    "Name": "QE03_2_3_01_a_3d",
+    "Bundle": "f41eccd7",
+    "Path": "assets/resources/events/qe03_2_3_01_a_3d.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0028"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "BackgroundImage": "BGback_in_night"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "wiz1",
+            "UnitID": "UN_V2_EN_COURT_WIZARD",
+            "JobID": "JB_WIZ_ACE",
+            "Position": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 6.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 90.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 0,
+            "Path": 0,
+            "m_AnimationName": "F_mage_demo_guard1_idle",
+            "m_Loop": 1,
+            "m_AnimeType": 0,
+            "m_RunAnimation": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz2",
+            "UnitID": "UN_V2_EN_COURT_WIZARD",
+            "JobID": "JB_WIZ_ACE",
+            "Position": {
+                "x": 6.5,
+                "y": -4.16393114432978e-10,
+                "z": 6.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 270.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 0,
+            "Path": 0,
+            "m_AnimationName": "F_mage_demo_guard1_idle",
+            "m_Loop": 1,
+            "m_AnimeType": 0,
+            "m_RunAnimation": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz3",
+            "UnitID": "UN_V2_EN_COURT_WIZARD",
+            "JobID": "JB_WIZ_ACE",
+            "Position": {
+                "x": 4.5,
+                "y": 3.738086223602295,
+                "z": 5.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 90.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 0,
+            "Path": 0,
+            "m_AnimationName": "F_mage_demo_guard1_idle",
+            "m_Loop": 1,
+            "m_AnimeType": 0,
+            "m_RunAnimation": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz4",
+            "UnitID": "UN_V2_EN_COURT_WIZARD",
+            "JobID": "JB_WIZ_ACE",
+            "Position": {
+                "x": 6.5,
+                "y": 0.0,
+                "z": 5.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 270.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 0,
+            "Path": 0,
+            "m_AnimationName": "F_mage_demo_guard1_idle",
+            "m_Loop": 1,
+            "m_AnimeType": 0,
+            "m_RunAnimation": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz5",
+            "UnitID": "UN_V2_EN_COURT_WIZARD",
+            "JobID": "JB_WIZ_ACE",
+            "Position": {
+                "x": 4.5,
+                "y": 0.0,
+                "z": 4.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 90.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 0,
+            "Path": 0,
+            "m_AnimationName": "F_mage_demo_guard1_idle",
+            "m_Loop": 1,
+            "m_AnimeType": 0,
+            "m_RunAnimation": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz6",
+            "UnitID": "UN_V2_EN_COURT_WIZARD",
+            "JobID": "JB_WIZ_ACE",
+            "Position": {
+                "x": 6.5,
+                "y": 0.0,
+                "z": 4.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 270.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 0,
+            "Path": 0,
+            "m_AnimationName": "F_mage_demo_guard1_idle",
+            "m_Loop": 1,
+            "m_AnimeType": 0,
+            "m_RunAnimation": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "JobID": "",
+            "Position": {
+                "x": 5.5,
+                "y": 0.0,
+                "z": -0.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 0.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 7.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.75,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SceneID": "chapter3_02_siro",
+            "FadeIn": 1,
+            "WaitFadeIn": 0,
+            "FadeInTime": 3.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 7.0,
+                "y": 1.0,
+                "z": 2.0
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.75,
+            "MoveTime": 3.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "AnimationName": "M_saro_demo_walk0"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "mPoints": [
+                {
+                    "x": 5,
+                    "y": -1
+                },
+                {
+                    "x": 5,
+                    "y": 2
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 5.5,
+                    "y": 0.0,
+                    "z": -0.5
+                },
+                {
+                    "x": 5.5,
+                    "y": 0.0,
+                    "z": 2.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 0.0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "RunSpeed": 1.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "wiz",
+            "UnitID": "UN_V2_EN_COURT_WIZARD",
+            "TextID": "QE03_2_3_01_a_3d.001",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/obj_demo_venusshadow",
+            "ObjectID": "shadow",
+            "Persistent": 0,
+            "Position": {
+                "x": 2.5,
+                "y": 1.2000000476837158,
+                "z": 10.5
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "dios",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 2.0,
+                "y": 0.07999975979328156,
+                "z": 7.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.5,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "wiz1",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_guard2",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz2",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_guard2",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz3",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_guard2",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz4",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_guard2",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz5",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_guard2",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz6",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_guard2",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "m_CueName": "9214",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "dios",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 5.5,
+                "y": 1.2000006437301636,
+                "z": 10.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 3.0,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz1",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_guard2_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz2",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_guard2_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz3",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_guard2_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz4",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_guard2_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz5",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_guard2_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz6",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_guard2_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "m_CueName": "9064",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "shadow",
+            "Curve": 0,
+            "Position": {
+                "x": 5.5,
+                "y": 1.2000000476837158,
+                "z": 10.5
+            },
+            "Rotation": {
+                "x": 35.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "Time": 2.5,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "shadow",
+            "Curve": 0,
+            "Position": {
+                "x": 5.5,
+                "y": 1.2000000476837158,
+                "z": 10.5
+            },
+            "Rotation": {
+                "x": 55.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "Time": 2.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "QE03_2_3_01_a_3d.002",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "QE03_2_3_01_a_3d.003",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "QE03_2_3_01_a_3d.004",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "wiz1",
+            "mPoints": [
+                {
+                    "x": 4,
+                    "y": 6
+                },
+                {
+                    "x": 4,
+                    "y": 3
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 4.5,
+                    "y": 0.0,
+                    "z": 6.5
+                },
+                {
+                    "x": 4.9079999923706055,
+                    "y": 0.0,
+                    "z": 3.828000068664551
+                }
+            ],
+            "Delay": 1.5,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 150.03109741210938,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz2",
+            "mPoints": [
+                {
+                    "x": 6,
+                    "y": 6
+                },
+                {
+                    "x": 5,
+                    "y": 3
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": 6.5
+                },
+                {
+                    "x": 5.938000202178955,
+                    "y": 0.0,
+                    "z": 3.806999921798706
+                }
+            ],
+            "Delay": 1.5,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 195.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz3",
+            "mPoints": [
+                {
+                    "x": 4,
+                    "y": 5
+                },
+                {
+                    "x": 4,
+                    "y": 3
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 4.5,
+                    "y": 0.0,
+                    "z": 5.5
+                },
+                {
+                    "x": 4.289000034332275,
+                    "y": 0.0,
+                    "z": 3.1619999408721924
+                }
+            ],
+            "Delay": 1.25,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 113.61190032958984,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz4",
+            "mPoints": [
+                {
+                    "x": 6,
+                    "y": 5
+                },
+                {
+                    "x": 6,
+                    "y": 3
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": 5.5
+                },
+                {
+                    "x": 6.440000057220459,
+                    "y": 0.0,
+                    "z": 3.184000015258789
+                }
+            ],
+            "Delay": 1.25,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 225.53109741210938,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz5",
+            "mPoints": [
+                {
+                    "x": 4,
+                    "y": 4
+                },
+                {
+                    "x": 4,
+                    "y": 2
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 4.5,
+                    "y": 0.0,
+                    "z": 4.5
+                },
+                {
+                    "x": 4.122000217437744,
+                    "y": 0.0,
+                    "z": 2.444999933242798
+                }
+            ],
+            "Delay": 1.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 84.5135269165039,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz6",
+            "mPoints": [
+                {
+                    "x": 6,
+                    "y": 4
+                },
+                {
+                    "x": 6,
+                    "y": 2
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": 4.5
+                },
+                {
+                    "x": 6.64900016784668,
+                    "y": 0.0,
+                    "z": 2.311000108718872
+                }
+            ],
+            "Delay": 1.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 268.5223083496094,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "QE03_2_3_01_a_3d.005",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 7.0,
+                "y": 1.0,
+                "z": 1.25
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 0.5,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "wiz1",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_posebroom",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz2",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_posebroom",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz3",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_posebroom",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz4",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_posebroom",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz5",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_posebroom",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz6",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_posebroom",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.20000000298023224
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "m_CueName": "3003",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz1",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_posebroom_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz2",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_posebroom_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz3",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_posebroom_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz4",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_posebroom_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz5",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_posebroom_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz6",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_posebroom_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "QE03_2_3_01_a_3d.006",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "venus",
+            "UnitID": "UN_V2_EN_VENUS",
+            "TextID": "QE03_2_3_01_a_3d.007",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "venus_none",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "QE03_2_3_01_a_3d.008",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "venus",
+            "UnitID": "UN_V2_EN_VENUS",
+            "TextID": "QE03_2_3_01_a_3d.009",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "venus_none",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "venus",
+            "UnitID": "UN_V2_EN_VENUS",
+            "TextID": "QE03_2_3_01_a_3d.010",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "venus_none",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "QE03_2_3_01_a_3d.011",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 0,
+            "FadeTime": 2.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "Type": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz5",
+            "Type": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz6",
+            "Type": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 2.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "JobID": "JB_LIES_PRI",
+            "Position": {
+                "x": 11.0,
+                "y": 0.0,
+                "z": -1.0
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 0.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "reve",
+            "UnitID": "UN_EV_REBECCA",
+            "JobID": "",
+            "Position": {
+                "x": 10.5,
+                "y": 0.0,
+                "z": -1.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 0.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "alma",
+            "UnitID": "UN_EV_ALMA",
+            "JobID": "",
+            "Position": {
+                "x": 11.5,
+                "y": 0.0,
+                "z": -1.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 0.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "wpn_bloom",
+            "ObjectID": "wpn_alma",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "wpn_alma",
+            "TargetID": "alma",
+            "BoneName": "Bip001 Prop1"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "wpn_bloom",
+            "ObjectID": "wpn_reve",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "wpn_reve",
+            "TargetID": "reve",
+            "BoneName": "Bip001 Prop1"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "bug1",
+            "UnitID": "UN_V2_EN_BUGMEILE",
+            "JobID": "JB_SAROMO_THI",
+            "Position": {
+                "x": 7.5,
+                "y": 0.9999998807907104,
+                "z": 1.75
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 250.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "bug2",
+            "UnitID": "UN_V2_EN_BUGMEILE",
+            "JobID": "JB_SAROMO_THI",
+            "Position": {
+                "x": 4.5,
+                "y": 3.0,
+                "z": 7.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 60.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alba1",
+            "UnitID": "UN_V2_EN_ALBURMIN",
+            "JobID": "JB_BUG01",
+            "Position": {
+                "x": 5.5,
+                "y": 3.02000093460083,
+                "z": 7.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 50.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz1",
+            "mPoints": [
+                {
+                    "x": 5,
+                    "y": 1
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 5.5,
+                    "y": 0.0,
+                    "z": 1.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 70.0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz2",
+            "mPoints": [
+                {
+                    "x": 7,
+                    "y": 8
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 7.0,
+                    "y": 0.0,
+                    "z": 8.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 245.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz3",
+            "mPoints": [
+                {
+                    "x": 11,
+                    "y": 8
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 11.5,
+                    "y": 0.0,
+                    "z": 8.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 90.0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz4",
+            "mPoints": [
+                {
+                    "x": 8,
+                    "y": 4
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 8.5,
+                    "y": 0.0,
+                    "z": 4.0
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 180.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0036"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 7.0,
+                "y": 2.0,
+                "z": 0.5
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/obj_demo_03machi001catwalk",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SceneID": "bg_03_mati_001",
+            "FadeIn": 1,
+            "WaitFadeIn": 0,
+            "FadeInTime": 3.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 11.5,
+                "y": 0.0,
+                "z": 1.0
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 3.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "wiz4",
+            "Path": 0,
+            "AnimationName": "F_teach_demo_tired_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz1",
+            "AnimationName": "F_wiz_skillatk00",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 0,
+            "Async": 0,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/eff_p_demo_magic_ice",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 7.0,
+                "y": 1.0,
+                "z": 2.0
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "bug1",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 5.5,
+                "y": 1.000000238418579,
+                "z": 1.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.0,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 0,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "m_CueName": "7025",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "m_CueName": "8600",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "bug1",
+            "AnimationName": "M_edga_gun_harapanjump",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 0,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "m_CueName": "6050",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.17000000178813934
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "mPoints": [
+                {
+                    "x": 11,
+                    "y": -1
+                },
+                {
+                    "x": 11,
+                    "y": 7
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 11.0,
+                    "y": 0.0,
+                    "z": -1.0
+                },
+                {
+                    "x": 11.0,
+                    "y": 1.9999970197677612,
+                    "z": 7.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "alma",
+            "mPoints": [
+                {
+                    "x": 11,
+                    "y": -2
+                },
+                {
+                    "x": 11,
+                    "y": 7
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 11.5,
+                    "y": 0.0,
+                    "z": -1.5
+                },
+                {
+                    "x": 11.5,
+                    "y": 1.9999971389770508,
+                    "z": 7.0
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "reve",
+            "mPoints": [
+                {
+                    "x": 10,
+                    "y": -2
+                },
+                {
+                    "x": 10,
+                    "y": 7
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 10.5,
+                    "y": 0.0,
+                    "z": -1.5
+                },
+                {
+                    "x": 10.5,
+                    "y": 1.9999971389770508,
+                    "z": 7.0
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "wiz3",
+            "Path": 0,
+            "AnimationName": "F_cmn_demo_blowdown1",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 11.5,
+                "y": 2.0,
+                "z": 7.0
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 1.7000000476837158,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "AnimationName": "F_lies_yuj_talkidle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alma",
+            "Path": 0,
+            "AnimationName": "F_alma_demo_talkidle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "reve",
+            "AnimationName": "F_cmn_demo_talk_idle0",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "lies",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 10.0,
+                "y": 2.5,
+                "z": 7.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "alma",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 11.0,
+                "y": 1.9999994039535522,
+                "z": 6.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "reve",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 10.0,
+                "y": 2.500000238418579,
+                "z": 6.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "lies",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 10.5,
+                "y": 2.0,
+                "z": 8.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_2_3_01_a_3d.012",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "reve",
+            "LookAt": 1,
+            "LookAtID": "lies",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "alma",
+            "LookAt": 1,
+            "LookAtID": "lies",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "reve",
+            "UnitID": "UN_EV_REBECCA",
+            "TextID": "QE03_2_3_01_a_3d.013",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "lies",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 11.0,
+                "y": 2.0,
+                "z": 7.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alma",
+            "UnitID": "UN_EV_ALMA",
+            "TextID": "QE03_2_3_01_a_3d.014",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_2_3_01_a_3d.015",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "bug",
+            "UnitID": "UN_V2_EN_BUGMEILE",
+            "TextID": "QE03_2_3_01_a_3d.016",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "lies",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 6.0,
+                "y": 3.02000093460083,
+                "z": 7.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "alma",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 6.0,
+                "y": 3.02000093460083,
+                "z": 7.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "reve",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 6.0,
+                "y": 3.02000093460083,
+                "z": 7.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 7.0,
+                "y": 3.5,
+                "z": 6.5
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "wiz",
+            "UnitID": "UN_V2_EN_COURT_WIZARD",
+            "TextID": "QE03_2_3_01_a_3d.017",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 7.0,
+                "y": 3.5,
+                "z": 6.5
+            },
+            "TargetRotation": 15.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 1.2999999523162842,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "lies",
+            "mPoints": [
+                {
+                    "x": 10,
+                    "y": 7
+                },
+                {
+                    "x": 7,
+                    "y": 7
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 10.0,
+                    "y": 2.5000011920928955,
+                    "z": 7.5
+                },
+                {
+                    "x": 7.669000148773193,
+                    "y": 3.0000035762786865,
+                    "z": 7.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 290.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alma",
+            "mPoints": [
+                {
+                    "x": 11,
+                    "y": 7
+                },
+                {
+                    "x": 8,
+                    "y": 7
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 11.0,
+                    "y": 1.9999971389770508,
+                    "z": 7.894999980926514
+                },
+                {
+                    "x": 8.241999626159668,
+                    "y": 3.0000030994415283,
+                    "z": 7.894999980926514
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 270.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "reve",
+            "mPoints": [
+                {
+                    "x": 11,
+                    "y": 7
+                },
+                {
+                    "x": 8,
+                    "y": 7
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 11.0,
+                    "y": 1.9999973773956299,
+                    "z": 7.001999855041504
+                },
+                {
+                    "x": 8.152999877929688,
+                    "y": 3.0000038146972656,
+                    "z": 7.001999855041504
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 270.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "lies",
+            "AnimationName": "F_lies_yuj_talkidle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "alma",
+            "Path": 0,
+            "AnimationName": "F_alma_demo_talkidle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "reve",
+            "AnimationName": "F_cmn_demo_talk_idle0",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_2_3_01_a_3d.018",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "wiz2",
+            "LookAt": 1,
+            "LookAtID": "lies",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.20000000298023224,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "wiz",
+            "UnitID": "UN_V2_EN_COURT_WIZARD",
+            "TextID": "QE03_2_3_01_a_3d.019",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "Path": 0,
+            "AnimationName": "F_lies_demo_angry",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "lies",
+            "Path": 0,
+            "AnimationName": "F_lies_demo_angry_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_2_3_01_a_3d.020",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "wiz",
+            "UnitID": "UN_V2_EN_COURT_WIZARD",
+            "TextID": "QE03_2_3_01_a_3d.021",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "bug2",
+            "LookAt": 1,
+            "LookAtID": "lies",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.20000000298023224,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "bug",
+            "UnitID": "UN_V2_EN_BUGMEILE",
+            "TextID": "QE03_2_3_01_a_3d.022",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 7.5,
+                "y": 3.5,
+                "z": 6.5
+            },
+            "TargetRotation": 15.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 1.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "bug2",
+            "mPoints": [
+                {
+                    "x": 4,
+                    "y": 7
+                },
+                {
+                    "x": 5,
+                    "y": 8
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 4.5,
+                    "y": 3.0000033378601074,
+                    "z": 7.5
+                },
+                {
+                    "x": 5.5,
+                    "y": 3.000002861022949,
+                    "z": 8.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 1,
+            "Angle": 115.0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alba1",
+            "mPoints": [
+                {
+                    "x": 5,
+                    "y": 7
+                },
+                {
+                    "x": 6,
+                    "y": 7
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 5.5,
+                    "y": 3.0000035762786865,
+                    "z": 7.5
+                },
+                {
+                    "x": 6.5,
+                    "y": 3.0000035762786865,
+                    "z": 7.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 90.0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alma",
+            "Path": 0,
+            "AnimationName": "F_alma_demo_surprised",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "reve",
+            "Path": 0,
+            "AnimationName": "F_reve_demo_surprised",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz2",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_posebroom",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.20000000298023224
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "m_CueName": "3003",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "wiz2",
+            "Path": 0,
+            "AnimationName": "F_mage_demo_posebroom_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alma",
+            "Path": 0,
+            "AnimationName": "F_alma_demo_surprised_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "reve",
+            "Path": 0,
+            "AnimationName": "F_reve_demo_surprised_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "wiz",
+            "UnitID": "UN_V2_EN_COURT_WIZARD",
+            "TextID": "QE03_2_3_01_a_3d.023",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alma",
+            "Path": 0,
+            "AnimationName": "F_alma_demo_ready",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "reve",
+            "Path": 0,
+            "AnimationName": "F_reve_demo_ready",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "alma",
+            "AnimationName": "F_wiz_idlefield0",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "reve",
+            "AnimationName": "F_wiz_idlefield0",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alma",
+            "UnitID": "UN_EV_ALMA",
+            "TextID": "QE03_2_3_01_a_3d.024",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "ev_alma_suffer",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "reve",
+            "UnitID": "UN_EV_REBECCA",
+            "TextID": "QE03_2_3_01_a_3d.025",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "ev_reve_suffer",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "Path": 0,
+            "AnimationName": "F_lies_demo_ready",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "lies",
+            "AnimationName": "F_yuj_idlefield0",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "lies",
+            "UnitID": "UN_V2_LIESBET",
+            "TextID": "QE03_2_3_01_a_3d.026",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 0,
+            "FadeTime": 3.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

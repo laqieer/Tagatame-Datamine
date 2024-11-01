@@ -1,0 +1,3764 @@
+{
+    "Name": "QE02_4_3_09_a_3d_org",
+    "Bundle": "b2121ad8",
+    "Path": "assets/resources/events/qe02_4_3_09_a_3d_org.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "BGM_0002"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "BackgroundImage": "BGback_daytime"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "JobID": "",
+            "Position": {
+                "x": 0.5,
+                "y": 0.0,
+                "z": 0.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 0.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 0,
+            "MoveSnap": 0,
+            "GroundSnap": 0,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "edga1",
+            "UnitID": "UN_V2_EDGAR",
+            "JobID": "",
+            "Position": {
+                "x": 1.5,
+                "y": 0.0,
+                "z": 1.5
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 0.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "dont",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "JobID": "JB_DON_TARAS_STR",
+            "Position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 1.0
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 0.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 0,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "al",
+            "UnitID": "UN_EV_ALCHEMONO",
+            "JobID": "",
+            "Position": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 1.0
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 0.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "Display": 0,
+            "Yuremono": 1,
+            "Posture": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga1",
+            "Type": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "edga",
+            "mPoints": [
+                {
+                    "x": 0,
+                    "y": -1
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -0.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 1,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": -0.20000000298023224
+            },
+            "TargetRotation": 0.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 0.10000000149011612,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "AnimationName": "M_edga_gun_fallarmground",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SceneID": "shin_tobira",
+            "FadeIn": 1,
+            "WaitFadeIn": 1,
+            "FadeInTime": 2.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.001",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "edga_angry2",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "edga"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "edga",
+            "AnimationName": "M_edga_gun_fallarmstandup",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "edga",
+            "AnimationName": "M_edga_gun_fallarmstandup",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "urob",
+            "UnitID": "UN_EV_UROBOROS",
+            "TextID": "QE02_4_3_09_a_3d.002",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "urob"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 2.0
+            },
+            "TargetRotation": 0.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 1.0,
+            "MoveTime": 1.5,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "mPoints": [
+                {
+                    "x": 0,
+                    "y": -1
+                },
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -0.5
+                },
+                {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 1,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.003",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "edga_normal2",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "edga"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "urob",
+            "UnitID": "UN_EV_UROBOROS",
+            "TextID": "QE02_4_3_09_a_3d.004",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "urob"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.005",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "edga_normal2",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "edga"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "urob",
+            "UnitID": "UN_EV_UROBOROS",
+            "TextID": "QE02_4_3_09_a_3d.006",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "urob"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "AnimationName": "M_edga_gun_pointing_act",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 0,
+            "Async": 0,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "edga",
+            "AnimationName": "M_edga_gun_pointing_idle",
+            "AnimationType": 0,
+            "Delay": 0.0,
+            "Interp": 0.10000000149011612,
+            "Loop": 1,
+            "Async": 1,
+            "ApplyRootBoneAtEnd": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.007",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "edga"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "urob",
+            "UnitID": "UN_EV_UROBOROS",
+            "TextID": "QE02_4_3_09_a_3d.008",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 4
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "urob"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "AnimationName": "M_edga_gun_pointing_off",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "edga",
+            "AnimationName": "M_edga_gun_pointing_off",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.009",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "edga_angry2",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "edga"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.010",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "edga_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "edga"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "urob",
+            "UnitID": "UN_EV_UROBOROS",
+            "TextID": "QE02_4_3_09_a_3d.011",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "urob"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.012",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.013",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "edga_angry2",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "edga"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "urob",
+            "UnitID": "UN_EV_UROBOROS",
+            "TextID": "QE02_4_3_09_a_3d.014",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 6
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "urob"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.015",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "edga_angry2",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.016",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "edga_angry2",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "edga"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "urob",
+            "UnitID": "UN_EV_UROBOROS",
+            "TextID": "QE02_4_3_09_a_3d.017",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "urob"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.018",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.019",
+            "Async": 0,
+            "Emotion": 1,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "edga"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "urob",
+            "UnitID": "UN_EV_UROBOROS",
+            "TextID": "QE02_4_3_09_a_3d.020",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "urob"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.021",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "edga"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "urob",
+            "UnitID": "UN_EV_UROBOROS",
+            "TextID": "QE02_4_3_09_a_3d.022",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 4
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "urob",
+            "UnitID": "UN_EV_UROBOROS",
+            "TextID": "QE02_4_3_09_a_3d.023",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "urob"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "m_CueName": "9005",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 0,
+            "FadeTime": 3.0,
+            "FadeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "BGM": "0000"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI_ROUGH_00",
+            "JobID": "",
+            "Position": {
+                "x": 6.5,
+                "y": 1.9900000095367432,
+                "z": 6.499997138977051
+            },
+            "Persistent": 0,
+            "Angle": 90,
+            "RotationX": 0.0,
+            "RotationY": 90.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 0,
+            "GroundSnap": 0,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "wpn_logi_01_R",
+            "ObjectID": "wpnl",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "wpnl",
+            "TargetID": "logi",
+            "BoneName": "Bip001 Prop1"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alva",
+            "UnitID": "UN_V2_EN_ALVAREZ_MESSIAH",
+            "JobID": "JB_AJ7000_MAH",
+            "Position": {
+                "x": 2.4230000972747803,
+                "y": 2.5,
+                "z": 9.484999656677246
+            },
+            "Persistent": 0,
+            "Angle": 112,
+            "RotationX": 0.0,
+            "RotationY": 112.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 0,
+            "MoveSnap": 0,
+            "GroundSnap": 0,
+            "Display": 0,
+            "Yuremono": 1,
+            "Posture": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "logi1",
+            "UnitID": "UN_V2_LOGI_ROUGH_00",
+            "JobID": "",
+            "Position": {
+                "x": 3.526362419128418,
+                "y": 0.0,
+                "z": 9.127504348754883
+            },
+            "Persistent": 0,
+            "Angle": 110,
+            "RotationX": 0.0,
+            "RotationY": 110.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "Display": 0,
+            "Yuremono": 1,
+            "Posture": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi1",
+            "Type": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "logi2",
+            "Type": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "alva1",
+            "Type": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 0,
+            "FadeTime": 2.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": "0015"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 4.5,
+                "y": 3.0,
+                "z": 7.800000190734863
+            },
+            "TargetRotation": 60.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SceneID": "bg_02_plant_002",
+            "FadeIn": 1,
+            "WaitFadeIn": 0,
+            "FadeInTime": 3.0,
+            "SceneObject": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_alva_denkosekka",
+            "ObjectID": "alvadash",
+            "Persistent": 0,
+            "Position": {
+                "x": 5.503993988037109,
+                "y": 3.628856897354126,
+                "z": 10.481579780578613
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "alvadash",
+            "Curve": 0,
+            "Position": {
+                "x": 5.5,
+                "y": 3.5,
+                "z": 10.5
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -180.0,
+                "z": -180.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.7000000476837158
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_9109",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "alvadash",
+            "Curve": 0,
+            "Position": {
+                "x": 5.5,
+                "y": 3.5,
+                "z": 3.5
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -180.0,
+                "z": -180.0
+            },
+            "Time": 0.05000000074505806,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "mPoints": [
+                {
+                    "x": 6,
+                    "y": 6
+                },
+                {
+                    "x": 5,
+                    "y": 7
+                },
+                {
+                    "x": 5,
+                    "y": 7
+                },
+                {
+                    "x": 4,
+                    "y": 7
+                },
+                {
+                    "x": 3,
+                    "y": 9
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": 6.5
+                },
+                {
+                    "x": 5.010000228881836,
+                    "y": 0.0,
+                    "z": 7.5
+                },
+                {
+                    "x": 5.0,
+                    "y": 0.0,
+                    "z": 7.5
+                },
+                {
+                    "x": 4.5,
+                    "y": 0.0,
+                    "z": 7.5
+                },
+                {
+                    "x": 3.5090651512145996,
+                    "y": 0.0,
+                    "z": 9.011756896972656
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "alvadash",
+            "Curve": 0,
+            "Position": {
+                "x": 2.5,
+                "y": 3.0,
+                "z": 0.9726567268371582
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "alvadash",
+            "Curve": 0,
+            "Position": {
+                "x": 2.5,
+                "y": 3.0,
+                "z": 7.378606796264648
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.10000000149011612,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "alvadash",
+            "Curve": 0,
+            "Position": {
+                "x": 1.5,
+                "y": 3.0,
+                "z": 8.5
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.10000000149011612,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "alvadash",
+            "Curve": 0,
+            "Position": {
+                "x": 1.5,
+                "y": 3.0,
+                "z": 13.414194107055664
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.10000000149011612,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_9109",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "logi",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 3.0,
+                "y": 2.5,
+                "z": 9.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "logi",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 2.5,
+                "y": 2.5,
+                "z": 10.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "AnimationName": "M_logi_robe_airboko",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 3.0,
+                "y": 4.0,
+                "z": 9.0
+            },
+            "TargetRotation": 60.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.75,
+            "MoveTime": 1.4500000476837158,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI_ROUGH_00",
+            "TextID": "QE02_4_3_09_a_3d.024",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "logi",
+            "LookAt": 1,
+            "LookAtID": "messia",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 1.2999999523162842,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "logi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 3.299999952316284,
+                "y": 2.0,
+                "z": 8.600000381469727
+            },
+            "TargetRotation": 20.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 0.30000001192092896,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_8014",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.699999988079071
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_5001",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.7999999523162842
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI_ROUGH_00",
+            "TextID": "QE02_4_3_09_a_3d.025",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Detach": 1,
+            "AttachmentID": "wpnl",
+            "TargetID": "logi",
+            "BoneName": "Bip001 Prop1"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_alva_telepo_after",
+            "ObjectID": "",
+            "Persistent": 0,
+            "Position": {
+                "x": 2.4230000972747803,
+                "y": 2.5,
+                "z": 9.484999656677246
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_9109",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alva",
+            "Type": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "messia",
+            "UnitID": "UN_V2_EN_ALVAREZ_MESSIAH",
+            "TextID": "QE02_4_3_09_a_3d.026",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI_ROUGH_00",
+            "TextID": "QE02_4_3_09_a_3d.027",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "logi_robe_02_angry2",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "messia",
+            "UnitID": "UN_V2_EN_ALVAREZ_MESSIAH",
+            "TextID": "QE02_4_3_09_a_3d.028",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI_ROUGH_00",
+            "TextID": "QE02_4_3_09_a_3d.029",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "messia",
+            "UnitID": "UN_V2_EN_ALVAREZ_MESSIAH",
+            "TextID": "QE02_4_3_09_a_3d.030",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alva",
+            "AnimationName": "MO_aj7000_mah_swordact",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_9148",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.699999988079071
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_9149",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.20000000298023224
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "alva",
+            "AnimationName": "MO_aj7000_mah_swordact_idle",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI_ROUGH_00",
+            "TextID": "QE02_4_3_09_a_3d.031",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "messia",
+            "UnitID": "UN_V2_EN_ALVAREZ_MESSIAH",
+            "TextID": "QE02_4_3_09_a_3d.032",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI_ROUGH_00",
+            "TextID": "QE02_4_3_09_a_3d.033",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi1",
+            "AnimationName": "M_logi_robe_taccle",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alva",
+            "AnimationName": "MO_aj7000_mah_taccle",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "Type": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "logi1",
+            "Type": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 1.0,
+                "y": 2.0,
+                "z": 10.5
+            },
+            "TargetRotation": 30.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 0.699999988079071,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.47999998927116394
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_9035",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_8014",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_hitmap_miniDustptcl2",
+            "ObjectID": "maphit",
+            "Persistent": 0,
+            "Position": {
+                "x": 2.4230000972747803,
+                "y": 2.5,
+                "z": 9.484999656677246
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "maphit",
+            "Curve": 0,
+            "Position": {
+                "x": 0.17000000178813934,
+                "y": 3.1489999294281006,
+                "z": 10.32800006866455
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "logi1",
+            "AnimationName": "M_logi_robe_logihold_idle",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "alva",
+            "AnimationName": "MO_aj7000_mah_logihold_idle",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "messia",
+            "UnitID": "UN_V2_EN_ALVAREZ_MESSIAH",
+            "TextID": "QE02_4_3_09_a_3d.034",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 2
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "messia"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "UnitID": "UN_V2_LOGI_ROUGH_00",
+            "TextID": "QE02_4_3_09_a_3d.035",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "messia",
+            "UnitID": "UN_V2_EN_ALVAREZ_MESSIAH",
+            "TextID": "QE02_4_3_09_a_3d.036",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 0,
+            "FadeTime": 0.5,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SceneID": "",
+            "FadeIn": 1,
+            "WaitFadeIn": 1,
+            "FadeInTime": 3.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi1",
+            "Type": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "alva",
+            "Type": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "mPoints": [
+                {
+                    "x": 20,
+                    "y": 12
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 20.889999389648438,
+                    "y": 24.270000457763672,
+                    "z": 12.319999694824219
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 0,
+            "GroundSnap": 0,
+            "LockMotion": 0,
+            "LockRotationX": 0,
+            "LockRotationY": 0,
+            "LockRotationZ": 0,
+            "RunType": 0,
+            "RunSpeed": 4.0,
+            "RunTime": 4.0,
+            "m_AnimationName": "",
+            "m_Loop": 0,
+            "m_AnimeType": 0,
+            "Path": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dont",
+            "Type": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "dont",
+            "mPoints": [
+                {
+                    "x": 7,
+                    "y": 6
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 7.5,
+                    "y": 0.0,
+                    "z": 6.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 15.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "LockMotion": 0,
+            "LockRotationX": 0,
+            "LockRotationY": 0,
+            "LockRotationZ": 0,
+            "RunType": 0,
+            "RunSpeed": 4.0,
+            "RunTime": 4.0,
+            "m_AnimationName": "",
+            "m_Loop": 0,
+            "m_AnimeType": 0,
+            "Path": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga1",
+            "mPoints": [
+                {
+                    "x": 7,
+                    "y": 6
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 7.5,
+                    "y": 0.0,
+                    "z": 6.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 15.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "LockMotion": 0,
+            "LockRotationX": 0,
+            "LockRotationY": 0,
+            "LockRotationZ": 0,
+            "RunType": 0,
+            "RunSpeed": 4.0,
+            "RunTime": 4.0,
+            "m_AnimationName": "",
+            "m_Loop": 0,
+            "m_AnimeType": 0,
+            "Path": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "eff",
+            "UnitID": "UN_V2_DIOS",
+            "JobID": "",
+            "Position": {
+                "x": 0,
+                "y": 0
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "ShowEquipments": 1,
+            "Posture": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "eff",
+            "Type": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "al",
+            "mPoints": [
+                {
+                    "x": 7,
+                    "y": 11
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "Angle": -1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 8.0,
+                "y": -3.0,
+                "z": 7.0
+            },
+            "TargetRotation": 130.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_dont_bubobo",
+            "ObjectID": "bubo1",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_dont_buboboarms",
+            "ObjectID": "bubo2",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "bubo1",
+            "TargetID": "dont",
+            "BoneName": "Bip001 Head"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "bubo2",
+            "TargetID": "dont",
+            "BoneName": "Bip001 R Forearm"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dont",
+            "AnimationName": "MM_dont_none_shinearmup_idle",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "al",
+            "mPoints": [
+                {
+                    "x": 9,
+                    "y": 3
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 9.395000457763672,
+                    "y": 0.0,
+                    "z": 3.7799999713897705
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 176.585693359375,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SceneID": "bg_02_plant_005_demo",
+            "FadeIn": 1,
+            "WaitFadeIn": 1,
+            "FadeInTime": 0.5
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "AnimationName": "MM_dont_none_bubobo_talkidle1",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "don",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_3_09_a_3d.037",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "al",
+            "AnimationName": "alch_al_none_died",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "don",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_3_09_a_3d.038",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "eff",
+            "AnimationName": "demo_cmn_shaker_s",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "m_CueName": "SE_9009",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "don",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_3_09_a_3d.039",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_dont_buboboarms_2",
+            "ObjectID": "buboarm_2",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "buboarm_2",
+            "TargetID": "dont",
+            "BoneName": "Bip001 R Forearm"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "don",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_3_09_a_3d.040",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_dont_angry",
+            "ObjectID": "eff_dont",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "eff_dont",
+            "TargetID": "dont",
+            "BoneName": "Bip001_pos"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_9159",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "don",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_3_09_a_3d.041",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "eff",
+            "AnimationName": "demo_cmn_shaker_s",
+            "AnimationType": 1,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_gate_open03",
+            "ObjectID": "gate_open",
+            "Persistent": 0,
+            "Position": {
+                "x": 7.878840923309326,
+                "y": -1.9175357818603516,
+                "z": 7.0896897315979
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_9005",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 0,
+            "FadeTime": 0.5,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "eff_dont",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 100.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "BackgroundImage": "BGback_in_night"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "edga",
+            "LookAt": 2,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.0,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 0,
+            "Reverse": 0,
+            "RotateX": 0.0,
+            "RotateY": 30.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "Type": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "buboarm_2",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "gate_open",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 18.5,
+                "y": 21.0,
+                "z": 11.0
+            },
+            "TargetRotation": 120.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "SceneID": "bg_02_plant_005_demo",
+            "FadeIn": 1,
+            "WaitFadeIn": 0,
+            "FadeInTime": 2.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "AnimationName": "M_edga_gun_backair",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.3700000047683716
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "m_CueName": "3508",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.23000000417232513
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "m_CueName": "3508",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.800000011920929
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_9162",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 18.5,
+                "y": 18.5,
+                "z": 11.0
+            },
+            "TargetRotation": 120.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 3.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.042",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "edga_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 7.5,
+                "y": -4.0,
+                "z": 6.5
+            },
+            "TargetRotation": 130.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "don",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_3_09_a_3d.043",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.044",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "edga_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_9162",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dont",
+            "AnimationName": "MM_dont_none_fallarm",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "edga1",
+            "AnimationName": "M_edga_gun_fallarm",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga1",
+            "Type": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.6000000238418579
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_8014",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.05000000074505806
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_9153",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "eff_dont",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": -50.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_dont_buboboarms1",
+            "ObjectID": "buboarm",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_dont_bubobo_maps",
+            "ObjectID": "bubo3",
+            "Persistent": 0,
+            "Position": {
+                "x": 8.503999710083008,
+                "y": -2.809999942779541,
+                "z": 7.585999965667725
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "buboarm",
+            "TargetID": "dont",
+            "BoneName": "Bip001 R Forearm"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "dont",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 20.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.5,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 9.0,
+                "y": -2.0,
+                "z": 9.5
+            },
+            "TargetRotation": 150.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.75,
+            "MoveTime": 0.6000000238418579,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.649999976158142
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_9155",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "dont",
+            "AnimationName": "MM_dont_none_shinearmdown_idle",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "edga1",
+            "AnimationName": "M_edga_gun_fallarmground",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "logi",
+            "AnimationName": "MM_dont_none_bubobo_talkidle2",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "don",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_3_09_a_3d.045",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 8.800000190734863,
+                "y": -2.5,
+                "z": 8.800000190734863
+            },
+            "TargetRotation": 150.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga1",
+            "Type": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga2",
+            "UnitID": "UN_V2_EDGAR",
+            "JobID": "",
+            "Position": {
+                "x": 0,
+                "y": 0
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "ShowEquipments": 1,
+            "Posture": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga2",
+            "mPoints": [
+                {
+                    "x": 7,
+                    "y": 11
+                },
+                {
+                    "x": 8,
+                    "y": 9
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 7.873237133026123,
+                    "y": 0.0,
+                    "z": 11.735464096069336
+                },
+                {
+                    "x": 8.096518516540527,
+                    "y": 0.0,
+                    "z": 9.124135971069336
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 180.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.046",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "don",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_3_09_a_3d.047",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.048",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 8.5,
+                "y": -3.0,
+                "z": 8.5
+            },
+            "TargetRotation": 150.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.75,
+            "MoveTime": 1.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "edga2",
+            "LookAt": 1,
+            "LookAtID": "edga",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.5,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.049",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "edga_normal2",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.050",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "edga_normal2",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "don",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_3_09_a_3d.051",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "edga2",
+            "LookAt": 1,
+            "LookAtID": "dont",
+            "LookAtPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.4000000059604645,
+            "Speed": 90.0,
+            "Rotate3D": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.052",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "edga_angry2",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "don",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_3_09_a_3d.053",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.054",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "edga_angry2",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 8.5,
+                "y": -3.0,
+                "z": 6.0
+            },
+            "TargetRotation": 150.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.75,
+            "MoveTime": 3.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "edga2",
+            "mPoints": [
+                {
+                    "x": 8,
+                    "y": 9
+                },
+                {
+                    "x": 6,
+                    "y": 7
+                },
+                {
+                    "x": 6,
+                    "y": -2
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 8.096518516540527,
+                    "y": 0.0,
+                    "z": 9.124135971069336
+                },
+                {
+                    "x": 6.453916549682617,
+                    "y": 0.0,
+                    "z": 7.944704055786133
+                },
+                {
+                    "x": 6.176534652709961,
+                    "y": 0.0,
+                    "z": -1.3748202323913574
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 180.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "m_CueName": "SE_9023",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.055",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "edga_angry2",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "don",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_4_3_09_a_3d.056",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 0,
+            "FadeTime": 2.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dont",
+            "Type": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "logi",
+            "AnimationName": "",
+            "AnimationType": 1,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "bubo3",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": -50.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "SceneID": "",
+            "FadeIn": 1,
+            "WaitFadeIn": 1,
+            "FadeInTime": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 9.0,
+                "y": -2.0,
+                "z": 4.0
+            },
+            "TargetRotation": 30.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "al",
+            "Type": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "demo_alch_face",
+            "ObjectID": "alface",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "alface",
+            "TargetID": "al",
+            "BoneName": "Bip001 Head"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_aleyes",
+            "ObjectID": "aleye",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "aleye",
+            "TargetID": "al",
+            "BoneName": "Bip001 Head"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SceneID": "bg_02_plant_005_demo",
+            "FadeIn": 1,
+            "WaitFadeIn": 0,
+            "FadeInTime": 2.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 10.0,
+                "y": -3.0,
+                "z": 3.0
+            },
+            "TargetRotation": 30.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 2.4000000953674316,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "mPoints": [
+                {
+                    "x": 8,
+                    "y": 9
+                },
+                {
+                    "x": 9,
+                    "y": 4
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 8.5,
+                    "y": 0.0,
+                    "z": 9.5
+                },
+                {
+                    "x": 9.279914855957031,
+                    "y": 0.0,
+                    "z": 4.079345226287842
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "RunSpeed": 4.0,
+            "LockRotation": 0,
+            "LockMotion": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 8.899999618530273,
+                "y": -5.0,
+                "z": 4.900000095367432
+            },
+            "TargetRotation": 30.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 1.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "al",
+            "AnimationName": "alch_al_none_alhug",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "edga",
+            "AnimationName": "M_edga_gun_alhug",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "m_CueName": "SE_9017",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.8999999761581421
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "al",
+            "AnimationName": "alch_al_none_alhug_idle",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "edga",
+            "AnimationName": "M_edga_gun_alhug_idle",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "BGM_0002"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.057",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "edga_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.058",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "edga_angry2",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "al",
+            "UnitID": "UN_EV_ALCHEMONO",
+            "TextID": "QE02_4_3_09_a_3d.059",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.060",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "edga_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "al",
+            "UnitID": "UN_EV_ALCHEMONO",
+            "TextID": "QE02_4_3_09_a_3d.061",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.062",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "al",
+            "UnitID": "UN_EV_ALCHEMONO",
+            "TextID": "QE02_4_3_09_a_3d.063",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "None",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.064",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 7.800000190734863,
+                "y": -7.0,
+                "z": 6.800000190734863
+            },
+            "TargetRotation": 30.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 2.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "demo_cut_ep02_07",
+            "ObjectID": "demo_cut",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "demo_cut",
+            "Curve": 0,
+            "Position": {
+                "x": 3.130000114440918,
+                "y": -15.34000015258789,
+                "z": 14.859999656677246
+            },
+            "Rotation": {
+                "x": 45.0,
+                "y": 150.0,
+                "z": 0.0
+            },
+            "Time": 2.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 2.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "al",
+            "UnitID": "UN_EV_ALCHEMONO",
+            "TextID": "QE02_4_3_09_a_3d.065",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.066",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "edga_normal2",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "al",
+            "UnitID": "UN_EV_ALCHEMONO",
+            "TextID": "QE02_4_3_09_a_3d.067",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "al",
+            "UnitID": "UN_EV_ALCHEMONO",
+            "TextID": "QE02_4_3_09_a_3d.068",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.069",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "al",
+            "UnitID": "UN_EV_ALCHEMONO",
+            "TextID": "QE02_4_3_09_a_3d.070",
+            "Async": 0,
+            "Emotion": 1,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Detach": 1,
+            "AttachmentID": "aleye",
+            "TargetID": "al",
+            "BoneName": "Bip001 Head"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_aleyes2",
+            "ObjectID": "aleye2",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "aleye2",
+            "TargetID": "al",
+            "BoneName": "Bip001 Head"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 0,
+            "FadeTime": 1.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "demo_cut",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": -100.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "aleye",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": -200.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "SceneID": "bg_02_plant_005_demo",
+            "FadeIn": 1,
+            "WaitFadeIn": 0,
+            "FadeInTime": 1.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "al",
+            "AnimationName": "alch_al_none_alhuglookup",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "edga",
+            "AnimationName": "M_edga_gun_alhuglookup",
+            "AnimationType": 0,
+            "Loop": 0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "al",
+            "AnimationName": "alch_al_none_alhuglookup_idle",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "edga",
+            "AnimationName": "M_edga_gun_alhuglookup_idle",
+            "AnimationType": 0,
+            "Loop": 1,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_09_a_3d.071",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "edga_angry2",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 7.800000190734863,
+                "y": -6.0,
+                "z": 6.800000190734863
+            },
+            "TargetRotation": 30.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.75,
+            "MoveTime": 5.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 2,
+            "FadeTime": 5.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "BGM": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}

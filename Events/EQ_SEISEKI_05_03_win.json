@@ -1,0 +1,39 @@
+{
+    "Name": "EQ_SEISEKI_05_03_win",
+    "Bundle": "6db18760",
+    "Path": "assets/resources/events/eq_seiseki_05_03_win.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "kudan",
+            "UnitID": "UN_V2_KUDHANSTEIN",
+            "TextID": "EQ_SEISEKI_05_03_win.001",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "kudan",
+            "UnitID": "UN_V2_KUDHANSTEIN",
+            "TextID": "EQ_SEISEKI_05_03_win.002",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "kudan"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

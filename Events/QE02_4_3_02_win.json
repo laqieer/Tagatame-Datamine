@@ -1,0 +1,72 @@
+{
+    "Name": "QE02_4_3_02_win",
+    "Bundle": "d5a9d630",
+    "Path": "assets/resources/events/qe02_4_3_02_win.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_02_win.001",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alva",
+            "UnitID": "UN_V2_EN_ALVAREZ",
+            "TextID": "QE02_4_3_02_win.002",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "alva_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_02_win.003",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "edga_normal2",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alva",
+            "UnitID": "UN_V2_EN_ALVAREZ",
+            "TextID": "QE02_4_3_02_win.004",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alva",
+            "UnitID": "UN_V2_EN_ALVAREZ",
+            "TextID": "QE02_4_3_02_win.005",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "alva_normal2",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "edga"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

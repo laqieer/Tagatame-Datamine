@@ -1,0 +1,50 @@
+{
+    "Name": "EQ_BABEL01_07_win",
+    "Bundle": "15e7c0f7",
+    "Path": "assets/resources/events/eq_babel01_07_win.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "gera",
+            "UnitID": "UN_V2_GERALD",
+            "TextID": "EQ_BABEL01_07_win.001",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "gerald_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "ren",
+            "UnitID": "UN_V2_REN",
+            "TextID": "EQ_BABEL01_07_win.002",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "ren_normal",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "gera",
+            "UnitID": "UN_V2_GERALD",
+            "TextID": "EQ_BABEL01_07_win.003",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "gerald_angry",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Name": "EQ_FF15_05_win",
+    "Bundle": "b479ecc7",
+    "Path": "assets/resources/events/eq_ff15_05_win.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "aran",
+            "UnitID": "UN_V2_FF15_ARANEA",
+            "TextID": "EQ_FF15_05_win.001",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

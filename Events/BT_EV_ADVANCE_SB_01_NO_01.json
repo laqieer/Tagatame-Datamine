@@ -1,0 +1,28 @@
+{
+    "Name": "BT_EV_ADVANCE_SB_01_NO_01",
+    "Bundle": "80eb2f3c",
+    "Path": "assets/resources/events/bt_ev_advance_sb_01_no_01.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "sb_melt",
+            "UnitID": "UN_V2_SB_MELTY",
+            "TextID": "BT_EV_ADVANCE_SB_01_NO_01.001",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "sb_melt"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        }
+    ]
+}

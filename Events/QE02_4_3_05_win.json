@@ -1,0 +1,39 @@
+{
+    "Name": "QE02_4_3_05_win",
+    "Bundle": "b4dcd5fc",
+    "Path": "assets/resources/events/qe02_4_3_05_win.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "alva",
+            "UnitID": "UN_V2_EN_ALVAREZ",
+            "TextID": "QE02_4_3_05_win.001",
+            "Async": 0,
+            "Emotion": 1,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_4_3_05_win.002",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "edga"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

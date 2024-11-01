@@ -1,0 +1,39 @@
+{
+    "Name": "EQ_SEISEKI_01_2_09_c_2d",
+    "Bundle": "151b04c9",
+    "Path": "assets/resources/events/eq_seiseki_01_2_09_c_2d.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "UN_V2_CADANOVA",
+            "UnitID": "UN_V2_CANON",
+            "TextID": "EQ_SEISEKI_01_2_09_c_2d.001",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "UN_V2_CADANOVA",
+            "UnitID": "UN_V2_CADANOVA",
+            "TextID": "EQ_SEISEKI_01_2_09_c_2d.002",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "UN_V2_CADANOVA"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

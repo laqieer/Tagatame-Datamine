@@ -1,0 +1,46 @@
+{
+    "Name": "BT_EV_ADVANCE_BUTAI_02_NO_01",
+    "Bundle": "b4732e0f",
+    "Path": "assets/resources/events/bt_ev_advance_butai_02_no_01.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "drg_wagi_wiz_00",
+            "UnitID": "UN_V2_EN_WAGINAO_BUTAI_02",
+            "TextID": "BT_EV_ADVANCE_BUTAI_02_NO_01.001",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612,
+            "waitTap": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zayi",
+            "UnitID": "UN_V2_EN_ZAYIN_LORD_EXCALIBUR_BUTAI_02",
+            "TextID": "BT_EV_ADVANCE_BUTAI_02_NO_01.002",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "zayi"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612,
+            "waitTap": 0
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Name": "QE04_4_2_04_win",
+    "Bundle": "b5f58cae",
+    "Path": "assets/resources/events/qe04_4_2_04_win.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "mo",
+            "UnitID": "UN_EV_MOCA",
+            "TextID": "QE04_4_2_04_win.001",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "mo",
+            "UnitID": "UN_EV_MOCA",
+            "TextID": "QE04_4_2_04_win.002",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "mo"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

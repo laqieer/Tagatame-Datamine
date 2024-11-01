@@ -1,0 +1,28 @@
+{
+    "Name": "QE01_5_2_02_win",
+    "Bundle": "51719433",
+    "Path": "assets/resources/events/qe01_5_2_02_win.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "log",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE01_5_2_02_win.001",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "log"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

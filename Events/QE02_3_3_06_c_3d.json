@@ -1,0 +1,117 @@
+{
+    "Name": "QE02_3_3_06_c_3d",
+    "Bundle": "add7f7aa",
+    "Path": "assets/resources/events/qe02_3_3_06_c_3d.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "don",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_3_3_06_c_3d.001",
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_3_3_06_c_3d.002",
+            "Emotion": 3,
+            "CustomEmotion": "edga_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "don",
+            "UnitID": "UN_V2_EN_DON_TARAS",
+            "TextID": "QE02_3_3_06_c_3d.003",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Duration": 2.0,
+            "FrequencyX": 12.513270378112793,
+            "FrequencyY": 20.465099334716797,
+            "AmplitudeX": 1.0,
+            "AmplitudeY": 1.0,
+            "Async": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "m_CueName": "9049",
+            "m_Async": 0,
+            "m_Delay": 0.0,
+            "m_Wait": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 0,
+            "FadeTime": 0.5,
+            "FadeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 0,
+            "Async": 0,
+            "FadeTime": 0.5,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "ronn",
+            "UnitID": "UN_EV_RONNIE",
+            "TextID": "QE02_3_3_06_c_3d.004",
+            "Emotion": 3,
+            "CustomEmotion": "ronn_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "edga",
+            "UnitID": "UN_V2_EDGAR",
+            "TextID": "QE02_3_3_06_c_3d.005",
+            "Emotion": 3,
+            "CustomEmotion": "edga_surprised",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "edga"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

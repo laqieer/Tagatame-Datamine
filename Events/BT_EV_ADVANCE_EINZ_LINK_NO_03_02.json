@@ -1,0 +1,29 @@
+{
+    "Name": "BT_EV_ADVANCE_EINZ_LINK_NO_03_02",
+    "Bundle": "f0805563",
+    "Path": "assets/resources/events/bt_ev_advance_einz_link_no_03_02.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "thol",
+            "UnitID": "UN_V2_EN_THOL_THOL01_EINZ_LINK",
+            "TextID": "BT_EV_ADVANCE_EINZ_LINK_NO_03_02.001",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "thol"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612,
+            "waitTap": 0
+        }
+    ]
+}

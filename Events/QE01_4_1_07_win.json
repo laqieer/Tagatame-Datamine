@@ -1,0 +1,28 @@
+{
+    "Name": "QE01_4_1_07_win",
+    "Bundle": "53c1ae7e",
+    "Path": "assets/resources/events/qe01_4_1_07_win.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dio",
+            "UnitID": "UN_V2_DIOS",
+            "TextID": "QE01_4_1_07_win.001",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dio"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

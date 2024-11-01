@@ -1,0 +1,44 @@
+{
+    "Name": "QE01_5_2_08_win",
+    "Bundle": "6a776f8f",
+    "Path": "assets/resources/events/qe01_5_2_08_win.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "sav",
+            "UnitID": "UN_V2_SABALETA",
+            "TextID": "QE01_5_2_08_win.001",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "saba_serious",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "log",
+            "UnitID": "UN_V2_LOGI",
+            "TextID": "QE01_5_2_08_win.002",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "sav"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "log"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

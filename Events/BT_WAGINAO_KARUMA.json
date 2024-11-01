@@ -1,0 +1,60 @@
+{
+    "Name": "BT_WAGINAO_KARUMA",
+    "Bundle": "15229982",
+    "Path": "assets/resources/events/bt_waginao_karuma.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "UN_V2_EN_DIABLO_WIZ_KARUMA_WIND",
+            "UnitID": "UN_EV_BLANK",
+            "TextID": "BT_WAGINAO_KARUMA.001",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "UN_V2_EN_HORYWAGINAO_KARUMA_BOSS",
+            "UnitID": "UN_V2_EN_HORYWAGINAO_KARUMA_BOSS",
+            "TextID": "BT_WAGINAO_KARUMA.002",
+            "Async": 1,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612,
+            "waitTap": 1
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "UN_V2_EN_HORYWAGINAO_KARUMA_BOSS",
+            "UnitID": "UN_V2_EN_HORYWAGINAO_KARUMA_BOSS",
+            "TextID": "BT_WAGINAO_KARUMA.003",
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        }
+    ]
+}

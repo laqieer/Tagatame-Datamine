@@ -1,0 +1,672 @@
+{
+    "Name": "EVENT_demo_sav_snowbreak",
+    "Bundle": "d077f5a0",
+    "Path": "assets/resources/events/event_demo_sav_snowbreak.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_snow_foll",
+            "ObjectID": "foll_snow",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "foll_snow",
+            "Curve": 0,
+            "Position": {
+                "x": 141.8000030517578,
+                "y": 120.0,
+                "z": -111.9000015258789
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_snow_powerup",
+            "ObjectID": "eff_p_event_sav_snow_powerup",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "eff_p_event_sav_snow_powerup",
+            "Curve": 0,
+            "Position": {
+                "x": 99.5576171875,
+                "y": 73.08387756347656,
+                "z": -84.41153717041016
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 2.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_SnowCrystal_in",
+            "ObjectID": "in_1",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "in_1",
+            "Curve": 0,
+            "Position": {
+                "x": 99.5576171875,
+                "y": 73.08387756347656,
+                "z": -84.41153717041016
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_SnowCrystal_in",
+            "ObjectID": "in_2",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_2",
+            "Curve": 0,
+            "Position": {
+                "x": 106.39579772949219,
+                "y": 68.51822662353516,
+                "z": -91.15675354003906
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.30000001192092896
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_SnowCrystal_in",
+            "ObjectID": "in_3",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_3",
+            "Curve": 0,
+            "Position": {
+                "x": 112.47899627685547,
+                "y": 64.39543914794922,
+                "z": -97.38258361816406
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.25
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_SnowCrystal_in",
+            "ObjectID": "in_4",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_4",
+            "Curve": 0,
+            "Position": {
+                "x": 117.6406021118164,
+                "y": 60.869110107421875,
+                "z": -102.47640228271484
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.20000000298023224
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_SnowCrystal_in",
+            "ObjectID": "in_5",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_5",
+            "Curve": 0,
+            "Position": {
+                "x": 122.15779876708984,
+                "y": 57.84852981567383,
+                "z": -107.01170349121094
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.15000000596046448
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_SnowCrystal_in",
+            "ObjectID": "in_6",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_6",
+            "Curve": 0,
+            "Position": {
+                "x": 126.2677993774414,
+                "y": 55.077880859375,
+                "z": -111.12169647216797
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_SnowCrystal_in",
+            "ObjectID": "in_7",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_7",
+            "Curve": 0,
+            "Position": {
+                "x": 130.3778076171875,
+                "y": 52.30723190307617,
+                "z": -115.23169708251953
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.10000000149011612
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_SnowCrystal_in",
+            "ObjectID": "in_8",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_8",
+            "Curve": 0,
+            "Position": {
+                "x": 134.48770141601562,
+                "y": 49.536590576171875,
+                "z": -119.3416976928711
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 2.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_SnowCrystal_out",
+            "ObjectID": "in_1_2",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_1_2",
+            "Curve": 0,
+            "Position": {
+                "x": 99.5576171875,
+                "y": 73.08387756347656,
+                "z": -84.41153717041016
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "in_1"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_SnowCrystal_out",
+            "ObjectID": "in_2_2",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_2_2",
+            "Curve": 0,
+            "Position": {
+                "x": 106.39579772949219,
+                "y": 68.51822662353516,
+                "z": -91.15675354003906
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_2"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.550000011920929
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_SnowCrystal_out",
+            "ObjectID": "in_3_2",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_3_2",
+            "Curve": 0,
+            "Position": {
+                "x": 112.47899627685547,
+                "y": 64.39543914794922,
+                "z": -97.38258361816406
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_3"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.6000000238418579
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_SnowCrystal_out",
+            "ObjectID": "in_4_2",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_4_2",
+            "Curve": 0,
+            "Position": {
+                "x": 117.6406021118164,
+                "y": 60.869110107421875,
+                "z": -102.47640228271484
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_4"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.6499999761581421
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_SnowCrystal_out",
+            "ObjectID": "in_5_2",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_5_2",
+            "Curve": 0,
+            "Position": {
+                "x": 122.15779876708984,
+                "y": 57.84852981567383,
+                "z": -107.01170349121094
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_5"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.699999988079071
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_SnowCrystal_out",
+            "ObjectID": "in_6_2",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_6_2",
+            "Curve": 0,
+            "Position": {
+                "x": 126.2677993774414,
+                "y": 55.077880859375,
+                "z": -111.12169647216797
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_6"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.800000011920929
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_SnowCrystal_out",
+            "ObjectID": "in_7_2",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_7_2",
+            "Curve": 0,
+            "Position": {
+                "x": 130.3778076171875,
+                "y": 52.30723190307617,
+                "z": -115.23169708251953
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_7"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.8999999761581421
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "eff_p_event_sav_SnowCrystal_out",
+            "ObjectID": "in_8_2",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_8_2",
+            "Curve": 0,
+            "Position": {
+                "x": 134.48770141601562,
+                "y": 49.536590576171875,
+                "z": -119.3416976928711
+            },
+            "Rotation": {
+                "x": 334.5138854980469,
+                "y": 315.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "in_8"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 2.0
+        }
+    ]
+}

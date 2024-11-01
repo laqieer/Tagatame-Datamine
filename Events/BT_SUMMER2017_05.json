@@ -1,0 +1,28 @@
+{
+    "Name": "BT_SUMMER2017_05",
+    "Bundle": "5a005ab3",
+    "Path": "assets/resources/events/bt_summer2017_05.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "GORMA",
+            "UnitID": "UN_V2_EN_GORMALAS_GORM",
+            "TextID": "BT_SUMMER2017_05.001",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "gorm_swim_angry2",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "GORMA"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

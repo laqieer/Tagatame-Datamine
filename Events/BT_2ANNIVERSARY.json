@@ -1,0 +1,28 @@
+{
+    "Name": "BT_2ANNIVERSARY",
+    "Bundle": "84cc75de",
+    "Path": "assets/resources/events/bt_2anniversary.asset",
+    "Actions": [
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "nare",
+            "UnitID": "UN_EV_BLANK",
+            "TextID": "BT_2ANNIVERSARY.001",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "none",
+            "Position": 2
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "nare"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 0.5
+        }
+    ]
+}

@@ -1,0 +1,2742 @@
+{
+    "Name": "EQ_FF15_04_a_3d",
+    "Bundle": "b38790ae",
+    "Path": "assets/resources/events/eq_ff15_04_a_3d.asset",
+    "Actions": [
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BackgroundImage": "BGback_in_night"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "JobID": "",
+            "Position": {
+                "x": 1.406999945640564,
+                "y": 0.0,
+                "z": -3.1619999408721924
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 272.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 1,
+            "Path": 0,
+            "m_AnimationName": "M_dios_demo_camp_idle",
+            "m_Loop": 1,
+            "m_AnimeType": 0,
+            "m_RunAnimation": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/ff15_demo_stew",
+            "ObjectID": "stew_dios",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "stew_dios",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/ff15_demo_tableware01",
+            "ObjectID": "spoon_dios",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "spoon_dios",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "stew_dios",
+            "TargetID": "dios",
+            "BoneName": "Bip001 Prop2"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "spoon_dios",
+            "TargetID": "dios",
+            "BoneName": "Bip001 Prop1"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "glad",
+            "UnitID": "UN_V2_FF15_GLADIOLUS",
+            "JobID": "",
+            "Position": {
+                "x": -0.8569999933242798,
+                "y": 0.0,
+                "z": -2.88700008392334
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 110.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 1,
+            "Path": 0,
+            "m_AnimationName": "M_ff15glad_demo_camp_idle",
+            "m_Loop": 1,
+            "m_AnimeType": 0,
+            "m_RunAnimation": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/ff15_demo_stew",
+            "ObjectID": "stew_glad",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "stew_glad",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/ff15_demo_tableware01",
+            "ObjectID": "spoon_glad",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "spoon_glad",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "stew_glad",
+            "TargetID": "glad",
+            "BoneName": "Bip001 Prop2"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "spoon_glad",
+            "TargetID": "glad",
+            "BoneName": "Bip001 Prop1"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "igni",
+            "UnitID": "UN_V2_FF15_IGNIS",
+            "JobID": "",
+            "Position": {
+                "x": -0.08100000023841858,
+                "y": 0.0,
+                "z": -4.357999801635742
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 16.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 1,
+            "Path": 0,
+            "m_AnimationName": "M_ff15igni_demo_camp_idle",
+            "m_Loop": 1,
+            "m_AnimeType": 0,
+            "m_RunAnimation": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/ff15_demo_stew",
+            "ObjectID": "stew_igni",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "stew_igni",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/ff15_demo_tableware01",
+            "ObjectID": "spoon_igni",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "spoon_igni",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "stew_igni",
+            "TargetID": "igni",
+            "BoneName": "Bip001 Prop2"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "spoon_igni",
+            "TargetID": "igni",
+            "BoneName": "Bip001 Prop1"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "noct",
+            "UnitID": "UN_V2_FF15_NOCTIS",
+            "JobID": "",
+            "Position": {
+                "x": 0.9890000224113464,
+                "y": 0.0,
+                "z": -4.068999767303467
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 314.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 1,
+            "Path": 0,
+            "m_AnimationName": "M_ff15noct_demo_camp_idle",
+            "m_Loop": 1,
+            "m_AnimeType": 0,
+            "m_RunAnimation": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/ff15_demo_stew",
+            "ObjectID": "stew_noct",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "stew_noct",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/ff15_demo_tableware01",
+            "ObjectID": "spoon_noct",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "spoon_noct",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "stew_noct",
+            "TargetID": "noct",
+            "BoneName": "Bip001 Prop2"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "spoon_noct",
+            "TargetID": "noct",
+            "BoneName": "Bip001 Prop1"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "prom",
+            "UnitID": "UN_V2_FF15_PROMPUTO",
+            "JobID": "",
+            "Position": {
+                "x": -0.890999972820282,
+                "y": 0.0,
+                "z": -3.7850000858306885
+            },
+            "Persistent": 0,
+            "Angle": 0,
+            "RotationX": 0.0,
+            "RotationY": 54.0,
+            "RotationZ": 0.0,
+            "ShowEquipments": 1,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "Display": 1,
+            "Yuremono": 1,
+            "Posture": 1,
+            "Path": 0,
+            "m_AnimationName": "M_ff15prom_demo_camp_idle",
+            "m_Loop": 1,
+            "m_AnimeType": 0,
+            "m_RunAnimation": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/ff15_demo_stew",
+            "ObjectID": "stew_prom",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "stew_prom",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ResourceID": "Demo/EventAssets/3D/ff15_demo_tableware01",
+            "ObjectID": "spoon_prom",
+            "Persistent": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "spoon_prom",
+            "Curve": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Time": 0.0,
+            "Async": 0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "stew_prom",
+            "TargetID": "prom",
+            "BoneName": "Bip001 Prop2"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "spoon_prom",
+            "TargetID": "prom",
+            "BoneName": "Bip001 Prop1"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 0.20000000298023224,
+                "y": 2.0,
+                "z": -3.0
+            },
+            "TargetRotation": 179.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 0.20000000298023224,
+                "y": -0.5,
+                "z": -3.0
+            },
+            "TargetRotation": 179.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 3.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0034"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SceneID": "FF15_test_01",
+            "FadeIn": 1,
+            "WaitFadeIn": 1,
+            "FadeInTime": 3.0,
+            "SceneObject": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "igni",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15igni_demo_camp_talk",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15igni_demo_camp_talkidle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "igni",
+            "UnitID": "UN_V2_FF15_IGNIS",
+            "TextID": "EQ_FF15_04_a_2d.001",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "igni"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "igni",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15igni_demo_camp_talkoff",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15igni_demo_camp_idle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 0.20000000298023224,
+                "y": -0.5,
+                "z": -3.0
+            },
+            "TargetRotation": 209.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_dios_demo_camp_talk",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_dios_demo_camp_talkidle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "EQ_FF15_04_a_2d.002",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_dios_demo_camp_talkoff",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_dios_demo_camp_idle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "EQ_FF15_04_a_2d.003",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 0.20000000298023224,
+                "y": -0.5,
+                "z": -3.0
+            },
+            "TargetRotation": -200.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "glad",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15glad_demo_camp_talk",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15glad_demo_camp_talkidle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "glad",
+            "UnitID": "UN_V2_FF15_GLADIOLUS",
+            "TextID": "EQ_FF15_04_a_2d.004",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "glad"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "glad",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15glad_demo_camp_talkoff",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15glad_demo_camp_idle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_dios_demo_camp_talk",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_dios_demo_camp_talkidle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "EQ_FF15_04_a_2d.005",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_dios_demo_camp_talkoff",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_dios_demo_camp_idle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 0.20000000298023224,
+                "y": -0.5,
+                "z": -3.0
+            },
+            "TargetRotation": 200.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "igni",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15igni_demo_camp_talk",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15igni_demo_camp_talkidle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "igni",
+            "UnitID": "UN_V2_FF15_IGNIS",
+            "TextID": "EQ_FF15_04_a_2d.006",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "noct",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15noct_demo_camp_talk",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15noct_demo_camp_talkidle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "noct",
+            "UnitID": "UN_V2_FF15_NOCTIS",
+            "TextID": "EQ_FF15_04_a_2d.007",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "noct",
+            "UnitID": "UN_V2_FF15_NOCTIS",
+            "TextID": "EQ_FF15_04_a_2d.008",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_dios_demo_camp_talk",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_dios_demo_camp_talkidle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "EQ_FF15_04_a_2d.009",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "noct",
+            "UnitID": "UN_V2_FF15_NOCTIS",
+            "TextID": "EQ_FF15_04_a_2d.010",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "noct",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15noct_demo_camp_talkoff",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15noct_demo_camp_idle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 0.20000000298023224,
+                "y": -0.5,
+                "z": -3.0
+            },
+            "TargetRotation": -180.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "igni",
+            "UnitID": "UN_V2_FF15_IGNIS",
+            "TextID": "EQ_FF15_04_a_2d.011",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "EQ_FF15_04_a_2d.012",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "glad",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15glad_demo_camp_talk",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15glad_demo_camp_talkidle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "glad",
+            "UnitID": "UN_V2_FF15_GLADIOLUS",
+            "TextID": "EQ_FF15_04_a_2d.013",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "igni",
+            "UnitID": "UN_V2_FF15_IGNIS",
+            "TextID": "EQ_FF15_04_a_2d.014",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "igni",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15igni_demo_camp_talkoff",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15igni_demo_camp_idle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_dios_demo_camp_talkoff",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_dios_demo_camp_idle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 0.20000000298023224,
+                "y": -0.5,
+                "z": -3.0
+            },
+            "TargetRotation": 160.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 0.5,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "prom",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15prom_demo_camp_talk",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15prom_demo_camp_talkidle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "prom",
+            "UnitID": "UN_V2_FF15_PROMPUTO",
+            "TextID": "EQ_FF15_04_a_2d.015",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "glad",
+            "UnitID": "UN_V2_FF15_GLADIOLUS",
+            "TextID": "EQ_FF15_04_a_2d.016",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "glad",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15glad_demo_camp_talkoff",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15glad_demo_camp_idle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "prom",
+            "UnitID": "UN_V2_FF15_PROMPUTO",
+            "TextID": "EQ_FF15_04_a_2d.017",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 0.20000000298023224,
+                "y": -0.5,
+                "z": -3.0
+            },
+            "TargetRotation": 179.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 0.5,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "noct",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15noct_demo_camp_talk",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15noct_demo_camp_talkidle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "noct",
+            "UnitID": "UN_V2_FF15_NOCTIS",
+            "TextID": "EQ_FF15_04_a_2d.018",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "noct",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15noct_demo_camp_talkoff",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15noct_demo_camp_idle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "EQ_FF15_04_a_2d.019",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 0.20000000298023224,
+                "y": -0.5,
+                "z": -3.0
+            },
+            "TargetRotation": 160.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 0.5,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "prom",
+            "UnitID": "UN_V2_FF15_PROMPUTO",
+            "TextID": "EQ_FF15_04_a_2d.020",
+            "Async": 0,
+            "Emotion": 1,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "glad",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15glad_demo_camp_talk",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15glad_demo_camp_talkidle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "glad",
+            "UnitID": "UN_V2_FF15_GLADIOLUS",
+            "TextID": "EQ_FF15_04_a_2d.021",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "prom",
+            "UnitID": "UN_V2_FF15_PROMPUTO",
+            "TextID": "EQ_FF15_04_a_2d.022",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "glad",
+            "UnitID": "UN_V2_FF15_GLADIOLUS",
+            "TextID": "EQ_FF15_04_a_2d.023",
+            "Async": 0,
+            "Emotion": 1,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 0.20000000298023224,
+                "y": -0.5,
+                "z": -3.0
+            },
+            "TargetRotation": 179.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "igni",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15igni_demo_camp_talk",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15igni_demo_camp_talkidle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "igni",
+            "UnitID": "UN_V2_FF15_IGNIS",
+            "TextID": "EQ_FF15_04_a_2d.024",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "prom",
+            "UnitID": "UN_V2_FF15_PROMPUTO",
+            "TextID": "EQ_FF15_04_a_2d.025",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_dios_demo_camp_talkoff",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_dios_demo_camp_idle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "igni",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15igni_demo_camp_talkoff",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15igni_demo_camp_idle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "prom",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15prom_demo_camp_talkoff",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15prom_demo_camp_idle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "glad",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15glad_demo_camp_talkoff",
+                    "Delay": 0.0,
+                    "Interp": 0.5,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 0
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_ff15glad_demo_camp_idle",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "EQ_FF15_04_a_2d.026",
+            "Async": 0,
+            "Emotion": 2,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 0.20000000298023224,
+                "y": 2.0,
+                "z": -3.0
+            },
+            "TargetRotation": 179.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 3.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 0,
+            "FadeTime": 3.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "stew_dios"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "spoon_dios"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "stew_glad"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "spoon_glad"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "stew_noct"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "spoon_noct"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "stew_igni"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "spoon_igni"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "spoon_prom"
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "spoon_prom"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "noct",
+            "mPoints": [
+                {
+                    "x": 4,
+                    "y": 4
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 4.5,
+                    "y": 0.0,
+                    "z": 4.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 0.0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "LockMotion": 0,
+            "LockRotationX": 0,
+            "LockRotationY": 0,
+            "LockRotationZ": 0,
+            "RunType": 0,
+            "RunSpeed": 4.0,
+            "RunTime": 4.0,
+            "m_AnimationName": "M_ff15_noct_unit_info_idle0",
+            "m_Loop": 1,
+            "m_AnimeType": 0,
+            "Path": 2
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "glad",
+            "mPoints": [
+                {
+                    "x": 5,
+                    "y": 4
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 5.5,
+                    "y": 0.0,
+                    "z": 4.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": -1.0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "LockMotion": 0,
+            "LockRotationX": 0,
+            "LockRotationY": 0,
+            "LockRotationZ": 0,
+            "RunType": 0,
+            "RunSpeed": 4.0,
+            "RunTime": 4.0,
+            "m_AnimationName": "M_ff15_glad_unit_info_idle0",
+            "m_Loop": 1,
+            "m_AnimeType": 0,
+            "Path": 2
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "igni",
+            "mPoints": [
+                {
+                    "x": 5,
+                    "y": 3
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 5.5,
+                    "y": 0.0,
+                    "z": 3.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 315.0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "LockMotion": 0,
+            "LockRotationX": 0,
+            "LockRotationY": 0,
+            "LockRotationZ": 0,
+            "RunType": 0,
+            "RunSpeed": 4.0,
+            "RunTime": 4.0,
+            "m_AnimationName": "M_ff15_ingi_unit_info_idle0",
+            "m_Loop": 1,
+            "m_AnimeType": 0,
+            "Path": 2
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "prom",
+            "mPoints": [
+                {
+                    "x": 4,
+                    "y": 3
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 4.5,
+                    "y": 0.0,
+                    "z": 3.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 0.0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "LockMotion": 0,
+            "LockRotationX": 0,
+            "LockRotationY": 0,
+            "LockRotationZ": 0,
+            "RunType": 0,
+            "RunSpeed": 4.0,
+            "RunTime": 4.0,
+            "m_AnimationName": "M_ff15_prom_unit_info_idle0",
+            "m_Loop": 1,
+            "m_AnimeType": 0,
+            "Path": 2
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "mPoints": [
+                {
+                    "x": 6,
+                    "y": 4
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 6.5,
+                    "y": 0.0,
+                    "z": 4.0
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 0,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 300.0,
+            "MoveSnap": 0,
+            "GroundSnap": 1,
+            "LockMotion": 0,
+            "LockRotationX": 0,
+            "LockRotationY": 0,
+            "LockRotationZ": 0,
+            "RunType": 0,
+            "RunSpeed": 4.0,
+            "RunTime": 4.0,
+            "m_AnimationName": "M_cmn_demo_talk_idle0",
+            "m_Loop": 1,
+            "m_AnimeType": 0,
+            "Path": 2
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "prom",
+            "LookAt": 1,
+            "LookAtID": "noct",
+            "LookAtPosition": {
+                "x": 5.5,
+                "y": 1.4999980926513672,
+                "z": 6.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.0,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "TargetID": "glad",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 5.5,
+                "y": 1.4999980926513672,
+                "z": 6.0
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.0,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 6.5,
+                "y": 2.0,
+                "z": 3.200000047683716
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.75,
+            "MoveTime": -1.0,
+            "Async": 0,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "MoveMode": 0,
+            "ActorID": "",
+            "StartTargetPosition": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "StartRotation": 0.0,
+            "StartCameraDistance": 0.0,
+            "StartCameraDistanceScale": 1.0,
+            "Speed": 0,
+            "TargetPosition": {
+                "x": 6.5,
+                "y": 2.0,
+                "z": 3.200000047683716
+            },
+            "TargetRotation": 45.0,
+            "CameraDistance": 0.0,
+            "CameraDistanceScale": 0.5,
+            "MoveTime": 3.0,
+            "Async": 1,
+            "SnapToGround": 0,
+            "FadeMode": 0,
+            "FadeTime": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "SceneID": "bg_02_areti_007",
+            "FadeIn": 1,
+            "WaitFadeIn": 1,
+            "FadeInTime": 3.0,
+            "SceneObject": [
+                {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                }
+            ]
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "0034"
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "noct",
+            "UnitID": "UN_V2_FF15_NOCTIS",
+            "TextID": "EQ_FF15_04_a_2d.027",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "prom",
+            "UnitID": "UN_V2_FF15_PROMPUTO",
+            "TextID": "EQ_FF15_04_a_2d.028",
+            "Async": 0,
+            "Emotion": 1,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "igni",
+            "UnitID": "UN_V2_FF15_IGNIS",
+            "TextID": "EQ_FF15_04_a_2d.029",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "dios",
+            "UnitID": "UN_EV_DIOS_AFTER",
+            "TextID": "EQ_FF15_04_a_2d.030",
+            "Async": 0,
+            "Emotion": 0,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "BGM": "1022"
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "glad",
+            "mPoints": [
+                {
+                    "x": 5,
+                    "y": 4
+                },
+                {
+                    "x": 5,
+                    "y": 5
+                }
+            ],
+            "m_WayPoints": [
+                {
+                    "x": 5.5,
+                    "y": 0.0,
+                    "z": 4.5
+                },
+                {
+                    "x": 5.5,
+                    "y": 0.0,
+                    "z": 5.5
+                }
+            ],
+            "Delay": 0.0,
+            "Async": 1,
+            "GotoRealPosition": 0,
+            "m_StartActorPos": 0,
+            "Angle": 0.0,
+            "MoveSnap": 1,
+            "GroundSnap": 1,
+            "LockMotion": 0,
+            "LockRotationX": 0,
+            "LockRotationY": 0,
+            "LockRotationZ": 0,
+            "RunType": 1,
+            "RunSpeed": 4.0,
+            "RunTime": 4.0,
+            "m_AnimationName": "M_ff15_glad_unit_info_idle0",
+            "m_Loop": 0,
+            "m_AnimeType": 0,
+            "Path": 2
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "glad",
+            "UnitID": "UN_V2_FF15_GLADIOLUS",
+            "TextID": "EQ_FF15_04_a_2d.031",
+            "Async": 0,
+            "Emotion": 3,
+            "CustomEmotion": "",
+            "Position": 8
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": ""
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ActorID": "igni",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15_ingi_idlefield0",
+                    "Delay": 0.0,
+                    "Interp": 0.30000001192092896,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 2
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "ActorID": "noct",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15_noct_idlefield0",
+                    "Delay": 0.0,
+                    "Interp": 0.30000001192092896,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 2
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "prom",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_ff15_prom_idlefield0",
+                    "Delay": 0.0,
+                    "Interp": 0.30000001192092896,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 2
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)(Clone)",
+            "Skip": 0,
+            "ActorID": "dios",
+            "Async": 1,
+            "AnimationDataArray": [
+                {
+                    "Type": 0,
+                    "Name": "M_logi_robe_swordshow",
+                    "Delay": 0.0,
+                    "Interp": 0.30000001192092896,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 0,
+                    "Path": 2
+                },
+                {
+                    "Type": 0,
+                    "Name": "M_cmn_demo_talk_idle0",
+                    "Delay": 0.0,
+                    "Interp": 0.10000000149011612,
+                    "ApplyRootBoneAtEnd": 0,
+                    "Loop": 1,
+                    "Path": 2
+                }
+            ]
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "Mode": 0,
+            "FadeOut": 1,
+            "Async": 1,
+            "FadeTime": 3.0,
+            "FadeColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "ExcludeUnits": [],
+            "IncludeUnits": []
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "TargetID": "noct",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 5.5,
+                "y": -2.9802322387695312e-08,
+                "z": 8.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "prom",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 5.5,
+                "y": -2.9802322387695312e-08,
+                "z": 8.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "igni",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 5.5,
+                "y": -2.9802322387695312e-08,
+                "z": 8.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 1,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "(Clone)(Clone)",
+            "Skip": 0,
+            "TargetID": "dios",
+            "LookAt": 0,
+            "LookAtID": "",
+            "LookAtPosition": {
+                "x": 5.5,
+                "y": -2.9802322387695312e-08,
+                "z": 8.5
+            },
+            "RotationMode": 0,
+            "Curve": 0,
+            "Time": 0.30000001192092896,
+            "Speed": 90.0,
+            "Async": 0,
+            "Rotate3D": 0,
+            "m_MoveSnap": 1,
+            "Reverse": 1,
+            "RotateX": 0.0,
+            "RotateY": 0.0,
+            "RotateZ": 0.0
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "WaitSeconds": 0.3700000047683716
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "ResourceID": "EventAssets/wpn_dios02",
+            "ObjectID": "wpn_dios",
+            "Persistent": 1,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotate_x": 0.0,
+            "Rotate_y": 0.0,
+            "Rotate_z": 0.0,
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "mousepos": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "m_Name": "",
+            "Skip": 0,
+            "Detach": 0,
+            "AttachmentID": "wpn_dios",
+            "TargetID": "dios",
+            "BoneName": "Bip001 Prop1"
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 2.630000114440918
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "BGM": ""
+        },
+        {
+            "m_Name": "(Clone)",
+            "Skip": 0,
+            "WaitSeconds": 1.5
+        }
+    ]
+}
