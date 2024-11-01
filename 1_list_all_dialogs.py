@@ -1,5 +1,7 @@
-import UnityPy
 import os
+import UnityPy
+from UnityPy.enums import FileType
+from UnityPy.helpers import ImportHelper
 
 asset_path = "DMM/tagatame/new_win32/"
 asset_list = "asset_list.csv"
